@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://okjuan.github.io/vbook/feed.xml" rel="self" type="application/atom+xml" /><link href="https://okjuan.github.io/vbook/" rel="alternate" type="text/html" /><updated>2024-01-06T20:03:42+00:00</updated><id>https://okjuan.github.io/vbook/feed.xml</id><title type="html">virtual book</title><entry><title type="html">Poor Things (2023)</title><link href="https://okjuan.github.io/vbook/poor-things" rel="alternate" type="text/html" title="Poor Things (2023)" /><published>2023-12-25T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/poor-things</id><content type="html" xml:base="https://okjuan.github.io/vbook/poor-things"><![CDATA[<p>One of my favorite movies of recent times.
+<!--more-->
+Funny, and full of social commentary with feminist overtones.
+Great acting from Emma Stone.
+Aesthetically glorious – playful cinematography; an incredible, unorthodox score; enthralling costume and set design.
+Subtly reminiscent of Wes Anderson in its dryly humorous dialogue, explicit chapter headings, and tableau-like sets.
+The movie’s use of expressionism – “art in which the image of reality is distorted in order to make it expressive of the artist’s inner feelings or ideas”, according to <a href="https://www.tate.org.uk/art/art-terms/e/expressionism#:~:text=Expressionism%20refers%20to%20art%20in,artist's%20inner%20feelings%20or%20ideas">this post</a> – is great because it conveys meaning subtly and makes the movie even more visually engaging.</p>
+
+<p>However, I don’t think this movie is perfect.
+For one, the crappy British accents are distracting.
+And I think the writing has some flaws.
+Like why should Max be in love with Bella, and in a healthy way, apparently?
+Also, I think the writing is sometimes a bit too direct or explicit about its message.
+Like when the evil lord says that he loves to amass property and Bella is just another piece of his estate.
+We didn’t need to be told, we could already sense it from his character and the context.
+For me, the story-telling spell breaks momentarily when I feel like the writers are trying to tell me something.
+It reminds me that I’m watching a fiction designed by storytellers.
+But I’m a bit picky about this.
+I had a similar problem with the writing in <a href="/vbook/barbarian">Barbarian</a>.</p>]]></content><author><name></name></author><category term="reviews" /><category term="movies" /><category term="writing" /><category term="story-telling" /><category term="feminism" /><summary type="html"><![CDATA[One of my favorite movies of recent times.]]></summary></entry><entry><title type="html">what I’m doing now</title><link href="https://okjuan.github.io/vbook/now-dec-24-2023" rel="alternate" type="text/html" title="what I’m doing now" /><published>2023-12-24T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/now</id><content type="html" xml:base="https://okjuan.github.io/vbook/now-dec-24-2023"><![CDATA[<p><strong>Muze Radio</strong>, Stephen King, <em>Poor Things</em>, and more.</p>
+
+<!--more-->
+
+<h3 id="life">Life</h3>
+
+<p>Finally filed Z’s green card papers.
+Phew!
+Now we wait.</p>
+
+<p>Whereas I was enjoying the fall, I’m not really enjoying the winter.
+Winters are so gray here, in the Pacific Northwest.
+It’s making Z and I fantasize about living in a place with sunnier winters.</p>
+
+<p>Visiting my mom and sisters in Victoria.
+Spending lots of time in my favorite coffee shops – <a href="https://heyhappycoffee.com/">Hey Happy</a>, <a href="https://www.saint-cecilia.ca/">St. Cecilia</a>, <a href="https://discoverycoffee.com/">Discovery Coffee</a>.
+We’re not staying for long, so I probably won’t see many of my friends.
+Our cousin is with us, visiting from Spain.</p>
+
+<p>Z and I have been socializing with friends and family a lot in the last couple weeks.
+Luckily, we both have a need for periodic “alone time”, a term I learned from her.
+We support each other in our routine quest for it.
+I’ve been realizing that I’m quite introverted.
+I think it’s taken me a long time to realize because of how social Mexican culture is.</p>
+
+<p>I think I lost another 4ish pounds, but I’m a bit skeptical of my vintage bathroom scale that I bought at Goodwill a few years ago.
+Can my weight really fluctuate 8lbs in 24hrs??
+Z googled it and apparently it’s possible.
+I confirmed by weighing myself on my mom’s bathroom scale (also vintage) while visiting Victoria.
+Apparently it’s true!
+I’ve lost ~17lbs since mid-June.
+At this rate of 2.8lbs per month, I’ll hit my goal weight by October 2024.</p>
+
+<p>I’ve had fewer chances to play soccer recently.
+Looking forward to playing in January.
+I went to the physio and got some exercises to address a recurring issue I have with my right hip/groin.
+I’m not diligent with the exercises though, never have been.
+I find it hard to keep to scheduled or pre-determined activities.</p>
+
+<h3 id="coding">Coding</h3>
+
+<p>I didn’t end up working on this site.
+I’m bad at adhering to plans, even my own.
+Instead I tend to follow <a href="/vbook/progress-without-planning">my impulses</a>.</p>
+
+<p>Instead of working on this site, I started a new project: a web app I called <strong>Muze Radio</strong>.
+It’s a new and improved version of <a href="https://github.com/okjuan/muze">Muze Player</a>, a web app I made in my last year of university (2018-2019).
+The code is <a href="https://github.com/okjuan/muze-radio">here</a> and the beta version of the app is available <a href="https://okjuan.me/muze-radio">here</a>.
+I started on the new version on a whim and ended up obsessed for several days.</p>
+
+<p>As my obsession gives way to a healthier interest, I am very happy to have published a functional version of the app.
+Ever since I read <a href="https://awilkinson.medium.com/skateboard-bike-car-6bec841ed96e">this article</a> in 2016, whenever I work on a project, I dutifully remind myself: if you want to build a car, build a skateboard first.
+Then a bike.
+Then a car.
+At the end of each stage of the development process, you should have something that is not only an improvement on the previous version but also useful by itself.
+This prevents wasted effort and enables incremental improvement.
+If I suddenly stop working on this app and return to it in a year or two, I will find a minimal, functional app.
+I could pick up where I left off without having to first fix a bunch of half-implemented features.
+If instead I returned to an ambitious but incomplete prototype, I’d be (rightfully) tempted to scrap it and start over instead of trying to salvage it.</p>
+
+<h3 id="reading">Reading</h3>
+
+<p>I ended up reading all of Stephen King’s <a href="/vbook/on-writing">On Writing: A Memoir of the Craft</a>.
+Really enjoyed it.
+Many of the recent posts on this site reference it.
+In his book, King was entertaining and insightful, but he struck me as somewhat narrow-minded in an interview he did with Charlie Rose.
+I understand that King was one of many blind to the brilliance of Kubrick’s adaptation of <em>The Shining</em>, but I was put off by King’s unwavering confidence in dismissing the film as a failure.</p>
+
+<p>I got curious about Stephen King’s fiction and started <em>The Green Mile</em>, which is supposed to be one of his best, but I lost interest.
+The audiobook’s cheesy narrator didn’t help.
+My impression is that King is a capable pop fiction writer, but not a literary standout.
+Maybe I’ll give <em>The Stand</em> or <em>The Shining</em> a try later on.</p>
+
+<p>I’ve been loving audiobooks on Spotify.
+I can’t believe my luck.
+I started listening to Bruce Springsteen’s memoir, but then thought of Mark Lanegan’s memoir, <a href="/vbook/sing-backwards-and-weep">Sing Backwards and Weep</a>, which is supposed to be great.
+I put that on instead and it gripped me instantly.
+It reminds me of <a href="/vbook/fear-and-loathing">Fear and Loathing in Las Vegas</a>, but is much bleaker and written in a conversational voice.
+More on this book forthcoming.</p>
+
+<p>A hundred pages into <a href="/vbook/infinite-jest">Infinite Jest</a>.
+We’ll see how far I get.
+Read up a bit on the cultural lore around this book.
+The New Yorker article <a href="https://www.newyorker.com/magazine/2018/11/05/how-to-read-infinite-jest">How to Read “Infinite Jest”</a> was one of the highlights.</p>
+
+<p>Continuing with Jane Jacobs’s <a href="https://www.goodreads.com/book/show/30833.The_Death_and_Life_of_Great_American_Cities">The Death and Life of Great American Cities</a>.
+Over two hundred pages in, still great.
+She’s not afraid to follow up her criticisms of orthodox city planning with concrete criteria for good city planning.
+She values concreteness and reality above almost all other things.
+She routinely and smartly derides “abstractions”.
+What matters are real people, real places, real events.</p>
+
+<p>Started <em>Bird By Bird</em> by Anne Lamott.
+Did not grab me.
+I suspect I’d have to push or skip through a bunch of content that I’m already familiar with to get to the new and thought-provoking stuff.
+This is to be expected, considering I’ve read a lot of <a href="/vbook/several-short-sentences">books</a> <a href="/vbook/wounds-of-passion">about</a> <a href="/vbook/draft-4">writing</a> <a href="/vbook/on-writing">recently</a>.
+I might listen to <em>Bird By Bird</em> some more, but I have a few other audiobooks waiting in my Spotify library:</p>
+<ul>
+  <li>Rick Rubin’s <em>The Creative Act: A Way of Being</em></li>
+  <li>Temple Grandin’s <em>Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions</em></li>
+  <li>Rose Hackman’s <em>Emotional Labor: The Invisible Work Shaping Our Lives and How to Claim Our Power</em></li>
+  <li>Peter Attia’s <em>Outlive: The Science and Art of Longevity</em></li>
+  <li>Bruce Springsteen’s <em>Born to Run</em></li>
+  <li>Maria Bamford’s <em>Sure, I’ll Join Your Cult: A Memoir of Mental Illness and the Quest to Belong Anywhere</em></li>
+</ul>
+
+<p>I saw Rick Rubin’s book displayed in a store window for $40 or something like that.
+It was a pretty book, but $40, really?
+I checked Spotify and sure enough the audiobook is included in Spotify premium.
+We should resist the invitation to view books as commodities.
+When you feel the impulse to buy a book, ask yourself:
+How excited would you be if the cover was ugly or stained or if the book was used but in fair condition?
+That is, do you want it for its substance or its aesthetic?</p>
+
+<h3 id="writing">Writing</h3>
+
+<p>I am happy to see, looking back at the past month, that I’ve written several small pieces:</p>
+
+<ul>
+  <li><a href="/vbook/chart-moods">how to chart moods</a></li>
+  <li><a href="/vbook/where-ideas-come-from">where do ideas come from?</a></li>
+  <li><a href="/vbook/where-ideas-come-from-2">where do ideas come from? #2</a></li>
+  <li><a href="/vbook/coordinate-metaphors-2">how to coordinate metaphors #2</a></li>
+</ul>
+
+<p>As I mentioned above, many of these reference Stephen King’s book <a href="/vbook/on-writing">On Writing</a>.
+I love letting my activities overlap like this.
+Let what I am reading feed into what I’m writing, what music I’m listening to, what movies and shows I’m watching, and vice versa.</p>
+
+<h3 id="tv">TV</h3>
+
+<p><em>How To with John Wilson</em>, season three.
+Didn’t realize this was the last season until I casually finished watching the last episode.</p>
+
+<p><em>The Last of Us</em>, season one.
+I loved the ending of the season, although it also broke my heart.
+Brave, truthful writing.
+(Regarding Joel, at least.
+It’s ludicrous that the other characters gave him the opportunity to do what he did, though.)</p>
+
+<p><em>Severance</em> and <em>Westworld</em>, both season one.
+Both have really interesting premises, but neither grabs my attention.
+The writing in <em>Westworld</em> feels a bit off-the-mark.
+And <em>Severance</em> is a bit slow-paced.</p>
+
+<h3 id="movies">Movies</h3>
+
+<p><em>Poor Things</em>, Yorgos Lanthimos’s new movie.
+One of my favorite movies of recent times.
+More thoughts <a href="/vbook/poor-things">here</a>.</p>
+
+<p><em>Promising Young Woman</em>.
+Second watch, this time with Z.
+She’s right that the movie is disappointing in its treatment of such a serious and important subject.
+It pulls every punch.
+Instead of rage and vengeance, we see wrist-slapping and finger-wagging.
+<em>Poor Things</em> promises much less and delivers much more feminist catharsis.</p>
+
+<p><em>Catch Me If You Can</em>.
+Turned it off.
+I’m realizing Spielberg is not my favorite.
+Maybe he’s like the Stephen King of movies.
+Several weeks ago I started watching <em>The Fablemans</em> on the plane and it felt a bit ridiculous, had to turn that off, too.</p>
+
+<hr />
+
+<h3 id="whats-next">What’s next?</h3>
+
+<p>Keep losing weight.
+Get back to playing soccer regularly.</p>
+
+<p>Go snowboarding with friends.
+Go on a weekend trip with Z to a hot springs resort.</p>
+
+<p>Keep reading, keep writing.</p>
+
+<p>Continue working on <strong>Muze Radio</strong>.
+Recruit my friend Isaac for help.
+Get my younger sister <a href="https://danigallegdup.github.io/">Dani</a> to design me a favicon.</p>
+
+<p>Spend time with friends.</p>
+
+<p>Get back into the groove of work after the holidays.</p>]]></content><author><name></name></author><category term="journal" /><category term="life" /><category term="books" /><category term="writing" /><category term="coding" /><category term="software" /><category term="movies" /><category term="tv-shows" /><summary type="html"><![CDATA[Muze Radio, Stephen King, Poor Things, and more.]]></summary></entry><entry><title type="html">Sing Backwards and Weep (2020)</title><link href="https://okjuan.github.io/vbook/sing-backwards-and-weep" rel="alternate" type="text/html" title="Sing Backwards and Weep (2020)" /><published>2023-12-23T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/sing-backwards-and-weep</id><content type="html" xml:base="https://okjuan.github.io/vbook/sing-backwards-and-weep"><![CDATA[<p>My second attempt to review a book while I read it instead of waiting until I finish it.
+<!--more--></p>
+
+<p>This book’s average Goodreads rating is 4.33, which is high.
+But 40 ratings (which amount to less than 1% of the total) gave it only one star out of five.
+Many of these folks complain that Lanegan portrays himself as an ultimate macho man, beating betas on his way to seducing any woman he pleases.
+To me this seems like a crude interpretation of Lanegan’s tone.
+I suppose these readers didn’t stick around until the end of chapter seven, where Lanegan gets explicit about his patheticness:</p>
+
+<blockquote>
+  <p>My only way to deal with what I deemed an attack (and I might deem anything an attack in those days) was to attack more aggressively in return. The level of hostility in my offensive depended on my level of fear. Fear of being caught, fear of having to tell the truth, fear of being exposed as the lying, cheating fraud I was. But it was the fear of showing my true heart, at times either so full it might burst or so empty I could cry, that hounded me most viciously.</p>
+
+  <p>There had been a perpetual war between myself and the costume of persona I’d donned as a youngster and then worn my entire life. Petrified that someone might discover who I really was: merely a child inside the body of an adult. A boy playacting as a man. My lifelong hard-ass exterior and, underneath that, ironclad interior were all an intricately constructed, carefully cultivated, and fiercely guarded sham. I was, in reality, driven by what I’d heard referred to in rehab all those years ago as “a thousand forms of fear.” Sadly, somewhere deep in my soul, I knew that was probably me.</p>
+</blockquote>]]></content><author><name></name></author><category term="reviews" /><category term="books" /><category term="memoir" /><category term="addiction" /><category term="violence" /><category term="music" /><category term="rock" /><category term="seattle" /><category term="washington" /><summary type="html"><![CDATA[My second attempt to review a book while I read it instead of waiting until I finish it.]]></summary></entry><entry><title type="html">how to coordinate metaphors #2</title><link href="https://okjuan.github.io/vbook/coordinate-metaphors-2" rel="alternate" type="text/html" title="how to coordinate metaphors #2" /><published>2023-12-12T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/coordinate-metaphors-2</id><content type="html" xml:base="https://okjuan.github.io/vbook/coordinate-metaphors-2"><![CDATA[<p>Here’s an example of coordinated metaphors, something I wish <a href="/vbook/coordinate-metaphors">other writers</a> used more often.
+<!--more-->
+It’s an excerpt from <a href="/vbook/work-2">how to work #2</a>, my essay about choosing your next activity based on your current energy level:</p>
+<blockquote>
+  <p>Adapting to the ebb and flow of your capacity makes you not only more efficient, but happier. <strong>Your efforts bear more fruit because you know when the moment is ripe, and you learn to savor small victories when nothing bigger is within reach.</strong></p>
+</blockquote>
+
+<p>In the second sentence, I try to create a single, fluid image in the reader’s mind by coordinating the metaphors <strong>bear more fruit</strong>, <strong>moment is ripe</strong>, <strong>savor small victories</strong>, and <strong>within reach</strong>.</p>
+
+<p>But, to be fair, I am biased.
+I wonder how many other readers enjoy it like I do, and whether any feel tension between the other images in the excerpt.
+Does <strong>ebb and flow</strong> in the first sentence clash with the fruit imagery in the second sentence?
+To coordinate the metaphors across the two sentences, I could replace <strong>ebb and flow</strong> with something about seasons, for example.
+But that might shift the reader’s attention too far from <em>what</em> is said to <em>how</em> it’s said.
+The second sentence alone risks this by including <em>too many</em> coordinated metaphors, but stays in bounds by not forcing or contriving them.</p>
+
+<p>The goal is not to say to the reader, <em>hey, you see how clever I am?</em> but instead to put satisfying images in their head, preferably without them thinking too much about how they got there.</p>
+
+<p>I think <strong>ebb and flow</strong>, as another image from nature, complements the fruit imagery.
+This works especially because the third sentence in the paragraph also contains natural images:</p>
+
+<blockquote>
+  <p>Adapting to the ebb and flow of your capacity makes you not only more efficient, but happier. Your efforts bear more fruit because you know when the moment is ripe, and you learn to savor small victories when nothing bigger is within reach. <strong>Gone is the guilt of “being lazy” when your energy dips because you know it’s just a phase in a cycle, a valley in a range of peaks.</strong></p>
+</blockquote>
+
+<p>These images coordinate not only between themselves but also with a key idea of the essay: there is peace in respecting and abiding by rules of nature.</p>
+
+<p>But, again, I may be at odds with potential readers of <a href="/vbook/work-2">how to work #2</a>.
+I suppose the feeling comes also from the literal images of nature I included in the original version I posted <a href="https://okjuan.medium.com/is-this-working-2-4343dc4594eb">on Medium</a>.</p>]]></content><author><name></name></author><category term="essays" /><category term="imagery" /><category term="cohesiveness" /><category term="writing" /><summary type="html"><![CDATA[Here’s an example of coordinated metaphors, something I wish other writers used more often.]]></summary></entry><entry><title type="html">Stephen King’s writing advice</title><link href="https://okjuan.github.io/vbook/writing-advice" rel="alternate" type="text/html" title="Stephen King’s writing advice" /><published>2023-12-09T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/king-writing-advice</id><content type="html" xml:base="https://okjuan.github.io/vbook/writing-advice"><![CDATA[<p>King’s advice is mostly for fiction, but some of it applies to non-fiction, too.
+<!--more--></p>
+
+<h3 id="big-picture">big picture</h3>
+
+<p>Read a lot.
+Four hours per day.
+Take one day off per week, if you must.</p>
+
+<p>Write a lot.
+The same number of pages every day.
+Don’t stop until you’re done, even on slow days.</p>
+
+<h3 id="technical-stuff">technical stuff</h3>
+
+<p>Don’t describe too much.
+Depict a scene with a few, vivid details.
+Let the reader’s imagination dictate what characters look like.
+Let context tell the reader how characters are acting.
+Avoid adverbs like the plague.</p>
+
+<p>Use simple verbs.
+Use “said” for dialogue attribution.</p>
+
+<p>Work hard on your dialogue.
+Make it as true as possible.</p>
+
+<p>Learn grammar.
+Grow your vocabulary.</p>
+
+<h3 id="writing-process">writing process</h3>
+
+<p>Don’t come up with the plot of your story, <a href="/vbook/on-writing">discover it</a>.
+Start with an interesting situation.
+Put your character in it and see how they react.</p>
+
+<p>After you finish your first draft, put it away.
+Work on other things for some time.
+Resist the temptation to go back and see if that inspired passage really is brilliant.
+Or if that other chunk needs work.
+Wait.</p>
+
+<p>This is a fertile time to work on something else, a short story, an article, something unrelated.</p>
+
+<p>After a few weeks, when you’re ready to write a second draft, take the first draft out of the drawer.
+Wielding a pen and the critical distance you developed by waiting, go to work.
+Read the whole thing in the fewest possible sessions, marking the draft with notes of the things that must change.</p>
+
+<p>The whole process should take three or four drafts.
+The final one should be more compact, not longer than the first one.</p>
+
+<p>Write for your Ideal Reader: a single person (or persona), whose tastes you aim to please.
+Get feedback on your draft from a few, trusted people.
+Listen to them, but also listen to your gut.</p>]]></content><author><name></name></author><category term="notes" /><category term="writing" /><summary type="html"><![CDATA[King’s advice is mostly for fiction, but some of it applies to non-fiction, too.]]></summary></entry><entry><title type="html">On Writing (2000)</title><link href="https://okjuan.github.io/vbook/on-writing" rel="alternate" type="text/html" title="On Writing (2000)" /><published>2023-12-09T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/on-writing</id><content type="html" xml:base="https://okjuan.github.io/vbook/on-writing"><![CDATA[<p>Half memoir, half advice for aspiring fiction writers.
+Both good.
+<!--more--></p>
+
+<p>I enjoy and mostly trust his <a href="/vbook/writing-advice">writing advice</a>.</p>
+
+<p>This is yet <a href="/vbook/possibilities">another</a> book that should be made <a href="/vbook/virtual-book">virtual</a>.</p>
+
+<p>It consists of three distinct parts: a memoir of King’s life; advice for fiction writers; and a vignette about King’s near-death experience.
+(Really, it consists of two different types of writing: memoir and practical advice.)
+King claims that he included the memoir to contextualize his fiction, but I don’t buy it.
+I suspect he set out to write this book without a coherent vision for it.
+In fact, that’s how he usually writes!</p>
+
+<p>I am glad he wrote all three parts.
+And they don’t go terribly together.
+But they’d go better with many other things, too, including things written by other people.</p>
+
+<p>The simplest way to make this book virtual is to publish it digitally as three separate pieces that readers can choose to consume as they see fit.
+This is already an improvement.
+Aspiring writers could jump directly to the second piece – the one that <em>is</em> actually King’s thoughts “on writing” – and King’s fans could hear about their beloved author’s background and personal life without having to hear his opinions on grammar and diction.</p>
+
+<p>Each of the three pieces could be divided into smaller chunks.
+The piece about writing, for example, could be broken down into King’s thoughts on dialogue, his thoughts on grammar, on character depiction, plot design, etc.
+The book is already organized into chapters, but they cannot be consumed independently of the book.
+If the chapters were designed to exist independently, they could be easily linked to by other works: books, articles, websites, videos, etc.
+King’s book would be only one of many pieces that contained his memoirs and his thoughts on writing.</p>]]></content><author><name></name></author><category term="reviews" /><category term="books" /><category term="memoir" /><category term="nonfiction" /><category term="writing" /><summary type="html"><![CDATA[Half memoir, half advice for aspiring fiction writers. Both good.]]></summary></entry><entry><title type="html">where do ideas come from? #2</title><link href="https://okjuan.github.io/vbook/where-ideas-come-from-2" rel="alternate" type="text/html" title="where do ideas come from? #2" /><published>2023-12-05T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/where-ideas-come-from-2</id><content type="html" xml:base="https://okjuan.github.io/vbook/where-ideas-come-from-2"><![CDATA[<blockquote>
+  <p>There was this little voice whispering to me that the book was really good, and if I didn’t finish, I would regret it forever.
+<!--more--></p>
+</blockquote>
+
+<p>In his book <a href="/vbook/on-writing">On Writing</a>, Stephen King recounts how he broke through the writer’s block he encountered 500 pages into writing his book <em>The Stand</em>:</p>
+
+<blockquote>
+  <p>I started taking long walks…looking at the same old trees and the same old chattering ill-natured jays and squirrels. Boredom can be a very good thing for someone in a creative jam. I spent those walks being bored and thinking about my gigantic boondoggle of a manuscript. For weeks, I got exactly nowhere in my thinking. It all just seemed too hard, too fucking complex. I had run out too many plot lines and they were in danger of becoming snarled… I circled the problem again and again, beat my fists on it, knocked my head against it. And then, one day when I was thinking of  nothing much at all, the answer came to me. It arrived whole and complete, gift-wrapped, you could say, in a single bright flash. I ran home and jotted it down on paper…I was terrified of forgetting.</p>
+</blockquote>
+
+<p>Fellow American novelist Cormac McCarthy and many other creatives tell <a href="/vbook/think-invisibly">similar anecdotes</a> of receiving a solution to a conundrum from an invisible source inside their mind.
+Consistently, the conundrum was something the person had been mulling over in their conscious mind before their subsconscious found the solution.
+Tech entrepreneur Paul Graham talks about the importance of keeping the right conundrum at the <a href="http://www.paulgraham.com/top.html">top of your mind</a>.</p>]]></content><author><name></name></author><category term="notes" /><category term="writing" /><category term="subconscious" /><category term="creativity" /><category term="problem-solving" /><summary type="html"><![CDATA[There was this little voice whispering to me that the book was really good, and if I didn’t finish, I would regret it forever.]]></summary></entry><entry><title type="html">where do ideas come from?</title><link href="https://okjuan.github.io/vbook/where-ideas-come-from" rel="alternate" type="text/html" title="where do ideas come from?" /><published>2023-12-01T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/where-ideas-come-from</id><content type="html" xml:base="https://okjuan.github.io/vbook/where-ideas-come-from"><![CDATA[<p>Don’t come up with the plot of your story, <a href="/vbook/on-writing">says Stephen King</a>.
+<!--more--></p>
+
+<blockquote>
+  <p>Plotting and the spontaneity of real creation aren’t compatible.</p>
+</blockquote>
+
+<p>The plot isn’t yours to invent.
+It’s yours to discover:</p>
+
+<blockquote>
+  <p>My basic belief about the making of stories is that they pretty much make themselves. The job of the writer is to give them a place to grow, and to transcribe them of course…I believe stories are found things, like fossils in the ground…Stories are relics, part of an undiscovered, pre-existing world. The writer’s job is to use [their] tools…to get as much of each one out of the ground intact as possible.</p>
+</blockquote>
+
+<p>Other prolific writers agree.
+David Lynch fishes his ideas out of the depths of his subconscious:</p>
+
+<blockquote>
+  <p>Ideas are like fish. You don’t make the fish, you catch the fish.</p>
+</blockquote>
+
+<p>Or in the words of <a href="https://www.santafe.edu/news-center/news/cormac-and-sfi-abiding-friendship">Cormac McCarthy</a>:</p>
+
+<blockquote>
+  <p>Writing is like taking dictation.</p>
+</blockquote>
+
+<p>On this topic, Karl Pilkington echoes both McCarthy and King:</p>
+
+<blockquote>
+  <p>If you just talk, I find that your mouth…comes out with stuff.</p>
+
+  <p>If you sit there and try and use your brain to do it, it doesn’t work the same. Just – just keep talking, just keep your – keep your – keep your mouth talking…and eventually, it will come out with something pretty good.</p>
+</blockquote>
+
+<p>If what these accomplished men say is true and we don’t come up with our own ideas… <a href="/vbook/think-invisibly">who does?</a></p>]]></content><author><name></name></author><category term="notes" /><category term="writing" /><category term="subconscious" /><category term="creativity" /><summary type="html"><![CDATA[Don’t come up with the plot of your story, says Stephen King.]]></summary></entry><entry><title type="html">how to chart moods</title><link href="https://okjuan.github.io/vbook/chart-moods" rel="alternate" type="text/html" title="how to chart moods" /><published>2023-11-30T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/chart-moods</id><content type="html" xml:base="https://okjuan.github.io/vbook/chart-moods"><![CDATA[<p>Learning to pick between <a href="/vbook/work"><em>productive</em> and <em>absorptive</em></a> activities based on my current mood and energy level has helped me notice, for example, when I should try to write instead of reading.
+<!--more--></p>
+
+<p>← productive                                                                                                                                 absorptive →</p>
+
+<hr />
+
+<p>It occurred to me recently that there are many other dimensions to consider when picking an activity.
+An obvious distinction is <em>active</em> vs <em>passive</em> activities.
+It is similar to <em>productive</em> vs <em>absorptive</em>, but it’s possible to be absorptive both actively (e.g. reading) and passively (e.g. watching, listening).</p>
+
+<p>← active                                                                                                                                               passive →</p>
+
+<hr />
+
+<p>Are you in a mood to expend energy or do you need to refuel?
+The same answer will have different implications for different people.
+For introverted people, having “expensive” capacity at a given moment offers an opportunity to socialize.</p>
+
+<p>← expensive                                                                                                                               regenerative →</p>
+
+<hr />
+
+<p>After determining that you want to watch a movie – a fine choice when one is feeling passive-absorptive-regenerative – you can figure out whether you want to do your passive absorbing alone or with other people.</p>
+
+<p>← individual                                                                                                                                             social →</p>
+
+<hr />
+
+<p>While going through this exercise, you don’t have to pick a point on each spectrum.
+I think it’s unlikely you’ll have answers for all.
+(Ah yes, I’m feeling productive-active-social-regenerative, that’s the word I was looking for!)
+But with every choice, you filter down many possible activities into the ones best suited to your current mood.</p>
+
+<p>Are you in a social-regenerative mood?
+Meet with friends to do something that nourishes you.
+Or are you feeling social-expensive?
+Do something that you’re not easily motivated to do but that your loved ones want to do with you.</p>
+
+<p>I always try to choose activities based on how I’m feeling so I can evade the taxing experience of forcing myself to do something through willpower alone.
+But you can’t always wait for the right mood to come.
+In life, you have to do some planning, and you can do that better if you learn how your moods and energy levels fluctuate.</p>
+
+<p>Notice which activities are expensive for you.
+Make time after those for your regenerative activites.
+Whether you’re more introverted or extroverted, take note of how often you need social interaction to keep a healthy balance.
+Whether you’re a morning person or a night owl, dedicate your expensive mood to <a href="/vbook/work-2">meaningful, important work</a>.
+If producing is important to you, dedicate time to absorbing as well.
+As Stephen King writes in his book <em>On Writing: A Memoir of the Craft</em>:</p>
+<blockquote>
+  <p>Reading is the creative center of a writer’s life.</p>
+</blockquote>]]></content><author><name></name></author><category term="essays" /><category term="moods" /><category term="time-management" /><category term="energy" /><summary type="html"><![CDATA[Learning to pick between productive and absorptive activities based on my current mood and energy level has helped me notice, for example, when I should try to write instead of reading.]]></summary></entry><entry><title type="html">what are the best IPAs in the PNW?</title><link href="https://okjuan.github.io/vbook/best-IPAs" rel="alternate" type="text/html" title="what are the best IPAs in the PNW?" /><published>2023-11-30T00:00:00+00:00</published><updated>2024-01-06T20:02:49+00:00</updated><id>https://okjuan.github.io/vbook/good-pnw-beer</id><content type="html" xml:base="https://okjuan.github.io/vbook/best-IPAs"><![CDATA[<p>I love IPAs, and I’ve had a lot of them, mostly in the Pacific Northwest. These are my few favorites.
+<!--more--></p>
+
+<h3 id="lush-ipa-fremont-brewing-seattle-wa">Lush IPA, Fremont Brewing, Seattle, WA</h3>
+
+<p>I first had this one at an outdoor concert at Marymoor Park in Redmond, WA.</p>
+
+<p>From <a href="https://www.fremontbrewing.com/lush-ipa">Fremont Brewing’s website</a>:</p>
+
+<blockquote>
+  <p>We bring this tropical treat to you as a gift from the Pacific Northwest. Lush is brewed with a hand-selected blend of malts and lush, tropical hops reminiscent of lime, mango, and guava…<strong>Because Beer Matters</strong>! “For a moment, nothing happened. Then, after a second or so, nothing continued to happen.” – Douglas Adams</p>
+
+  <p>Down &amp; Dirty: 2-Row Pale malt with Citra® and Mosaic® hops and Citra® Cryo.</p>
+
+  <p>ABV:  7.0%           IBU: 80</p>
+
+  <p>Color: Pale gold</p>
+
+  <p>Aroma: Tropical, melon, citrus, grassy</p>
+
+  <p>Flavor: Medium sweetness with moderate bitterness and a toasted biscuit backbone</p>
+</blockquote>
+
+<h3 id="wanderlust-ipa-breakside-brewery-portland-or">Wanderlust IPA, Breakside Brewery, Portland, OR</h3>
+
+<p>From <a href="https://breakside.com/our_beer/wanderlust-ipa/">Breakside’s website</a>:</p>
+
+<blockquote>
+  <p>Golden IPA made with five different hops. Intense grapefruit and dank notes with a crisp finish. Bronze medal at the 2014 Great American Beer Festival!</p>
+</blockquote>
+
+<h3 id="minivannin-ipa-e9-brewing-tacoma-wa">Minivannin’ IPA, E9 Brewing, Tacoma, WA</h3>
+
+<p>I had this one at <a href="https://maps.app.goo.gl/67pPG7DdHg2VrAeX6">Summit Public House</a> in Seattle, which is a great place for craft beer.
+They often serve E9, which isn’t available in most other places in the city.</p>
+
+<h3 id="breakside-ipa-breakside-brewery-portland-or">Breakside IPA, Breakside Brewery, Portland, OR</h3>
+
+<p>From <a href="https://breakside.com/our_beer/breakside-ipa/">Breakside’s website</a>:</p>
+
+<blockquote>
+  <p>Breakside’s most popular offering is this beautifully clear India Pale Ale featuring the unique character of Citra and Chinook hops. This light copper beer has huge citrus and tropical fruit aromas, with hints of perfume and pine. Flavors like apricot, guava, and orange hit the tongue accompanied by a mild evergreen note. There’s just enough caramel sweetness to balance the hop flavors, but this is really a showcase for the beautiful varieties of hops grown in the Northwest.</p>
+</blockquote>
+
+<h3 id="new-slang-9-ipa-dageraad-burnaby-bc">New Slang 9 IPA, Dageraad, Burnaby, BC</h3>
+
+<p>I had this at <a href="https://maps.app.goo.gl/XnJBBSHzwEXNsDQo9">The Drake</a> in Victoria, BC, another great bar for craft beer.</p>
+
+<p>From <a href="https://dageraadbrewing.com/beers/new-slang-5/">Dageraad’s website</a>:</p>
+
+<blockquote>
+  <p>Alcohol by volume: 7.0%</p>
+
+  <p>Volume: 473 mL</p>
+
+  <p>Ingredients: Water, malted barley, malted wheat, sugar, hops, malted oats, rice, yeast</p>
+
+  <p>A new language of yeast-driven IPA is emerging and Dageraad wants to add to the vocabulary. These IPAs are driven by new strains of yeast that can transform odorless compounds in hops and grain into vividly fruity thiols, changing understated old world hops into fruit bombs.</p>
+
+  <p>For New Slang 5, we really wanted to dial in the thiols. By mash-hopping one batch, we allowed the thiolizing yeast to express more of the potent fruit notes before blending with a dry-hopped batch to add back in classic IPA hop character using Rakau, Vic Secret and Laurel hops. The result is a smooth, lightly juicy IPA with a fruit and floral nose backed by lush notes of melon and passionfruit and a mellow resin character.</p>
+</blockquote>
+
+<h3 id="cold-crash-cold-ipa-victoria-bc">Cold Crash Cold IPA, Victoria, BC</h3>
+
+<p>From <a href="https://www.category12beer.com/beer/cold-crash/">Category 12’s website</a>:</p>
+
+<blockquote>
+  <p>Cold Crash is an incredibly smooth and satisfying marriage of tropical fruit notes and light, bright malt. A cold fermentation provides a crisp lager-like finish, allowing us to showcase the aromas of Cryopop and Citra hops to shine through.</p>
+</blockquote>
+
+<p>I really like Category 12 beers, and this one’s my favorite so far.</p>
+
+<p>It turns out ‘Cold IPA’ is a particular type of IPA.
+According to <a href="https://www.firestonebeer.com/what-are-cold-ipas">Firestone Walker Brewing Company</a>:</p>
+<blockquote>
+  <p>A Cold IPA is an IPA that is brewed with lager yeasts at colder temperatures, creating a crisp, drinkable yet generously hopped India Pale Ale</p>
+</blockquote>]]></content><author><name></name></author><category term="notes" /><category term="seattle" /><category term="portland" /><category term="vancouver" /><category term="victoria" /><summary type="html"><![CDATA[I love IPAs, and I’ve had a lot of them, mostly in the Pacific Northwest. These are my few favorites.]]></summary></entry></feed>
