@@ -12,9 +12,9 @@ layout: base
 
   <!-- TODO: pull this out into a file in '_includes' to remove dup with theme_home -->
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign posts = paginator.posts | sort: 'modified_date' | reverse  %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.posts | sort: 'modified_date' | reverse  %}
   {% endif %}
 
 
