@@ -12,18 +12,28 @@ layout: base
 
   <!-- TODO: pull this out into a file in '_includes' to remove dup with theme_home -->
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign posts_newest_first = paginator.posts %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts_newest_first = site.posts %}
   {% endif %}
 
+  <!-- site.data.posts_modified_dates[post.path] -->
+  {% assign posts_recently_modified_first = posts_newest_first | sort: 'modified_date' | reverse %}
 
-  {%- if posts.size > 0 -%}
+  {%- if posts_newest_first.size > 0 -%}
+
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
 
-    {%- include posts_list.html posts=posts -%}
+    <!-- hidden by default -->
+    <div class="posts-list" id="recently-modified-first" hidden >
+      {%- include posts_list.html posts=posts_recently_modified_first -%}
+    </div>
+
+    <div class="posts-list" id="newest-first">
+      {%- include posts_list.html posts=posts_newest_first -%}
+    </div>
 
     <!-- TODO: pull this out into a file in '_includes' to remove dup with theme_home -->
     {% if site.paginate %}
