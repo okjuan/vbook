@@ -1,0 +1,27 @@
+#!/bin/bash
+
+set -e
+
+# Get the current date in YYYY-MM-DD format
+current_date=$(date +%Y-%m-%d)
+
+# Find all staged + modified Markdown files
+for file in $(git diff --cached --name-only | grep '\.md$'); do
+  echo "Checking file: $file"
+  # Check if the file contains a 'modified_date' field
+  if grep -q 'modified_date:' "$file"; then
+    echo "Modifying existing modified_date to $current_date"
+    # Update the 'modified_date' to the current date
+    sed -i '' "s/modified_date: .*/modified_date: $current_date/" "$file"
+  else
+    echo "Error: Expected 'modified_date' property to exist in file $file" >&2
+    # Exit with a non-zero status to indicate an error
+    exit 1
+  fi
+
+  # Stage the file for commit
+  git add "$file"
+done
+
+# Exit successfully
+exit 0

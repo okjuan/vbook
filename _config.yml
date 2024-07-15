@@ -24,6 +24,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+exclude:
+  - README.md
+
 remote_theme: jekyll/minima
 minima:
   skin: solarized
