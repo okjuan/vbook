@@ -28,6 +28,15 @@ layout: base
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
 
+    <form>
+        <div class="radio-button-group">
+            <input type="radio" id="post-date" name="option" value="post-date" checked>
+            <label for="post-date">Post Date</label>
+            <input type="radio" id="modified-date" name="option" value="modified-date">
+            <label for="modified-date">Modified Date</label>
+        </div>
+    </form>
+
     <!-- hidden by default -->
     <div class="posts-list" id="recently-modified-first" hidden >
       {%- include posts_list.html posts=posts_recently_modified_first -%}
