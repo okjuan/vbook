@@ -3,11 +3,20 @@ module Redirects
       safe true
 
       def generate(site)
+        all_redirects = {}
         site.posts.docs.each do |post|
           if post.data['redirect_from']
             post.data['redirect_from'].each do |redirect|
               from_path = redirect
               to_path = "#{site.baseurl}#{post['permalink']}"
+              if all_redirects.key?(from_path)
+                error_message = <<~ERROR
+                    Duplicate redirect found: '#{from_path}'
+                    Can't redirect '#{from_path}' to '#{to_path}' because there is already a redirect from '#{from_path}' to '#{all_redirects[from_path]}'
+                ERROR
+                raise error_message
+              end
+              all_redirects[from_path] = to_path
               site.pages << RedirectPage.new(site, from_path, to_path)
             end
           end
