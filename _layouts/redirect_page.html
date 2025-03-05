@@ -1,0 +1,14 @@
+---
+layout: base
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  <head>
+    <meta http-equiv="refresh" content="0; url=/vbook/{{ page.to_path }}" />
+  </head>
+  <body>
+    <p>If you are not redirected automatically, follow this <a href='/vbook/{{ page.to_path }}'>link</a>.</p>
+  </body>
+</html>
