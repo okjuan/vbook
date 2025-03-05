@@ -3,14 +3,15 @@ module Redirects
       safe true
 
       def generate(site)
-        puts "\n\nProcessing redirects!"
-        site.data['redirects'].each do |redirect|
-          puts "Processing redirect: #{redirect['from_path']} => #{redirect['to_path']}"
-          # TODO: make sure this plugin runs at the end of the build, when all other posts and pages have been generated
-          # TODO: check if 'to' exists
-          site.pages << RedirectPage.new(site, redirect['from_path'], redirect['to_path'])
+        site.posts.docs.each do |post|
+          if post.data['redirect_from']
+            post.data['redirect_from'].each do |redirect|
+              from_path = redirect
+              to_path = "#{site.baseurl}#{post['permalink']}"
+              site.pages << RedirectPage.new(site, from_path, to_path)
+            end
+          end
         end
-        puts "Done processing redirects!\n\n"
       end
     end
 
