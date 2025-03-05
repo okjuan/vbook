@@ -25,6 +25,26 @@ layout: base
           &nbsp;(mod.&nbsp;<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">{{ mdate | date: date_format }}</time>)
         {%- endif -%}
       {%- endif -%}
+
+      {%- if page.in_post_series -%}
+        <span id="post-series-nav">
+          &nbsp;&#9670;&nbsp;&nbsp;
+          This is a series!
+          <!-- This is post #{{page.number_in_series}} of {{page.series_total}} in series <em>{{page.series_name}}</em>.
+          &nbsp;See
+          {% assign separator = ' ' %}
+          {%- if page.prev_post_in_series -%}
+            the <a href="{{site.baseurl}}{{page.prev_post_in_series.url}}">previous post</a>
+            {%- assign separator = ' or ' -%}
+          {%- endif -%}
+          {%- if page.next_post_in_series -%}
+            {{separator}}the <a href="{{site.baseurl}}{{page.next_post_in_series.url}}">next post</a>
+          {%- endif -%}
+          . -->
+        </span>
+      {%- endif -%}
+
+
       {%- if page.show_revisions -%}
         {% if page.final_version %}
           {% assign revision_count = page.revision_count %}
