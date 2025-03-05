@@ -279,6 +279,10 @@ em, i {
   width: auto;
 }
 
+.post-meta-tags, .backlinks {
+  font-size: $small-font-size;
+}
+
 .post-tag {
   margin: 0px 0px 5px 0px;
   white-space: nowrap;

@@ -85,7 +85,7 @@ layout: base
       {%- endif -%}
     </p>
 
-    <span>
+    <span class="post-meta-tags">
         {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
         <a href="/vbook/tags/{{ tag_name }}">#{{ tag_name }}</a>
@@ -94,7 +94,7 @@ layout: base
 
     {%- assign backlinks = page | backlink -%}
     {%- if backlinks -%}
-      &mdash; <span>{{ backlinks }}</span>
+      &mdash; <span class="backlinks">{{ backlinks }}</span>
     {%- endif -%}
 
   </header>
