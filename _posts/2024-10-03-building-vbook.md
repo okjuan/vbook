@@ -7,7 +7,7 @@ tags: journal coding design
 redirect_from: ['/building-vbook']
 ---
 
-I built two new features in the spirit of the **dynamic** attribute of {% vbook_post virtual books | 2023-08-11-virtual-book %}.
+In the spirit of making this site dynamic {% vbook_post like a virtual book | 2023-08-11-virtual-book %}, I added modified dates and revisions.
 <!--more-->
 
 Firstly, I added modified dates to all posts and a way to sort them by post date or modified date.
