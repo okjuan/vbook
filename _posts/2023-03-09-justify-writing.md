@@ -1,9 +1,10 @@
 ---
-modified_date: 2023-11-22
+modified_date: 2025-03-04
 layout: post
-title: how to justify writing
-permalink: /justify-writing
+title: why write?
+permalink: /why-write
 tags: essays mediums art writing
+redirect_from: ['/justify-writing']
 ---
 
 Writing [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360) forced me to ask: when _is_ writing the best medium?

@@ -1,9 +1,10 @@
 ---
-modified_date: 2025-01-12
+modified_date: 2025-03-04
 layout: post
-title: building vbook
-permalink: /building-vbook
+title: building this site
+permalink: /building-this-site
 tags: journal coding design
+redirect_from: ['/building-vbook']
 ---
 
 I built two new features in the spirit of the **dynamic** attribute of {% vbook_post virtual books | 2023-08-11-virtual-book %}.
