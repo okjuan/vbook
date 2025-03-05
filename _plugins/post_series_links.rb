@@ -14,10 +14,6 @@ module PostSeriesLinks
         # e.g. 'how to tell a story' => 1
         post_number = match_data[2] ? match_data[2].to_i : 1
 
-        if series_title != post.data['title']
-          puts "#{post.data['title']} => #{series_title}"
-        end
-
         if post_series.key?(series_title)
           if post_series[series_title].key?(post_number)
             error_message = <<~ERROR

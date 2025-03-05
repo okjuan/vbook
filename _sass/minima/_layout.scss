@@ -517,12 +517,12 @@ em, i {
   text-decoration: underline;
 }
 
-#revisions-nav {
+#post-series-nav, #revisions-nav {
   padding: 0px;
   color: $text-color;
 }
 
-#revisions-nav > a {
+#post-series-nav > a, #revisions-nav > a {
   cursor: pointer;
 }
 
