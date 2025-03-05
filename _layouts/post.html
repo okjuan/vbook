@@ -29,8 +29,7 @@ layout: base
       {%- if page.in_post_series -%}
         <span id="post-series-nav">
           &nbsp;&#9670;&nbsp;&nbsp;
-          This is a series!
-          <!-- This is post #{{page.number_in_series}} of {{page.series_total}} in series <em>{{page.series_name}}</em>.
+          This is post #{{page.number_in_series}} of {{page.series_total}} in series <em>{{page.series_name}}</em>.
           &nbsp;See
           {% assign separator = ' ' %}
           {%- if page.prev_post_in_series -%}
@@ -40,7 +39,7 @@ layout: base
           {%- if page.next_post_in_series -%}
             {{separator}}the <a href="{{site.baseurl}}{{page.next_post_in_series.url}}">next post</a>
           {%- endif -%}
-          . -->
+          .
         </span>
       {%- endif -%}
 
