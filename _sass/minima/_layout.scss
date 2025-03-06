@@ -231,8 +231,14 @@ em, i {
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding-bottom: $spacing-unit * 0.5;
+  padding-top: $spacing-unit * 0.5;
   flex: 1 0 auto;
+}
+
+.post {
+  padding-bottom: $spacing-unit * 0.5;
+  padding-top: $spacing-unit * 0.5;
 }
 
 .page-heading {
@@ -250,6 +256,11 @@ em, i {
   > li {
     margin-bottom: $spacing-unit;
   }
+}
+
+.post-list-wrapper {
+  padding-bottom: $spacing-unit * 0.5;
+  padding-top: $spacing-unit * 0.5;
 }
 
 .post-meta {
@@ -278,6 +289,10 @@ em, i {
 .post-title-link {
   display: inline;
   width: auto;
+}
+
+#tag-header {
+  margin: 0px;
 }
 
 .post-meta-tags, .backlinks {

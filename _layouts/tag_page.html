@@ -6,7 +6,7 @@ layout: base
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   <body>
-    <h1><a href="/vbook/tags/{{ page.tag }}">#{{page.tag}}</a></h1>
+    <h1 id="tag-header"><a href="/vbook/tags/{{ page.tag }}">#{{page.tag}}</a></h1>
     {%- include posts_list.html posts=page.linked_docs -%}
   </body>
 
