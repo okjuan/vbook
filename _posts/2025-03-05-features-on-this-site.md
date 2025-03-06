@@ -9,9 +9,10 @@ tags: notes coding design
 On the surface, this is an ordinary blog.
 <!--more-->
 For its techno-literary lean I might categorize it with the likes of [robinsloan.com](https://www.robinsloan.com/), [craigmod.com](https://craigmod.com/), [sive.rs](https://sive.rs), [jsomers.net](https://jsomers.net/), and [macwright.com](https://macwright.com/).
-My goal however is not just to publish my thoughts on similar subjects, but to promote {% vbook_post novel ways of reading and writing | 2023-08-11-virtual-book %} through the design of this site's structure and interface.
+My goal however is not just to publish my thoughts on similar subjects, but to promote {% vbook_post novel ways of reading and writing | 2023-08-11-virtual-book %}.
+I attempt to do this through the pieces I publish on this site and through the ways that this site allows a reader to interact with those pieces.
 
-Here are the custom features I've implemented so far:
+Here are the custom features I've built to allow readers to navigate and peruse what I've written:
 
 | features | motivation | date implemented |
 | -------- | ----- | ---------------- |
