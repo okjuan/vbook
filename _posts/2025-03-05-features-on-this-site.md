@@ -27,7 +27,7 @@ I use [GitHub Issues](https://github.com/okjuan/vbook/issues) to track problems 
 I started developing this site [in February 2023](https://github.com/okjuan/howto/commit/5713a2fd87c532192a76c67bed3d33bb2f9551c5).
 The fundamental unit of this site is a post.
 What you're reading right now is a post.
-I often call them "pieces", too.
+I often call them "pieces," too.
 I write each post as a [Markdown](https://en.wikipedia.org/wiki/Markdown) text file using a text editor, usually [VS Code](https://code.visualstudio.com/) and occasionally [vim](https://www.vim.org/).
 From those text files, [Jekyll](https://jekyllrb.com/) generates the site's HTML and CSS using the [Minima](https://github.com/jekyll/minima) layout theme and the [Solarized](https://en.wikipedia.org/wiki/Solarized) color palette.
 I have tweaked fonts, spacing, and other UI details by modifying the `_sass/minima/_layout.scss` file.
