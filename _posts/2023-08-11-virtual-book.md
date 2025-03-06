@@ -1,5 +1,5 @@
 ---
-modified_date: 2023-11-15
+modified_date: 2025-03-06
 layout: post
 title: what is a virtual book?
 note: "Dedicated to <a href='https://en.wikipedia.org/wiki/Aaron_Swartz'>Aaron Swartz</a>."
@@ -10,9 +10,8 @@ tags: notes writing mediums
 I wrote an essay called [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360) but I never defined the term.
 <!--more-->
 By virtual book I mean a book unbound by the traditional and physical constraints of printed books.
-I say 'virtual' because the greatest possibilities I see are in the virtual world of computers.
-Ebooks and audiobooks are just the beginning.
-The possibilities that excite me challenge not only the physicality of books but also their more subtle attributes.
+Even though I think the greatest possibilities await in the virtual world of computers, I don't think virtual books need to be digital.
+The possibilities that excite me challenge not only the physicality of books but also their intangible attributes.
 
 A virtual book can be **multimedia**.
 It can consist of words, images, video, audio.
