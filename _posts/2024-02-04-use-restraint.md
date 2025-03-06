@@ -1,16 +1,17 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2025-03-06
 layout: post
 title: "how to use restraint"
 permalink: /use-restraint
 tags: essays writing mediums audio psychology hemingway
 ---
 
-Even though Spotify categorizes it as a podcast, [_Random Tape_](https://open.spotify.com/show/6YZiV6je3CH8KWk1TcO8tL?si=306eaafdfacf4135) is something else.
+Sometimes, audio is the superior medium.
 <!--more-->
-It's a collection of audio recordings that don't have much to do with each other apart from having fallen into the hands of David Weinberg.
-They're strangely engaging.
-I haven't listened to the show in a while but I cherish it as a testament to the power of pure audio as a medium.
+It's easy to forget this because audio is often just a supplement or secondary alternative to video.
+The audio show [_Random Tape_](https://open.spotify.com/show/6YZiV6je3CH8KWk1TcO8tL?si=306eaafdfacf4135) is a good reminder.
+It's a collection of audio recordings that don't have much to do with each other than having all fallen into the hands of David Weinberg.
+I cherish it as a testament to the power of pure audio as a medium.
 
 <div id="use-restraint-iframes">
     <iframe src="https://open.spotify.com/embed/episode/5VRm0WCkq5jyZKAJwQ2Ak7?utm_source=generator&theme=0" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -29,9 +30,13 @@ In it you can hear only our voices and the sound of the beach.
     </audio>
 </div>
 
-I stripped the audio from the video and kept that instead, reducing its size 100 times.
+So I lifted the audio and scrapped the video, reducing the file's size 100 times.
 Inspired, I tried the same for a video I took that same trip of a live band at River Cafe, where we had dinner.
-The result was not only much cheaper to store but also more evocative.
+I expected it to be a good compromise.
+No footage, but an audio recording and a much smaller file.
+But then I listened to it as an audio file and realized that I liked it _better_ as pure sound.
+It wasn't a compromise.
+It was an improvement.
 
 <div class="audio-container">
     <audio controls>
@@ -40,18 +45,25 @@ The result was not only much cheaper to store but also more evocative.
     </audio>
 </div>
 
-Audio is not just a good alternative to video when storage is scarce, it is, sometimes, a superior medium.
-Sure, we've all heard it, Less is More -- but how so?
-Because excessive information is noise?
-But how much, or which, information is excessive?
+Indeed, part of my satisfaction was in finding an efficient way to conserve the memory without paying for cloud storage.
+But I think the audio version _is_ better because it omits sensory details – visual, in this case – that would've otherwise made the moment seem more ordinary.
+By making it difficult to know exactly what is going on in the scene, by slightly disorienting the listener, and by forcing them to sharpen their focus on the limited source of sensory information, the audio version heightens the feeling of transported to a particular place and time.
 
-Locating the line via some analytical calculation seems an intractable task.
-And though I think there is likely an objective explanation -- be it psychological, neurological, cognitive, or of some other kind -- I'd sooner look to the intuition of artists to answer this question.
-Even if they can't tell us where the line between sufficiency and excess is, they can help us develop a _feel_ for where we are in relation to it.
+The art of creating secondhand experiences depends on omission of details like it does on their inclusion.
+A good writer, a good storyteller, a good filmmaker, good artists of all kinds withhold things from us so that we lean in closer, listen more carefully, read between the lines.
+An artist's greatest resource is not words, images, sound, or any of the elements of their craft.
+Their greatest resource is the human body, the magnificent biochemical machine wherein all experience real or artifical takes place.
+Artists use their own to intuit what stimulus and how much of it will evoke something in their audience's brains and bodies.
+While the means and effects of this process remain mysteries they will remain in the domain of art.
 
-Hemingway is a remarkable example.
-The restraint in his writing is so strong that it is sometimes radical.
-He wrote with a plainness that risks boring the reader but often succeeds at stirring their curiosity and drawing them in.
-This is intentional.
-Hemingway makes more from less by leaving plenty of space for the reader's imagination to fill in details from their personal bank of sensory images.
-If the writer {% vbook_post provides too much | 2021-01-10-make.instead.of.describing %}, they block the reader's unique contribution.
+The richness of experience that restrained writing can create is arresting.
+Hemingway is a radical example.
+His writing is so plain and unadorned that it risks providing too little.
+In his memoir _A Moveable Feast_, he tells of "good" wines, "good" cafes, and "very good" novels.
+Isn't his job as a writer to unpack what it is that makes things good?
+
+A writer creates meaning in collaboration with the reader by directing their attention.
+They curate bits of experience and bring them into sensory focus so that the reader notices them and their effects on their mind and body.
+Insufficent information renders a blurry image, but so does excess.
+Making art is in part an act of calibration.
+The writer's job isn't to explain experience, but to {% vbook_post cause it | 2021-01-10-make.instead.of.describing %}.
