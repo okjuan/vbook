@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2025-03-08
 layout: post
 title: how to live in the moment
 permalink: /live-in-the-moment
@@ -17,5 +17,5 @@ To this cliche {% vbook_post Oliver Burkeman | 2023-03-17-four-thousand-weeks %}
 You will never make the most of your time.
 It is painfully short and any bid for optimal use of it is doomed.
 Suddenly the original cliche is not about changing your attitude but about accepting that you get what you get.
-The task is not about settling, but about admitting defeat.
+The task is not to settle, but to admit defeat.
 Time rules you and the freest you can get is by giving up the fight.
