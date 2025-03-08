@@ -72,7 +72,9 @@ module Revision
       post.data['revision_count'] = revision_count
       post.data['final_version'] = true
       post.data['prev_rev'] = previous_revision
-      previous_revision.data['next_rev'] = post
+      if previous_revision
+        previous_revision.data['next_rev'] = post
+      end
     end
 
     def get_word_diff(file_path, commit1, commit2)
