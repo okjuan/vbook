@@ -51,21 +51,15 @@ But I think the audio version _is_ better because it omits sensory details – v
 By making it difficult to know exactly what is going on in the scene, by slightly disorienting the listener, and by forcing them to sharpen their focus on the limited source of sensory information, the audio version heightens the feeling of being transported to a particular place and time.
 Feeling around to get a grip on what's going on, you find yourself pulled in.
 
-The art of {% vbook_post creating secondhand experiences | 2022-06-11-tell-a-story %} depends on the omission of details just like it does on their inclusion.
+A writer creates meaning in collaboration with the reader by manipulating their attention.
+They curate bits of experience and bring them into sensory focus for the reader to notice and experience.
+The literary writer's job isn't to explain experience, but to {% vbook_post simulate it | 2021-01-10-make.instead.of.describing %} and thereby provoke the reader to reckon from it their own understanding.
+
+Making art is in part an act of calibration.
+Creating {% vbook_post secondhand experiences | 2022-06-11-tell-a-story %} depends on the omission of details just like it does on their inclusion.
 A good writer, a good storyteller, a good filmmaker, good artists of all kinds withhold things from us so that we lean in closer, listen more carefully, read between the lines.
 An artist's greatest resource is not words, images, sound, or any of the elements of their craft.
 Their greatest resource is the human body, the magnificent biochemical machine wherein all experience real or artifical takes place.
 Artists use their own to intuit what stimulus and how much of it will evoke something in their audience's brains and bodies.
-And as long as the means and effects of this process cannot be disentangled by clinical observation and deductive reasoning alone, they remain in the domain of art, under the purview of intuition and informal experimentation.
-
-The richness of experience that restrained writing can create is arresting.
-Hemingway is a radical example.
-His writing is so plain and unadorned that it risks providing too little.
-In his memoir _A Moveable Feast_, he tells of "good" wines, "good" cafes, and "very good" novels.
-Isn't his job as a writer to unpack what it is that makes things good?
-
-A writer creates meaning in collaboration with the reader by directing their attention.
-They curate bits of experience and bring them into sensory focus so that the reader notices them and their effects on their mind and body.
 Insufficent information renders a blurry image, but so does excess.
-Making art is in part an act of calibration.
-The writer's job isn't to explain experience, but to {% vbook_post cause it | 2021-01-10-make.instead.of.describing %}.
+Clarity lies in between.
