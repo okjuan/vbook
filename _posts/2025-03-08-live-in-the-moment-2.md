@@ -7,7 +7,7 @@ tags: writing literature art life
 show_revisions: true
 ---
 
-If writing is selection, is literature curation?
+If writing is selection, is {% vbook_post literature like curation | 2024-02-04-use-restraint %}?
 <!--more-->
 This is easy to notice about storytelling.
 From an infinite stream of events and evergrowing crowds of people, the writer plucks out a chosen few to construct their narrative.
