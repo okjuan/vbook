@@ -3,7 +3,7 @@ modified_date: 2025-03-10
 layout: post
 title: concerts
 permalink: /concerts
-tags: logs journal music live-music
+tags: lists journal music live-music
 ---
 
 Log of concerts I've attended.
