@@ -32,6 +32,7 @@ module PostSeriesLinks
       end
 
       post_series.each do |series_title, posts|
+        next if posts.size == 1
         posts.each do |post_number, post|
           post.data['in_post_series'] = true
           post.data['number_in_series'] = post_number
