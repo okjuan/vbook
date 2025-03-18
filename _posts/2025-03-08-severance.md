@@ -13,8 +13,11 @@ But instead I feel like the writers are withholding information, stalling for ti
 My intrigue wanes into restlessness.
 
 The pace jolts into high gear at the end of season one, when the writers finally show their cards.
-All this time they have been sitting on highgrade, plotpromising bombshells so they could drop them to create a thrilling finale.
-But is this any way to tell a story?
+All this time they have been sitting on highgrade, plotpromising bombshells.
+And as the season finale approaches, it's finally time to drop them.
+Yes, what a thrill.
+But I don't feel so much shocked and swayed as I do manipulated.
+Is this any way to tell a story?
 Create a sudden climax and end it right there, with not even the beginnings of resolution?
 Why didn't the writers introduce the same ideas earlier in the season and develop them throughout?
 We all know the answer already.
