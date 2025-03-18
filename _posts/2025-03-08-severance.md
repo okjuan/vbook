@@ -31,7 +31,7 @@ I don't feel like a thrilling story is being recounted for my entertainment, I f
 _Please keep watching, we promise something interesting is coming soon._
 I'm sure there are people involved in making _Severance_ that want to make genuinely good TV but the overall effort seems to me more like hedging than striving.
 It's ironic when you consider that Lumon's closest analogue in the real world might in fact be Apple.
-There is the cultlike adulation of a heroic founder, the snaking corporate campus enshrouded in dark glass, the obnoxious secrecy, but the most meaningful similarity is the basic one.
+There is the cultlike adulation of a heroic founder, the snaking corporate campus enshrouded in dark glass, the obnoxious secrecy, and so on, but the most meaningful similarity is the basic one.
 They are gigantic tech corporations held aloft by myths of technotopian supremacy and driven by an everincreasing hunger for growth and expansion.
 (Also, Lumon sounds like Lemon.)
 
