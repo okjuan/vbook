@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-03-15
+modified_date: 2025-03-18
 layout: post
 title: why is Severance so slow?
 permalink: /severance
@@ -8,8 +8,8 @@ tags: reviews writing tv-shows story-telling
 
 The premise and the set are both interesting, but for so long I'm just waiting for something to happen.
 <!--more-->
-I want to feel like a mystery is unfolding before me, that each answer only raises more questions.
-But instead I mostly feel like the writers are withholding information, stalling for time.
+I want to feel like a mystery is unfolding before me, that the answer to each of my questions raises another even more fervently in need of addressing.
+But instead I feel like the writers are withholding information, stalling for time.
 My intrigue wanes into restlessness.
 
 The pace jolts into high gear at the end of season one, when the writers finally show their cards.
