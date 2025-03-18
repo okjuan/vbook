@@ -42,7 +42,7 @@ The tensions build until there comes a natural point when the deadlock breaks an
 Consequences ripple and trigger further action.
 There is no need to contrive plot.
 It flows out of confrontation between agents in the story.
-If nothing happens its because those moving the pieces don't know what they are doing.
+If nothing happens its because the people moving the pieces don't know what they are doing.
 Or they're holding back.
 
 The writers of _Severance_ might well know how to write a good story.
