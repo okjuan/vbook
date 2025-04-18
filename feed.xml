@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://okjuan.github.io/vbook/feed.xml" rel="self" type="application/atom+xml" /><link href="https://okjuan.github.io/vbook/" rel="alternate" type="text/html" /><updated>2025-04-18T22:12:58+00:00</updated><id>https://okjuan.github.io/vbook/feed.xml</id><title type="html">virtual book</title><entry><title type="html">ideas for this site</title><link href="https://okjuan.github.io/vbook/ideas-for-this" rel="alternate" type="text/html" title="ideas for this site" /><published>2025-03-10T00:00:00+00:00</published><updated>2025-03-10T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/ideas</id><content type="html" xml:base="https://okjuan.github.io/vbook/ideas-for-this"><![CDATA[<p>I am constantly thinking of things I could add to this site.
+Here are a few.
+<!--more--></p>
+
+<h3 id="lists">#lists</h3>
+
+<p>To <a href="/vbook/tags/essays">#essays</a>, <a href="/vbook/tags/notes">#notes</a>, <a href="/vbook/tags/journal">#journal</a>, <a href="/vbook/tags/reviews">#reviews</a>, and <a href="/vbook/tags/poems">#poems</a> I want to add #lists for posts like <a id="2024-02-25-concerts-log" class="internal-site-link" href="/vbook/concerts"><em>concerts</em></a>.
+Other ideas for lists include: my favorite albums, books I’ve read, trips I’ve taken, and even posts like this one, which is a list of things I want to add to this site.
+I could even automatically generate a list of posts in a series e.g. <em>what I’m doing now</em>, <em>what I’m doing now #2</em>, etc.</p>
+
+<p>Eventually I could create a list list.
+A list of all my lists.
+How pleasing.
+Humor aside, this pattern would actually create an interesting way to navigate the site’s contents while maintaining posts as the fundamental unit.
+It occurs to me that the master list of posts and the lists of posts tagged with a certain #tag could even be shown using this list pattern.
+But maybe that would be taking it too far.</p>
+
+<h3 id="support-for-referencing-a-section-of-a-post">support for referencing a section of a post</h3>
+
+<p>I want to support anchor links.
+That is, links that take you to a specific section of a post.
+The sophisticated version of this would allow me to embed snippets of one post in another.
+It could use the same visual element as a hoverbox preview of a post, which I <a id="2025-03-05-features-on-this-site" class="internal-site-link" href="/vbook/what-5">already support</a> for post links.
+This would be in the spirit of the <strong>non-monolithic</strong> attribute of <a id="2023-08-11-virtual-book" class="internal-site-link" href="/vbook/virtual-book">virtual books</a>.
+(In this paragraph alone there are multiple examples of cases where I could’ve added a link to section of a post instead of the entire post itself.)</p>
+
+<h3 id="other-ideas">other ideas</h3>
+
+<p>I also use <a href="https://github.com/okjuan/vbook/issues">GitHub Issues</a> to track problems and ideas.</p>]]></content><author><name></name></author><category term="lists" /><category term="notes" /><category term="software" /><category term="design" /><summary type="html"><![CDATA[I am constantly thinking of things I could add to this site. Here are a few.]]></summary></entry><entry><title type="html">The Dominant Animal (2019)</title><link href="https://okjuan.github.io/vbook/the-dominant-animal" rel="alternate" type="text/html" title="The Dominant Animal (2019)" /><published>2025-03-08T00:00:00+00:00</published><updated>2025-03-08T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/dominant-animal</id><content type="html" xml:base="https://okjuan.github.io/vbook/the-dominant-animal"><![CDATA[<p>This book seems to be mostly about abuse, often violent, inflicted by men against women.
+<!--more-->
+Its depictions are brief, detached, yet powerful.
+They speak from the victims’ perspectives in a tone that evokes quiet despair, adaptive dissociation, and steely resilience.
+Protagonists endure brutality and survive it at the cost of deep internal fragmentation.
+There seems to be no heartening message or moral of sort, just the observation that unchecked narcissism and cruelty abound in men of our world and that the victims however scarred and burdened they may be carry on as the version of themselves that remains alive.</p>
+
+<p>I suppose all of the above serves in no way as a useful recommendation.
+But I should say that not all stories in this book deal with brutality and abuse, and even those that do have more things than shock and sorrow to offer.
+Foremost is Scanlan’s unique yet accessible prose, which she assiduously pruned, tuned, and polished into remarkable little language contraptions.</p>
+
+<p>As described in the New Yorker:</p>
+<blockquote>
+  <p>In all her books, Scanlan writes about ordinary life in extraordinary ways by compacting it radically, like pressurizing carbon into diamonds.”</p>
+</blockquote>
+
+<p>Scanlan continued this practice in novel form with <a id="2022-11-27-kick-the-latch" class="internal-site-link" href="/vbook/kick-the-latch"><em>Kick the Latch</em></a>, which came out two years later in 2022.
+For me, she is one of the most exciting prose writers working today.</p>]]></content><author><name></name></author><category term="books" /><category term="literature" /><category term="feminism" /><category term="abuse" /><category term="violence" /><summary type="html"><![CDATA[This book seems to be mostly about abuse, often violent, inflicted by men against women.]]></summary></entry><entry><title type="html">how to live in the moment #2</title><link href="https://okjuan.github.io/vbook/live-in-the-moment-2" rel="alternate" type="text/html" title="how to live in the moment #2" /><published>2025-03-08T00:00:00+00:00</published><updated>2025-03-08T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/live-in-the-moment-2</id><content type="html" xml:base="https://okjuan.github.io/vbook/live-in-the-moment-2"><![CDATA[<p>If writing is selection, is <a id="2024-02-04-use-restraint" class="internal-site-link" href="/vbook/use-restraint">literature like curation</a>?
+<!--more-->
+This is easy to notice about storytelling.
+From an infinite stream of events and evergrowing crowds of people, the writer plucks out a chosen few to construct their narrative.
+But this is also true at the elemental level of words and sentences.
+Of all the action and detail available for depiction in a scene, the writer says very little.
+Good literature distills from life the beautiful and the resonant normally diluted in a sea of mundanity.</p>
+
+<p>Reading good books is practice in looking through this lens at your own life.
+Practice in noticing the beauty that hides in plain sight.
+Even more so if you try writing about it as well.
+You need nothing but experience of living and the words in your head.
+Cast your attention out into the world like a fishing line and wait until you notice something.
+A tug from the subconscious.
+Something stirring your curiosity.
+What is it?
+Is it the sunlight?
+The colors, the sound of the breeze?
+The oddly pleasing way the shapes arrange themselves?</p>
+
+<p>Art is a means for capturing these moments.
+Take a picture, draw the scene, put it in words.
+What you produce is an observation not of objective reality but of <a href="https://en.wikipedia.org/wiki/Qualia">subjective experience</a>.
+Like the jarring of a firefly, you’ve taken from the vastness a little treasure so that the magic of that moment might endure a little longer.
+Something for the future, for yourself and to share with others.
+But you’re also doing something now.
+You’re enjoying the act of living.</p>]]></content><author><name></name></author><category term="writing" /><category term="literature" /><category term="art" /><category term="life" /><summary type="html"><![CDATA[If writing is selection, is literature like curation?]]></summary></entry><entry><title type="html">what I’m doing now #10</title><link href="https://okjuan.github.io/vbook/now-mar-8-2025" rel="alternate" type="text/html" title="what I’m doing now #10" /><published>2025-03-08T00:00:00+00:00</published><updated>2025-03-08T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/now</id><content type="html" xml:base="https://okjuan.github.io/vbook/now-mar-8-2025"><![CDATA[<p>Thinking of sentences, reading <em>Pachinko</em> &amp; <em>The Dominant Animal</em>, watching <em>Severance</em> &amp; <em>The White Lotus</em>.
+<!--more--></p>
+
+<h3 id="thinking-of-sentences">thinking of sentences</h3>
+
+<p>Two years after <a id="2023-02-25-several-short-sentences" class="internal-site-link" href="/vbook/several-short-sentences">reading about it</a>, I’m finally doing Verlyn Klinkenborg’s writing exercise of mentally formulating sentences without writing them down.
+I find myself doing it habitually, out of interest.
+In the shower while I think over the week’s events.
+Standing on the balcony in the quiet of morning and watching a neighbor walk their dog over snowy pavement.
+One word at a time I lay out a sentence in my head, pruning clutter, swapping out imprecisions, and toying with the order of clauses.
+I expect it will make me a better writer.
+A lovely surprise was noticing it <a id="2025-03-08-live-in-the-moment-2" class="internal-site-link" href="/vbook/live-in-the-moment-2">making me more present</a>.</p>
+
+<h3 id="reading-pachinko--the-dominant-animal">reading <em>Pachinko</em> &amp; <em>The Dominant Animal</em></h3>
+
+<p>After finishing <a id="2025-01-28-the-ginger-man" class="internal-site-link" href="/vbook/ginger-man">The Ginger Man</a>, I felt ready to dive into a novel by James Joyce.
+But none of his books are on my list of books to read for 2025 and I’m trying to get better at adhering to plans, so instead I started <a id="2025-03-08-pachinko" class="internal-site-link" href="/vbook/pachinko"><em>Pachinko</em></a> by Min Jin Lee.
+I also just finished <a id="2025-03-08-dominant-animal" class="internal-site-link" href="/vbook/the-dominant-animal"><em>The Dominant Animal</em></a> by Kathryn Scanlan, a remarkable little book of short stories that I’ve been reading very slowly for the last couple of years.</p>
+
+<h3 id="watching-severance--the-white-lotus">watching <em>Severance</em> &amp; <em>The White Lotus</em></h3>
+
+<p>I watched the first few episodes of <em>Severance</em> months ago until I lost interest.
+But now season two is coming out and many of my friends are talking about it so I resolved to catch up.
+Rewatching it I feel again <a id="2025-03-08-severance" class="internal-site-link" href="/vbook/severance">underwhelmed</a>.</p>
+
+<p>I much prefer the approach that the writers of <em>The White Lotus</em> have been taking.
+Instead of hinting cryptically at forthcoming drama and withholding it for several episodes, they start with a cast of characters with tensions already between and within them.
+The potential is there from the beginning.
+Throughout the season they build up the existing tensions and introduce new ones until eventually someone takes action or an incident triggers a chain of reactions.
+Drama and plot flow naturally from interpersonal dynamics instead of dictating them.</p>
+
+<p><em>Severance</em> feels designed and implemented from the top down.
+<em>The White Lotus</em> feels <a id="2024-08-12-tell-a-story-3" class="internal-site-link" href="/vbook/tell-a-story-3">incubated</a>.</p>]]></content><author><name></name></author><category term="journal" /><summary type="html"><![CDATA[Thinking of sentences, reading Pachinko &amp; The Dominant Animal, watching Severance &amp; The White Lotus.]]></summary></entry><entry><title type="html">Pachinko (2017)</title><link href="https://okjuan.github.io/vbook/pachinko" rel="alternate" type="text/html" title="Pachinko (2017)" /><published>2025-03-08T00:00:00+00:00</published><updated>2025-03-08T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/pachinko</id><content type="html" xml:base="https://okjuan.github.io/vbook/pachinko"><![CDATA[<p>I am twenty percent into the book and so far I’ve found the writing style relatively plain but nice to read.
+<!--more-->
+It’s built on fundamental physical imagery like “sharp winds” and warm floors and listed descriptions of each person’s appearance.
+The story spans generations but the pace of each scene is slow and patient.
+It gives me feelings similar to those I get reading Steinbeck’s and Wendell Berry’s fiction.</p>]]></content><author><name></name></author><category term="books" /><category term="literature" /><category term="korea" /><category term="japan" /><category term="asia" /><category term="colonialism" /><category term="family" /><category term="relationships" /><summary type="html"><![CDATA[I am twenty percent into the book and so far I’ve found the writing style relatively plain but nice to read.]]></summary></entry><entry><title type="html">why is Severance so slow?</title><link href="https://okjuan.github.io/vbook/severance" rel="alternate" type="text/html" title="why is Severance so slow?" /><published>2025-03-08T00:00:00+00:00</published><updated>2025-03-08T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/severance</id><content type="html" xml:base="https://okjuan.github.io/vbook/severance"><![CDATA[<p>The premise and the set are both interesting, but for so long I’m just waiting for something to happen.
+<!--more-->
+I want to feel like a mystery is unfolding before me, that the answer to each of my questions raises another even more fervently in need of addressing.
+But instead I feel like the writers are withholding information, stalling for time.
+My intrigue wanes into restlessness.</p>
+
+<p>The pace jolts into high gear at the end of season one, when the writers finally show their cards.
+All this time they have been sitting on highgrade, plotpromising bombshells.
+And as the season finale approaches, it’s finally time to drop them.
+Yes, what a thrill.
+But I don’t feel so much shocked and swayed as I do manipulated.
+Is this any way to tell a story?
+Create a sudden climax and end it right there, with not even the beginnings of resolution?
+Why didn’t the writers introduce the same ideas earlier in the season and develop them throughout?
+We all know the answer already.
+In the end, <em>Severance</em> is more asset than art.
+It is, above all, a strategic allocation for growing Apple’s share of the streaming market.
+And how do you keep people watching?
+You end on a cliffhanger.</p>
+
+<p>As a viewer, I feel my interest being managed and manipulated rather than being cultivated.
+I don’t feel like a thrilling story is being recounted for my entertainment, I feel like I’m being sold a product.
+<em>Please keep watching, we promise something interesting is coming soon.</em>
+I’m sure there are people involved in making <em>Severance</em> that want to make genuinely good TV but the overall effort seems to me more like hedging than striving.
+It’s ironic when you consider that Lumon’s closest analogue in the real world might in fact be Apple.
+There is the cultlike adulation of a heroic founder, the snaking corporate campus enshrouded in dark glass, the obnoxious secrecy, and so on, but the most meaningful similarity is the basic one.
+They are gigantic tech corporations held aloft by myths of technotopian supremacy and driven by an everincreasing hunger for growth and expansion.
+(Also, Lumon sounds like Lemon.)</p>
+
+<p>The basics of telling a good story is like playing chess.
+You can’t rely on sneak attacks or smuggled secrets.
+The pieces and the tensions between them are all in plain view, brought into position one step a time.
+The tensions build until there comes a natural point when the deadlock breaks and the inevitable drama ensues.
+Consequences ripple and trigger further action.
+There is no need to contrive plot.
+It flows out of confrontation between agents in the story.
+If nothing happens its because the people moving the pieces don’t know what they are doing.
+Or they’re holding back.</p>
+
+<p>The writers of <em>Severance</em> might well know how to write a good story.
+But I think the problem is that the real chess is being played by Apple, who is mobilizing their pieces – <em>Severance</em>, <em>Ted Lasso</em>, and so on – to corner a share of the market.
+Their ultimate goal is not to make compelling television, but to compel us to keep watching.</p>]]></content><author><name></name></author><category term="reviews" /><category term="writing" /><category term="tv-shows" /><category term="story-telling" /><summary type="html"><![CDATA[The premise and the set are both interesting, but for so long I’m just waiting for something to happen.]]></summary></entry><entry><title type="html">what is this site? #5</title><link href="https://okjuan.github.io/vbook/what-5" rel="alternate" type="text/html" title="what is this site? #5" /><published>2025-03-05T00:00:00+00:00</published><updated>2025-03-05T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/features-on-this-site</id><content type="html" xml:base="https://okjuan.github.io/vbook/what-5"><![CDATA[<p>On the surface, this is an ordinary blog.
+<!--more-->
+For its techno-literary lean, it could be categorized with the likes of <a href="https://www.robinsloan.com/">robinsloan.com</a>, <a href="https://craigmod.com/">craigmod.com</a>, <a href="https://sive.rs">sive.rs</a>, <a href="https://jsomers.net/">jsomers.net</a>, and <a href="https://macwright.com/">macwright.com</a>.
+My goal, however, is not just to publish my thoughts on subjects that interest me but to promote <a id="2023-08-11-virtual-book" class="internal-site-link" href="/vbook/virtual-book">novel ways</a> of <a href="/vbook/tags/reading">#reading</a> and <a href="/vbook/tags/writing">#writing</a>.
+I attempt to do this not only through the ideas I discuss on site but also through the custom features I build into its interface, which allow readers to explore the content on this site according to their curiosity:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>features</th>
+      <th>motivation</th>
+      <th>notes</th>
+      <th>date implemented</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>tags</td>
+      <td>tags are a great way to connect ideas without forcing them into a hierarchy. in general, a network is better way to organize information. it’s simple, meaningful, and less restrictive. I think the <a href="https://en.wikipedia.org/wiki/Composition_over_inheritance">Composition Over Inheritance</a> principle of programming depends on similar insight. others have written about this e.g. <a href="https://www.mentalnodes.com/folders-kill-creativity">Folders Kill Creativity</a>.</td>
+      <td>originally implemented <a href="https://github.com/okjuan/okjuan.github.io/pull/10">in okjuan.github.io</a> repo, predecessor of <a href="https://github.com/okjuan/vbook">vbook</a>. hardest feature to implement because I knew the least about Jekyll and GitHub Pages at that point. see <a href="https://github.com/okjuan/okjuan.github.io/pull/10#issue-1604361048">the PR description</a> for more info.</td>
+      <td>May ‘23</td>
+    </tr>
+    <tr>
+      <td>backlinks</td>
+      <td>helps make this site explorable and interconnected <a id="2024-01-17-what" class="internal-site-link" href="/vbook/what">like Wikipedia</a>.</td>
+      <td>implemented as a custom <a href="https://shopify.github.io/liquid/">Liquid</a> tag.</td>
+      <td>Nov ‘23</td>
+    </tr>
+    <tr>
+      <td>hoverbox post previews</td>
+      <td>allows readers to peek at linked posts without leaving the current context, like in Wikipedia. I’ve seen other interesting designs for this sort of thing. The <a href="https://wiki.c2.com/">original wiki</a> opens <a href="https://en.wikipedia.org/wiki/Hoverbox">hoverboxes</a> on <em>click</em> instead of hover and leaves them open until the user clicks outside them. Links in Andy Matuschak’s <a href="https://andymatuschak.org/">Zettelkasten notes</a> open in vertical columns to the right of the post, preserving the reading context and allowing the reader to see a progressive trail of thought in sequence. there are many possibilities. another that occurs to me is to reveal the linked post’s content as a dropdown on click.</td>
+      <td>required JavaScript, although I intend to refactor them to rely only <a href="https://github.com/okjuan/vbook/issues/38">on HTML and CSS</a>.</td>
+      <td>Mar ‘24</td>
+    </tr>
+    <tr>
+      <td>sort by modification date</td>
+      <td>discourages staleness of pieces by encouraging me to update and rework them.</td>
+      <td>implemented with a git pre-commit hook. explained in the <strong>coding</strong> section of <a id="2024-07-07-now" class="internal-site-link" href="/vbook/now-july-7-2024">this /now update</a>. discussed in <a id="2024-10-03-building-vbook" class="internal-site-link" href="/vbook/building-this-site">this post</a>.</td>
+      <td>Sept ‘24</td>
+    </tr>
+    <tr>
+      <td>revisions</td>
+      <td>gives insight into my writing process by letting readers examine the evolution of select posts.</td>
+      <td>discussed in <a id="2024-10-03-building-vbook" class="internal-site-link" href="/vbook/building-this-site">this post</a>.</td>
+      <td>Sept ‘24</td>
+    </tr>
+    <tr>
+      <td>redirects</td>
+      <td>another feature that promotes retroactive changes. it lets me easily change a post’s URL without breaking the old one.</td>
+      <td>discussed in <a id="2025-03-04-building-this-site-2" class="internal-site-link" href="/vbook/building-this-site-2">this post</a>.</td>
+      <td>Mar ‘25</td>
+    </tr>
+    <tr>
+      <td>post series links</td>
+      <td>a simple but important ingredient that makes this site <a id="2024-11-29-what-3" class="internal-site-link" href="/vbook/what-3">booklike</a>.</td>
+      <td>implementation is similar to that of revisions, but simpler because it doesn’t involve generating new pages.</td>
+      <td>Mar ‘25</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I use <a href="https://github.com/okjuan/vbook/issues">GitHub Issues</a> to track problems and potential improvements.</p>
+
+<p>I started developing this site <a href="https://github.com/okjuan/howto/commit/5713a2fd87c532192a76c67bed3d33bb2f9551c5">in February 2023</a>.
+The fundamental unit of this site is a post.
+What you’re reading right now is a post.
+I often call them “pieces,” too.
+I write each post as a <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> text file using a text editor, usually <a href="https://code.visualstudio.com/">VS Code</a> and occasionally <a href="https://www.vim.org/">vim</a>.
+From those text files, <a href="https://jekyllrb.com/">Jekyll</a> generates the site’s HTML and CSS using the <a href="https://github.com/jekyll/minima">Minima</a> layout theme and the <a href="https://en.wikipedia.org/wiki/Solarized">Solarized</a> color palette.
+I have tweaked fonts, spacing, and other UI details by modifying the <code class="language-plaintext highlighter-rouge">_sass/minima/_layout.scss</code> file.
+The features described in the table above are implemented using <a href="https://www.ruby-lang.org/en/">Ruby</a> plugins and <a href="https://shopify.github.io/liquid/">Liquid</a>.</p>
+
+<p>The site is static and consists mostly of HTML and CSS and a little bit of JavaScript.
+It’s hosted for free on <a href="https://pages.github.com/">GitHub Pages</a>.
+The only money I’ve spent so far was on the domain <code class="language-plaintext highlighter-rouge">okjuan.me</code>, which I bought in June 2023 from <a href="http://bookmyname.com/">bookmyname.com</a> for ten years for €156 and configured <code class="language-plaintext highlighter-rouge">okjuan.github.io</code> to point to it.</p>
+
+<p>To publish a post, I commit it to the <code class="language-plaintext highlighter-rouge">main</code> branch of <a href="https://github.com/okjuan/vbook"><code class="language-plaintext highlighter-rouge">vbook</code> GitHub repo</a>.
+I configured that repo to publish on GitHub Pages as <code class="language-plaintext highlighter-rouge">okjuan.github.io/vbook</code>, which gets resolved by DNS to <code class="language-plaintext highlighter-rouge">okjuan.me/vbook</code>.
+GitHub provides a default process for building Jekyll sites and publishing them to the web, but I use the community-built <a href="https://github.com/marketplace/actions/jekyll-deploy-action">Jekyll Deploy Action</a> because I have several custom plugins and GitHub <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins">only supports a few select plugins</a>.</p>]]></content><author><name></name></author><category term="notes" /><category term="coding" /><category term="design" /><summary type="html"><![CDATA[On the surface, this is an ordinary blog.]]></summary></entry><entry><title type="html">building this site #2</title><link href="https://okjuan.github.io/vbook/building-this-site-2" rel="alternate" type="text/html" title="building this site #2" /><published>2025-03-04T00:00:00+00:00</published><updated>2025-03-04T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/building-this-site-2</id><content type="html" xml:base="https://okjuan.github.io/vbook/building-this-site-2"><![CDATA[<p>Many features I’ve implemented on this site – e.g. <a id="2024-10-03-building-vbook" class="internal-site-link" href="/vbook/building-this-site">revisions</a> – encourage retroactive editing of posts.
+<!--more-->
+Today, I implemented a minor feature in the same spirit: configurable redirects.
+This allows me to easily give a post a new URL without making its previous one(s) obsolete.
+All I have to do is make two configuration changes in the frontmatter of the relevant post:</p>
+<ol>
+  <li>Specify the new URL via the usual <code class="language-plaintext highlighter-rouge">permalink</code> property e.g. <code class="language-plaintext highlighter-rouge">'/why-write'</code>.</li>
+  <li>Add the old URL to the list specified by <code class="language-plaintext highlighter-rouge">redirect_from</code> e.g. <code class="language-plaintext highlighter-rouge">['/justify-writing']</code>.</li>
+</ol>
+
+<p>For example, I changed <a id="2023-03-09-justify-writing" class="internal-site-link" href="/vbook/why-write"><em>okjuan.me/vbook/justify-writing</em></a> to <a id="2023-03-09-justify-writing" class="internal-site-link" href="/vbook/why-write"><em>okjuan.me/vbook/why-write</em></a>.
+If I later decide to change the URL again e.g. to <em>okjuan.me/vbook/why-i-write</em>, I just have to set <code class="language-plaintext highlighter-rouge">permalink: /why-i-write</code> and <code class="language-plaintext highlighter-rouge">redirect_from: ['why-write', '/justify-writing']</code> in the post’s frontmatter.</p>
+
+<p>A nice side-effect of this change is that I can make a post’s URL match its title even if I change it.
+Another perk is that I can easily update <em>okjuan.me/vbook/now</em> to point to my latest <em>what I’m doing now</em> post.
+But probably this feature’s most useful effect, and the reason I thought to implement it in the first place, is that it lets me realign a post into a series.
+For example, by changing the title of <em>how to justify writing</em> to <em>why write?</em>, I can make it the first entry in a series that I can create by writing posts <em>why write? #2</em>, <em>why write? #3</em>, and so on.</p>]]></content><author><name></name></author><category term="journal" /><category term="notes" /><category term="coding" /><category term="design" /><category term="kaizen" /><category term="editing" /><summary type="html"><![CDATA[Many features I’ve implemented on this site – e.g. revisions – encourage retroactive editing of posts.]]></summary></entry><entry><title type="html">what I’m doing now #9</title><link href="https://okjuan.github.io/vbook/now-feb-1-2025" rel="alternate" type="text/html" title="what I’m doing now #9" /><published>2025-02-01T00:00:00+00:00</published><updated>2025-02-01T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/now</id><content type="html" xml:base="https://okjuan.github.io/vbook/now-feb-1-2025"><![CDATA[<p>Biking around East Vancouver, reading <em>The Ginger Man</em>, finding Z a new apartment, and trying to become a planner.
+<!--more--></p>
+
+<h3 id="biking-around-east-vancouver">biking around East Vancouver</h3>
+
+<p>Biking is a great way to achieve my daily goal of exercising.
+Seattle is prohibitively hilly but Vancouver has a great network of bike routes allocated on streets with sparse car traffic.
+They have a detailed PDF file available online that maps their location and marks them with useful information like incline and degree of separation from car traffic.
+I came up with a great acronym to remember the street names of the main bike routes in the area: W.A.L.K.</p>
+
+<h3 id="reading-the-ginger-man">reading <em>The Ginger Man</em></h3>
+
+<p>I bought a copy last summer and finally started it last week.
+I can see why Cormac McCarthy liked it.
+It also reminds me a lot of <em>Fear and Loathing in Last Vegas</em>.
+After finishing the seventh chapter I sat down and wrote an <a id="2025-01-28-the-ginger-man" class="internal-site-link" href="/vbook/ginger-man">initial review</a> of it.</p>
+
+<h3 id="finding-z-a-new-apartment">finding Z a new apartment</h3>
+
+<p>Z’s apartment in Vancouver is a spacious one bedroom with a generous balcony.
+It is recently renovated with tons of integrated storage but it lacks a crucial feature: a second bedroom.
+I spend a lot of time at Z’s place and when I do we often both work from home.
+We have comfortable workstations at opposite corners of the living room but the distance does little when one of us actively participates in a virtual meeting.
+Noisecancelling headphones help but they also encourage us to speak loudly.
+And even when we both work silently it’s too easy to call out across the room to ask a question, share a thought, or make a comment.
+Both of us have a habit of voicing things soon after they occur to us.
+It makes for interesting conversation and for a disruptive work environment.</p>
+
+<p>We’ve been keeping an eye out and finally we found a good two bedroom apartment in a lively, artsy part of East Vancouver.
+It costs almost the same as Z’s current place and it offers great physical separation between the two bedrooms.
+We will be sad to leave Z’s current place and the neighborhood it’s in, but we’re excited for the new chapter.</p>
+
+<h3 id="trying-to-become-a-planner">trying to become a planner</h3>
+
+<p>I don’t mean a city planner.
+Although I do fantasize about getting involved with municipal politics someday.</p>
+
+<p>I mean I am trying to get better at making and adhering to plans in general.
+I get a lot of stuff done in my life through what I call <a id="2023-01-28-progress-without-planning" class="internal-site-link" href="/vbook/progress-without-planning">coherent impulses</a>, which have proved effective but lack certain special powers particular to planning.
+I’ve been ruminating on it and noticing when people make reference to it in their way of working.</p>
+
+<p>Kiefer mentioned in his <a href="https://open.spotify.com/show/2d0fpifQoLn230QaGjrW7w?si=c4dc3ff353e74c77"><em>Approachable Music</em></a> podcast that he keeps a to-do list and everyday he attends to one item at a time.
+I assume many people follow this approach.
+But I don’t.
+I keep to-do lists but my adherance to them is erratic.
+I suppose part of the problem is that many items have no inherent deadline and even those that do don’t threaten much consequence.
+If I for example neglect to plan an itinerary for a trip, I can still show up and improvise as long as my flights and hotel are booked.
+And that’s what I did in 2019 when I went on my multimonth trip abroad to Mexico, New York, and Europe.
+I enjoyed the fruits of spontaneity and just-in-time internet searches, but without a doubt I missed out on experiences that research and forethought would’ve produced.
+I want to reduce these kinds of losses by procrastinating less and planning more often.
+I want to change my habit.
+So I’m trying to consciously draw my attention to the benefits of planning and override the anxious avoidance that thwarts my planning impulses.</p>
+
+<p>Jared Henderson, a former professor who is now a literary YouTuber, <a href="https://youtu.be/5rrJ6RReYnA?si=sHhJhHoCTYPCjJfk">mentioned</a> that he keeps a list of books he will read.
+I don’t.
+I keep track of books that I might want to read by saving them <a href="https://www.goodreads.com/review/list/57048915">on Goodreads</a>, but I never reference that list when deciding which book to read next.
+My methods are spontaneous and informally organized.
+I try out audiobooks on Spotify and Libby and continue only if they stick.
+I buy books impulsively and add them to my growing library of unreads.
+When I am ready to start a new book I eye my collection shiftily and grab the candidates my whims command me to and then I bring them to a comfortable seat in my apartment where I select one uneasily and crack it open.
+Then I read stingily, hesitant to imply by reading more than a couple paragraphs that I’ve now committed to My Next Book, that this is it, I must read this book through now or else I will have <a id="2020-01-12-ditch-books" class="internal-site-link" href="/vbook/ditch-books">left one unfinished</a>.</p>
+
+<p>I’m trying something new.
+I’m writing a list of books I intend to read this year.
+In a way, my dabbling with planning in this way is a sort of coherent impulse.
+The coherence comes from the deliberate intention to exploit the benefits of forethought and the impulse is the list of fifteen or so books I slashed out based on my current interest and appetite as well as the current contents of my shelves.
+The list is unordered so I may choose to read them in any order I like and read multiple at the same time if I so wish.
+I will still entertain my penchant for sampling books impulsively via Spotify and Libby, but my main reading project this year will be dictated by my list.</p>
+
+<hr />
+
+<h3 id="whats-next">what’s next?</h3>
+
+<p>Keep biking.
+Continue striving to do every day each of the following: work, read, exercise, write, enjoy, grow, discuss, plan, and socialize</p>
+
+<p>Finalize Z’s moving plans.</p>
+
+<p>Go snowboarding with Z multiple times.</p>
+
+<p>Read the rest of <em>The Ginger Man</em> to keep up a good reading pace for the year.
+After I finish it I will start <em>Malone Dies</em> unless it doesn’t <a id="2023-01-28-progress-without-planning" class="internal-site-link" href="/vbook/progress-without-planning">suit my appetite</a>, in which case I will pick up one of the other books on my list for 2025.</p>]]></content><author><name></name></author><category term="journal" /><summary type="html"><![CDATA[Biking around East Vancouver, reading The Ginger Man, finding Z a new apartment, and trying to become a planner.]]></summary></entry><entry><title type="html">The Ginger Man (1955)</title><link href="https://okjuan.github.io/vbook/ginger-man" rel="alternate" type="text/html" title="The Ginger Man (1955)" /><published>2025-01-28T00:00:00+00:00</published><updated>2025-01-28T00:00:00+00:00</updated><id>https://okjuan.github.io/vbook/the-ginger-man</id><content type="html" xml:base="https://okjuan.github.io/vbook/ginger-man"><![CDATA[<p>I’ve read seven chapters so far.
+Here are some thoughts and some excerpts.
+<!--more--></p>
+
+<p>Describing Kenneth O’Keefe’s arrival in a coastal Irish village to visit his friend Sebastian Bullion Dangerfield at his home, who greets O’Keefe at the door:</p>
+<blockquote>
+  <p>It was a steep hill up to Balscaddoon.
+Winding close to the houses and the neighbor’s eyes having a look.
+Fog over the flat water.
+And the figure hunched up the road.
+On top it leveled and set in a concrete wall was a green door.</p>
+
+  <p>Within the doorway, smiles, wearing white golfing shoes and tan trousers suspended with bits of wire.</p>
+</blockquote>
+
+<p>O’Keefe the visitor takes in the scenery:</p>
+<blockquote>
+  <p>Standing on the shaggy grass he gave a shrill whistle as he looked down precipitous rocks to the swells of sea many feet below.</p>
+</blockquote>
+
+<p>Delightfully written.</p>
+
+<p>Later in the book, describing Dangerfield’s tiny new home:</p>
+<blockquote>
+  <p>[You] didn’t want to walk too fast in the front door or you’d find yourself going out the back.</p>
+</blockquote>
+
+<p>I purposefully went into the book blind and I’m pleasantly surprised to learn that its writing style is quite experimental.
+Stream of consciousness, unquoted dialogue mashed in.
+It reminds me of Hunter S. Thompson for its style and subject matter.
+Lecherous, base protagonists hurtling through life incurring all manner of debts with no regard for consequence and no semblance of restraint.
+But in this one we catch more glimpses of the desperation and self-loathing that plauge rabid gluttons following their excesses and that trigger further indulgence.
+Here the aftermath of one of Dangerfield’s odious bursts of verbal abuse towards his wife regarding her family:</p>
+<blockquote>
+  <p>A very red face.
+Guilt.
+Grinding the teeth.
+Soul trying to get out of the mouth, swallowing it back into the body.
+Shut out the sobs.</p>
+</blockquote>
+
+<p>In the first sentence of the very next paragraph Dangerfield is no longer at his house but at the bar:</p>
+<blockquote>
+  <p>He ordered a bottle of stout and a Gold Label, telling the boy to bring him another stout and Gold Label.</p>
+</blockquote>
+
+<p>This is one of the objects of the author’s experimentation, time.
+Even on the lower gear of dialogue the speed is set high with snappy back-and-forth, each speaker on a new line, speech bare but the quotation marks.
+And when the author doesn’t want to dwell on certain scenes, he accelerates through them by compounding dialogue and action into dense morsels:</p>
+<blockquote>
+  <p>They had one more round of stout and she turned and smiled and said that she must be going home.
+And may I take you?
+That’s all right.
+I insist.
+It’s really not necessary.
+For the joy that’s in it then.
+O.K.</p>
+
+  <p>They set off along Suffolk Street, into the Wicklow Street and up the Great George’s.
+And over there Thomas Moore was born.
+Come in and see it, a nice public house indeed.
+But I must go home and wash my hair.
+But just a quick one.</p>
+
+  <p>In they went.
+The embarrassed figures looking at them and bird whispering.
+The man showed them to a booth, but Mr. Dangerfield said that they were just in for a fast one.</p>
+
+  <p>O surely, sir and it’s a grand evening. ‘Tis that.</p>
+</blockquote>
+
+<p>The author slows the pace the most when he puts us inside Dangerfield’s head amongst his thoughts.
+Him regarding his wife:</p>
+<blockquote>
+  <p>Long limbed Marion settled in the chair.
+What makes you so tall and slender.
+You raise your eyelids and cross your legs with something I like and wear sexless shoes with sexiness.
+And Marion I’ll say this for you, you’re not blatant.
+And when we get our house in the West with Kerry cattle out on the hills sucking up the grass and I’m Dangerfield K.C., things will be fine again.</p>
+</blockquote>
+
+<p>Like moments of contemplation imply pause.
+We linger with the protagonist’s thoughts.</p>
+
+<p>It continues:</p>
+<blockquote>
+  <p>A tram pounding by the window, grinding, swaying and rattling on its tracks to Dalkey.
+A comforting sound.
+Maps shaking on the wall.
+Ireland a country of toys.
+And maybe I ought to go over to Marion on the couch.</p>
+</blockquote>
+
+<p>Soon and without warning the author teleports us into the next scene:</p>
+<blockquote>
+  <p>In the bedroom, Dangerfield rubbing stockinged feet on the cold linoleum.</p>
+</blockquote>
+
+<p>I see many similarities to Cormac McCarthy’s writing.
+Most obvious is dialogue, written without attribution, qualification, or descriptive supplement.
+Deft and witty, stripped of boilerplate and stilts.
+McCarthy took it a step further by dropping the quotation marks.</p>
+
+<p>Another obvious similarity to McCarthy’s writing is the grammatically irreverant use of nonsentences.
+Declarative phrases stating what there is.
+Subject only.
+McCarthy’s use of these is ample yet perhaps more restrained and refined.
+Donleavy showers us with them.
+Another choice that quickens the pace of his writing.</p>
+
+<p>A third and more subtle similitude is in the varying order that clauses appear between periods.
+Sentences structured shrewdly for effect and interest.
+For example, to withhold predominant details and reveal them at the end to simulate their discovery.
+From the first excerpt I shared:</p>
+<blockquote>
+  <p>On top it leveled and set in a concrete wall was a green door.</p>
+</blockquote>
+
+<p>Two structural inversions in one sentence but most important is the second.
+The green door’s position at the end of the sentence grants it importance, intrigue even.
+We anticipate crossing the threshold.</p>
+
+<p>Donleavy’s sentence structures are most pleasing when they eliminate commas and let his words come into direct contact.
+Reproducing an excerpt I shared at the beginning:</p>
+<blockquote>
+  <p>Standing on the shaggy grass he gave a shrill whistle as he looked down precipitous rocks to the swells of sea many feet below.</p>
+</blockquote>
+
+<p>It’s vivid in part because each detail blends into the next.
+Instead of being given parts one at a time, we experience the image fluidly as one.
+McCarthy uses this technique as well.
+In his magnum opus <em>Blood Meridian</em> he conjures striking images from masterfully engineered sentences.
+Here is the fourth sentence of the novel:</p>
+<blockquote>
+  <p>Outside lie dark turned fields with rags of snow and darker woods beyond that harbor yet a few last wolves.</p>
+</blockquote>
+
+<p>Sentences like these are carefully configured to eliminate cruft like “there are” and even suffixes like “–ing” that weaken verbs.
+McCarthy opts for a touch of ambiguity by placing “darker woods” first instead of putting it after “beyond that” and consequently doubling “that”:</p>
+<blockquote>
+  <p>rags of snow and beyond that darker woods that harbor yet a few last wolves.</p>
+</blockquote>
+
+<p>He also rejects the “–ing” solution to the problem:</p>
+<blockquote>
+  <p>rags of snow and beyond that darker woods harboring yet a few last wolves.</p>
+</blockquote>
+
+<p>It is up to the writer and their sense of style to evaluate their options.
+But they have to know how to generate them in the first place.</p>
+
+<p>A fourth technique that Donleavy and McCarthy (and Hemingway) employ is generous use of “and” to string together images.
+A snippet of an excerpt from <em>The Ginger Man</em> shared earlier:</p>
+<blockquote>
+  <p>They had one more round of stout and she turned and smiled and said that she must be going home.</p>
+</blockquote>
+
+<p><em>Blood Meridian</em> contains extreme examples.
+Here is a single sentence near the end of chapter thirteen:</p>
+<blockquote>
+  <p>They trampled the spot with their horses until it looked much like the road again and the smoking gunlocks and sabreblades and girthrings were dragged from the ashes of the fire and carried away and buried in a separate place and the riderless horses hazed off into the desert and in the evening the wind carried the ashes and the wind blew in the night and fanned the last smoldering billets and drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world.</p>
+</blockquote>
+
+<p>That last bit is brilliant.
+Again:</p>
+<blockquote>
+  <p>[the wind] drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world</p>
+</blockquote>]]></content><author><name></name></author><category term="reviews" /><category term="books" /><category term="literature" /><category term="writing" /><summary type="html"><![CDATA[I’ve read seven chapters so far. Here are some thoughts and some excerpts.]]></summary></entry></feed>
