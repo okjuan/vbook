@@ -31,7 +31,7 @@ The kind you read because your friends already did and you want to talk to them 
 
 The kind you read with distrust.
 
-The kind you read because it feels nice in your hands.
+The kind you read more often because it feels nice in your hands.
 
 The kind you read to learn more about an author's influences.
 
