@@ -51,4 +51,4 @@ The kind you read because it was gifted to you.
 
 The kind you read because it won a big prize.
 
-The kind you read because you picked it up but couldn't put back down.
+The kind you read because you picked it up to peruse but then found yourself gripped by.
