@@ -13,7 +13,7 @@ The kind you read over a weekend.
 
 The kind you read sometimes before bed.
 
-The kind you read slowly over many months, across years even, because in it there's much to chew on and to read it all quickly would be an inferior accomplishment.
+The kind you read slowly over many months – across years even – because in it there's much to chew on and to read it all quickly would be an inferior accomplishment.
 
 The kind you listen to attentively while driving or walking or riding the bus.
 
