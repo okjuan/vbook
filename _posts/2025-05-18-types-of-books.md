@@ -25,7 +25,7 @@ The kind you didn't finish but that permanently changed how you see the world.
 
 The kind you recommend to everybody.
 
-The kind you read because you are frozen with existential ennui and reading it is the only thing you can comofortably do.
+The kind you read because you are frozen with existential ennui and reading it is the only thing you can comfortably do.
 
 The kind you read because your friends already did and you want to talk to them about a book.
 
