@@ -23,6 +23,8 @@ The kind you forgot you read.
 
 The kind you didn't finish but that permanently changed how you see the world.
 
+The kind you recommend to everybody.
+
 The kind you read because you are frozen with existential ennui and reading it is the only thing you can comofortably do.
 
 The kind you read because your friends read it and you want to be able to talk to them about it.
