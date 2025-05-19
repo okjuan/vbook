@@ -41,7 +41,7 @@ The kind you read with special excitement because nobody's ever heard of it and 
 
 The kind you read because it's very relevant to things that are going on.
 
-The kind you didn't finish because it's just too damn long but still you're glad to have experienced.
+The kind that's just too damn long to finish but still worth the time you spent on it.
 
 The kind you find yourself bringing up in conversation but you've actually never read.
 
