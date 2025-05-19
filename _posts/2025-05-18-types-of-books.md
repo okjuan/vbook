@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-05-18
+modified_date: 2025-05-19
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -13,7 +13,7 @@ The kind you read over a weekend.
 
 The kind you read sometimes before bed.
 
-The kind you read slowly over many months, across years even, because there's much to chew on and to read quickly would be to ingest more than you can digest.
+The kind you read slowly over many months, across years even, because in it there's much to chew on and to read it all quickly would be an inferior accomplishment.
 
 The kind you listen to attentively while driving or walking or riding the bus.
 
