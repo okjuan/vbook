@@ -43,6 +43,8 @@ The kind you read because it's very relevant to things that are going on.
 
 The kind that's just too damn long to finish but still worth the time you spent on it.
 
+The kind you don't really want to read but also don't want to give up on.
+
 The kind you find yourself bringing up in conversation but you've actually never read.
 
 The kind you read because it was gifted to you.
