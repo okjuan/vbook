@@ -27,7 +27,7 @@ The kind you recommend to everybody.
 
 The kind you read because you are frozen with existential ennui and reading it is the only thing you can comofortably do.
 
-The kind you read because your friends read it and you want to be able to talk to them about it.
+The kind you read because your friends already did and you want to talk to them about a book.
 
 The kind you read with distrust.
 
