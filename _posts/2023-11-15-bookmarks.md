@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-01-15
+modified_date: 2025-05-31
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -36,6 +36,10 @@ They are perhaps more an entertainment company than a journalism firm.
 
 I often come across new sites and I like to save them here to remind myself to check back on them and consider adding them to the small set of sites I frequent.
 Here are sites that haven't made it into my special list but I want to revisit soon:
+- [micro.blog](https://micro.blog/)
+- [iwebthings.joejenett.com](https://iwebthings.joejenett.com/)
+- [osteophage.neocities.org](https://osteophage.neocities.org/)
+- [tracydurnell.com](https://tracydurnell.com/)
 - [theurbanist.org](https://www.theurbanist.org/)
 - [fivebooks.com](https://fivebooks.com/) -- book recommendations curated by experts
 - [neilonsoftware.com](https://neilonsoftware.com/).
