@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-01-30
+modified_date: 2025-05-31
 layout: post
 title: "The Ginger Man (1955)"
 subsubtitle: by J. P. Donleavy
@@ -140,4 +140,4 @@ Here is a single sentence near the end of chapter thirteen:
 
 That last bit is brilliant.
 Again:
-> [the wind] drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world
+> [the wind] drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world.
