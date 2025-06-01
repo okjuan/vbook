@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-03-10
+modified_date: 2025-05-31
 layout: post
 title: "The Dominant Animal (2019)"
 subsubtitle: by Kathryn Scanlan
@@ -19,7 +19,7 @@ But I should say that not all stories in this book deal with brutality and abuse
 Foremost is Scanlan's unique yet accessible prose, which she assiduously pruned, tuned, and polished into remarkable little language contraptions.
 
 As described in the New Yorker:
-> In all her books, Scanlan writes about ordinary life in extraordinary ways by compacting it radically, like pressurizing carbon into diamonds."
+> In all her books, Scanlan writes about ordinary life in extraordinary ways by compacting it radically, like pressurizing carbon into diamonds.
 
 Scanlan continued this practice in novel form with {% vbook_post _Kick the Latch_ | 2022-11-27-kick-the-latch %}, which came out two years later in 2022.
 For me, she is one of the most exciting prose writers working today.
