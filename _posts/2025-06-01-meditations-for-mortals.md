@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-06-01
+modified_date: 2025-06-02
 layout: post
 title: "Meditations for Mortals (2024)"
 subsubtitle: by Oliver Burkeman
@@ -26,7 +26,7 @@ As Burkeman phrases it:
 In short, there are two options.
 Do nothing and accept the consequences, or do what you can to get the result you want.
 Idle rage makes no sense.
-If the consequences are unacceptable then something about them.
+If the consequences are unacceptable then do something about them.
 This directive triggers another liberating insight:
 > [this] reminds us that most of the potential consequences we find ourselves agonizing about don't remotely justify such angst.
 
