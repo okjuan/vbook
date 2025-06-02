@@ -9,7 +9,7 @@ tags: books decision-making stress anxiety
 
 Those who distrust self-help books and who might snort and roll their eyes at this book merely for its subtitle -- _Four Weeks to Embrace Your Limitations and Make Time for What Counts_ -- might be surprised at the sobriety of Burkeman's advice.
 <!--more-->
-In this book, Burkeman picks up where he left off in his previous book -- {% vbook_post _Four Thousand Weeks: Time Management for Mortals_ | 2023-03-17-four-thousand-weeks %} -- by revisting the grim fact that {% vbook_post a lifetime is a prohibitively brief window of time | 2023-03-22-live-in-the-moment %} to achieve even a fraction of the things we suppose we might do.
+In this book, Burkeman picks up where he left off in his previous book -- {% vbook_post _Four Thousand Weeks: Time Management for Mortals_ | 2023-03-17-four-thousand-weeks %} -- by revisting the grim fact that a lifetime is a {% vbook_post prohibitively brief window of time | 2023-03-22-live-in-the-moment %} to achieve even a fraction of the things we suppose we might do.
 Burkeman's mention of mortality in the naming of his books is not an empty gesture or a manipulative marketing gambit.
 His writings on the topic of time-management and day-to-day living take death out of the subtext and put it where it belongs, in the text itself.
 
