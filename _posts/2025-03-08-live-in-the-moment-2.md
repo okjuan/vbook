@@ -10,7 +10,7 @@ show_revisions: true
 As writing is selection, so is storytelling {% vbook_post like curation | 2024-02-04-use-restraint %}.
 <!--more-->
 From an infinite stream of events and evergrowing crowds of people, the writer plucks out a chosen few to construct their narrative.
-But this is also true at the elemental level of words and sentences.
+This is the case also at the elemental level of words and sentences.
 Of all the action and detail available for depiction in a scene, the writer says very little.
 Good literature distills from life the beautiful and the resonant normally diluted in a sea of mundanity.
 
