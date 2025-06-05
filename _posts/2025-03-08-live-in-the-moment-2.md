@@ -30,6 +30,6 @@ Art is a means for capturing these moments.
 Take a picture, draw the scene, put it in words.
 What you produce is an observation not of objective reality but of [subjective experience](https://en.wikipedia.org/wiki/Qualia).
 Like the jarring of a firefly, you've taken from the vastness a little treasure so that the magic of that moment might endure a little longer.
-Something for the future, for yourself and to share with others.
+Something for the future, for yourself and for sharing with others.
 But you're also doing something now.
 You're enjoying the act of living.
