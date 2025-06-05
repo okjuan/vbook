@@ -22,9 +22,9 @@ Cast your attention out into the world like a fishing line and wait until you no
 A tug from the subconscious.
 Something stirring your curiosity.
 What is it?
-Is it the sunlight?
-The colors, the sound of the breeze?
-The oddly pleasing way the shapes arrange themselves?
+The sound of the breeze rustling in the leaves overhead?
+The colors lit up in the sunlight?
+The oddly pleasing way the shapes of things arrange themselves?
 
 Art is a means for capturing these moments.
 Take a picture, draw the scene, put it in words.
