@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-03-09
+modified_date: 2025-06-05
 layout: post
 title: "how to live in the moment #2"
 permalink: /live-in-the-moment-2
@@ -7,9 +7,8 @@ tags: writing literature art life
 show_revisions: true
 ---
 
-If writing is selection, is {% vbook_post literature like curation | 2024-02-04-use-restraint %}?
+As writing is selection, so is storytelling {% vbook_post like curation | 2024-02-04-use-restraint %}.
 <!--more-->
-This is easy to notice about storytelling.
 From an infinite stream of events and evergrowing crowds of people, the writer plucks out a chosen few to construct their narrative.
 But this is also true at the elemental level of words and sentences.
 Of all the action and detail available for depiction in a scene, the writer says very little.
