@@ -6,7 +6,7 @@ permalink: /whose-city
 tags: journal cities vancouver urbanism
 ---
 
-It's only Thursday afternoon but for the fifth or sixth or seventh time this week I'm sitting in the little urban patio that the city of Vancouver recently set out at the junction of Kitchener and Commercial.
+It's only Thursday afternoon but for the fifth or sixth or seventh time this week I'm sitting in the little urban patio that the [city of Vancouver recently set out](https://cityhallwatch.wordpress.com/2025/05/24/pop-up-plaza-commercial-drive-and-kitchener-st/) at the junction of Kitchener and Commercial.
 <!--more-->
 Two men sauntering by disagree about who this seating area belongs to.
 One of them stops altogether and spins around to point at the signage.
