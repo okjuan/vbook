@@ -4,6 +4,7 @@ layout: post
 title: "who does the city belong to?"
 permalink: /whose-city
 tags: journal cities vancouver urbanism
+show_revisions: true
 ---
 
 It's only Thursday afternoon but for the fifth or sixth or seventh time this week I'm sitting in the little urban patio that the [city of Vancouver recently set out](https://cityhallwatch.wordpress.com/2025/05/24/pop-up-plaza-commercial-drive-and-kitchener-st/) at the junction of Kitchener and Commercial.
