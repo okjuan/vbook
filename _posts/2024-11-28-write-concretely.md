@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-12-14
+modified_date: 2025-06-06
 layout: post
 title: "how to write concretely"
 permalink: /write-concretely
@@ -17,12 +17,12 @@ This private expanse exists nowhere physically but is nonetheless experienced wi
 Thus, writing in concrete terms is only one way tap into a reader's sensory experience.
 Words don't need to refer to objects and their physical qualities in order to evoke a sensation in the reader.
 There is a variety of effects a writer can have on a reader that we might try to map onto a spectrum from instinctual, to visceral, to intuitive, to rational.
-Regardless, physicality is only one variable in the formula.
+Physicality is but one variable in the formula.
 
 The hollowness of buzzwords, for example, is related to their inablility to cause a specific mental effect.
 They are duds not because the words themselves are meaningless, but because they seem to refer to nothing in particular.
 Words become buzzwords when too many people use them to avoid saying something, when they wield them like a blunt object, swatting away invocations to say something of substance, something concrete.
 
-This failure on the speaker's part infects words themselves.
-They lack vigor not only when present in the platitudes of dishonest politicians and interested businesspeople, but also when used thoughtfully by people who mean them in a particular way.
-My mom for example uses the word "synergy" in a genuine, intentional way, but I am skeptical that her optimism is enough to revitalize the word, which is arguably as lifeless as a carcass, all the meat of its meaning picked away to fodder the keynote speeches of glib business executives.
+This failure on the part of speakers infects the words themselves.
+They lack vigor not only in the platitudes of dishonest politicians and interested businesspeople, but also when used thoughtfully by people who mean them in a precise way.
+My mom for example uses the word "synergy" in a genuine way but I doubt that her enthusiasm can revitalize the word, which is arguably as lifeless as a carcass, all the meat of its meaning picked away to fodder the keynote speeches of glib business executives.
