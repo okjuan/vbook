@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2025-06-08
 layout: post
 title: 'Herbie Hancock: Possibilities (2014)'
 subsubtitle: by Herbie Hancock
@@ -11,7 +11,7 @@ The audiobook narrated by Herbie is great.
 His impression of Miles is hilarious.
 <!--more-->
 
-It's not a beautifully written memoir like Patti Smith's _Just Kids_ or Tara Westover's {% vbook_post _Educated_ | 2020-04-26-educated %}, but it's a worthy story.
+It's not a beautifully written memoir like Patti Smith's _Just Kids_ or Tara Westover's _Educated_, but it's a worthy story.
 It's fascinating to see how Herbie's collaborations pushed his career forward and how he {% vbook_post reinvented himself | 2022-06-11-reinvent-yourself %} over and over, always curious about whether something could be done.
 Herbie shows how openness, curiosity, and determination can keep your work interesting for a long, long time.
 
