@@ -3,7 +3,7 @@
 set -e
 
 current_date=$(date +%Y-%m-%d)
-for file in $(git diff --cached --name-only | grep '^_posts/.*\.md$'); do
+for file in $(git diff --cached --name-only --diff-filter=d | grep '^_posts/.*\.md$'); do
   # If not already present, insert 'modified_date: ' to 2nd line of post
   if ! grep -q 'modified_date:' "$file"; then
     echo "Adding 'modified_date: ' to file $file"
