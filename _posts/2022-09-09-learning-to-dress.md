@@ -1,10 +1,10 @@
 ---
-modified_date: 2023-10-19
+modified_date: 2025-06-13
 layout: post
-title: learning to dress
-permalink: /clothes
+title: how to dress
+permalink: /dress
 tags: journal soccer clothing fashion popularity shopping brands hand-me-downs vintage regret
-
+redirect_from: ['/clothes']
 ---
 
 In elementary school I chose my outfits for one thing: recess.
