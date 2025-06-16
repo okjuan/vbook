@@ -17,6 +17,7 @@ There are many kinds of books.
         justify-content: space-evenly;
         align-items: center;
         width: 100%;
+        margin-top: 10px;
     }
     .kind-of-book {
         aspect-ratio: 0.63;
