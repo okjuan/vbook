@@ -1,0 +1,94 @@
+<header class="post-header">
+  <h1 class="post-title p-name" itemprop="name headline">{{ page.title }}</h1>
+  {%- if page.subtitle -%}
+  <em><h3 class="post-subtitle">{{ page.subtitle }}</h3></em>
+  {%- endif -%}
+  {%- if page.subsubtitle -%}
+  <h4 class="post-subtitle">{{ page.subsubtitle }}</h4>
+  {%- endif -%}
+  <p class="post-meta">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d %Y" -%}
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ page.date | date: date_format }}
+    </time>
+    {%- if page.modified_date -%}
+      {% assign postDateInSecs = page.date | date: "%s" | minus: 0 %}
+      {% assign modDateInSecs = page.modified_date | date: "%s" | minus: 0 %}
+      {%- if modDateInSecs > postDateInSecs -%}
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        &nbsp;(mod.&nbsp;<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">{{ mdate | date: date_format }}</time>)
+      {%- endif -%}
+    {%- endif -%}
+
+    {%- if page.in_post_series -%}
+      <span id="post-series-nav">
+        &nbsp;&#9670;&nbsp;&nbsp;See
+        {% assign separator = ' ' %}
+        {%- if page.prev_post_in_series -%}
+          the <a href="{{site.baseurl}}{{page.prev_post_in_series.url}}">previous post</a>
+          {%- assign separator = ' or ' -%}
+        {%- endif -%}
+        {%- if page.next_post_in_series -%}
+          {{separator}}the <a href="{{site.baseurl}}{{page.next_post_in_series.url}}">next post</a>
+        {%- endif -%}
+        &nbsp;in this series.
+      </span>
+    {%- endif -%}
+
+
+    {%- if page.show_revisions -%}
+      {% if page.final_version %}
+        {% assign revision_count = page.revision_count %}
+        {% assign latest_version = page %}
+      {% else %}
+        {% assign revision_count = page.current_post.revision_count %}
+        {% assign latest_version = page.current_post %}
+      {% endif %}
+
+      {%- if revision_count > 0 -%}
+        <span id="revisions-nav">
+          &nbsp;&#9670;&nbsp;&nbsp;
+          {%- if page.final_version -%}
+              This is the latest version of this post.
+          {%- else -%}
+            This is revision {{page.revision_number}} of {{revision_count}}.
+          {%- endif -%}
+          &nbsp;See
+          {% assign separator = ' ' %}
+          {%- if page.prev_rev -%}
+            the <a href="{{site.baseurl}}{{page.prev_rev.url}}">previous revision</a>
+            {%- assign separator = ' or ' -%}
+          {%- endif -%}
+          {%- if page.next_rev -%}
+            {%- if page.next_rev.final_version -%}
+              {{separator}}the <a href="{{site.baseurl}}{{page.next_rev.url}}">final version</a>
+            {%- else -%}
+              {{separator}}the <a href="{{site.baseurl}}{{page.next_rev.url}}">next revision</a>
+            {%- endif -%}
+          {%- endif -%}
+          .
+        </span>
+      {%- endif -%}
+    {%- endif -%}
+    {%- if page.author -%}
+      • {% for author in page.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+          {%- if forloop.last == false %}, {% endif -%}
+      {% endfor %}
+    {%- endif -%}
+  </p>
+
+  <span class="post-meta-tags">
+      {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/vbook/tags/{{ tag_name }}">#{{ tag_name }}</a>
+      {% endfor %}
+  </span>
+
+  {%- assign backlinks = page | backlink -%}
+  {%- if backlinks -%}
+    &mdash; <span class="backlinks">{{ backlinks }}</span>
+  {%- endif -%}
+
+</header>
