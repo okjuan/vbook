@@ -10,10 +10,14 @@ module Jekyll
         # this prevents issues where linked_post.content for newer posts are still raw Markdown
         Jekyll::Hooks.register :site, :post_render do |site|
             site.posts.docs.each do |post|
-                preserveParagraphs(post)
+                unless post['disable_hovercards']
+                    preserveParagraphs(post)
+                end
             end
             site.posts.docs.each do |post|
-                insertHoverCards(post, site)
+                unless post['disable_hovercards']
+                    insertHoverCards(post, site)
+                end
             end
         end
     end
