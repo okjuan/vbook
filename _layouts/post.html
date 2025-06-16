@@ -8,11 +8,20 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
 
-    {{ content
+    {% assign post_content = content
         | replace: '<span class="hover-link"', '</p><span class="hover-link"'
         | replace: '<span class="hover-card-container"><span class="hover-card">', '<div class="hover-card-container"><div class="hover-card">'
         | replace: '</span></span><span id="HOVERCARDEND"></span>', '</div></div><p>'
-    }}
+    %}
+
+    {%- if page.post_type == "stacks" -%}
+      {{ content }}
+      {%- include stacks.html -%}
+    {%- elsif page.post_type -%}
+        TODO custom
+    {% else %}
+        {{ post_content }}
+    {%- endif -%}
 
     {%- if page.note -%}
       <hr />
