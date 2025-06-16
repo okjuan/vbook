@@ -31,7 +31,7 @@ There are many kinds of books.
         border-radius: 10px;
         padding: 15px;
         margin: 15px;
-        box-shadow: 10px 10px 5px black;
+        box-shadow: 10px 10px 1px rgb(145, 160, 161);
         /* Vertical center alignment */
         display: flex;
         overflow: auto;
