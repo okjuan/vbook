@@ -8,6 +8,13 @@ disable_hovercards: true
 post_type: stacks
 stacks:
   - description: The kind you read over a weekend.
+    examples:
+      - title: Breakfast of Champions
+        author: Kurt Vonnegut
+        cover_image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327934446i/4980.jpg
+      - title: Wise Blood
+        author: Flannery O'Connor
+        cover_image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1223675478i/337107.jpg
   - description: The kind you read sometimes before bed.
   - description: The kind you read slowly over many months – across years even – because in it there's much to chew on and to read it all quickly would be an inferior accomplishment.
   - description: The kind you listen to attentively while driving or walking or riding the bus.

@@ -23,15 +23,63 @@
         /* Vertical center alignment */
         display: flex;
         overflow: auto;
+        /* Make clickable */
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .stack:hover {
+        transform: translateY(-5px);
+        box-shadow: 10px 15px 1px rgba(145, 160, 161, 0.8);
+        filter: brightness(1.5);
     }
 
     .stack-description {
         margin: auto;
+        text-align: center;
+    }
+
+    /* Accessibility focus styles */
+    .stack:focus {
+        filter: brightness(1.5);
     }
 </style>
 
 <div id="stacks-container">
     {% for stack in page.stacks %}
         <div class="stack"><p class="stack-description">{{ stack.description }}</p></div>
+        <!-- {%- if stack.examples -%}
+        {%- endif -%} -->
     {% endfor %}
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const stacks = document.querySelectorAll('.stack');
+        stacks.forEach(stack => {
+            stack.setAttribute('tabindex', '0');  // Make focusable with keyboard
+            stack.setAttribute('role', 'button'); // ARIA role for accessibility
+
+            // Handle click events
+            stack.addEventListener('click', function() {
+                // Get the description from the p element
+                const description = this.querySelector('.stack-description').textContent;
+                console.log('Clicked stack:', description);
+                // You can add your own functionality here, like opening a modal or navigating
+                // For example, to show/hide examples if they exist:
+                // const examples = this.nextElementSibling;
+                // if (examples && examples.classList.contains('stack-examples')) {
+                //     examples.style.display = examples.style.display === 'none' ? 'block' : 'none';
+                // }
+            });
+
+            // Handle keyboard events (enter/space to click)
+            stack.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    this.click();
+                }
+            });
+        });
+    });
+</script>
