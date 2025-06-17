@@ -39,6 +39,66 @@
         text-align: center;
     }
 
+    /* Modal styles */
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.3);
+        overflow-y: auto;
+        backdrop-filter: blur(2px);
+    }
+
+    .modal-content {
+        /* Use transparent background to inherit page background */
+        background-color: inherit;
+        margin: 10% auto;
+        padding: 20px;
+        border-radius: 10px;
+        max-width: 600px;
+        width: 80%;
+        position: relative;
+        /* Add shadow for floating effect */
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+        /* Subtle border for definition */
+        border: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+    .close-button {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        font-size: 24px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .examples-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .example-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .example-image {
+        width: 100%;
+        max-width: 120px;
+        height: auto;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+        margin-bottom: 10px;
+    }
+
     /* Accessibility focus styles */
     .stack:focus {
         filter: brightness(1.5);
@@ -47,30 +107,107 @@
 
 <div id="stacks-container">
     {% for stack in page.stacks %}
-        <div class="stack"><p class="stack-description">{{ stack.description }}</p></div>
-        <!-- {%- if stack.examples -%}
-        {%- endif -%} -->
+        <div class="stack"
+             data-description="{{ stack.description }}"
+             {% if stack.examples %}
+             data-has-examples="true"
+             data-examples="{{ stack.examples | jsonify | escape }}"
+             {% endif %}>
+            <p class="stack-description">{{ stack.description }}</p>
+        </div>
     {% endfor %}
+</div>
+
+<!-- Modal for displaying examples -->
+<div id="stack-modal" class="modal">
+    <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <h3 id="modal-title"></h3>
+        <div id="examples-container" class="examples-grid"></div>
+    </div>
 </div>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         const stacks = document.querySelectorAll('.stack');
+        const modal = document.getElementById('stack-modal');
+        const modalContent = document.querySelector('.modal-content');
+        const modalTitle = document.getElementById('modal-title');
+        const examplesContainer = document.getElementById('examples-container');
+        const closeButton = document.querySelector('.close-button');
+
+        // Get the background color of the document body
+        const bodyStyles = window.getComputedStyle(document.body);
+        const bodyBgColor = bodyStyles.backgroundColor;
+
+        // Apply the background color to the modal content
+        if (bodyBgColor && bodyBgColor !== 'rgba(0, 0, 0, 0)' && bodyBgColor !== 'transparent') {
+            modalContent.style.backgroundColor = bodyBgColor;
+        }
+
+        // Close modal when clicking the close button
+        closeButton.addEventListener('click', function() {
+            modal.style.display = 'none';
+        });
+
+        // Close modal when clicking outside the modal content
+        window.addEventListener('click', function(event) {
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+
+        // Close modal with Escape key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape' && modal.style.display === 'block') {
+                modal.style.display = 'none';
+            }
+        });
+
         stacks.forEach(stack => {
             stack.setAttribute('tabindex', '0');  // Make focusable with keyboard
             stack.setAttribute('role', 'button'); // ARIA role for accessibility
 
             // Handle click events
             stack.addEventListener('click', function() {
-                // Get the description from the p element
-                const description = this.querySelector('.stack-description').textContent;
-                console.log('Clicked stack:', description);
-                // You can add your own functionality here, like opening a modal or navigating
-                // For example, to show/hide examples if they exist:
-                // const examples = this.nextElementSibling;
-                // if (examples && examples.classList.contains('stack-examples')) {
-                //     examples.style.display = examples.style.display === 'none' ? 'block' : 'none';
-                // }
+                const description = this.dataset.description;
+                const hasExamples = this.dataset.hasExamples === 'true';
+
+                // Set modal title
+                modalTitle.textContent = description;
+
+                // Clear previous examples
+                examplesContainer.innerHTML = '';
+
+                // If this stack has examples, display them
+                if (hasExamples) {
+                    try {
+                        const examples = JSON.parse(this.dataset.examples);
+
+                        examples.forEach(example => {
+                            const exampleItem = document.createElement('div');
+                            exampleItem.className = 'example-item';
+
+                            let html = '';
+
+                            if (example.image_url) {
+                                html += `<img src="${example.image_url}" alt="Image for ${example.name}" class="example-image">`;
+                            }
+
+                            if (example.name) {
+                                html += `<h4>${example.name}</h4>`;
+                            }
+
+                            exampleItem.innerHTML = html;
+                            examplesContainer.appendChild(exampleItem);
+                        });
+
+                        // Show the modal
+                        modal.style.display = 'block';
+                    } catch (error) {
+                        console.error('Error parsing examples data:', error);
+                    }
+                }
             });
 
             // Handle keyboard events (enter/space to click)
