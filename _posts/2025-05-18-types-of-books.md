@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-06-17
+modified_date: 2025-06-18
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -77,14 +77,16 @@ stacks:
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426904873i/446542.jpg
   - description: The kind you read to learn from the author's writing style.
     examples:
+      - name: The Short Stories of Ernest Hemingway
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523546158i/4625.jpg
+      - name: A Moveable Feast by Ernest Hemingway
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427463201i/4631.jpg
       - name: Blood Meridian by Cormac McCarthy
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701688704i/394535.jpg
       - name: Stella Maris by Cormac McCarthy
         image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658241766l/60526802.jpg
       - name: East of Eden by John Steinbeck
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309288593i/919458.jpg
-      - name: A Moveable Feast by Ernest Hemingway
-        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427463201i/4631.jpg
       - name: Kick the Latch by Kathryn Scanlan
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663015011i/62454763.jpg
       - name: The Dominant Animal by Kathryn Scanlan
