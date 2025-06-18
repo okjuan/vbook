@@ -33,6 +33,8 @@ stacks:
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416448116i/22237171.jpg
       - name: Born a Crime by Trevor Noah
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473867911i/29780253.jpg
+      - name: I'm Glad My Mom Died by Jennette McCurdy
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672137432i/75342179.jpg
   - description: The kind you listen to distractedly while tending to housework.
     examples:
       - name: Atomic Habits by James Clear
