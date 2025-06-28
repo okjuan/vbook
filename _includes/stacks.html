@@ -76,21 +76,32 @@
         gap: 20px;
         border-top: 1px solid currentColor;
         padding-top: 30px;
+        padding-bottom: 30px;
     }
 
     .example-item {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
-        text-align: center;
+        gap: 15px;
     }
 
     .example-image {
         width: 100%;
         max-width: 120px;
+        min-width: 60px;
         height: auto;
         box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-        margin-bottom: 10px;
+        flex: 1;
+        flex-shrink: 1;
+        flex-grow: 1;
+        margin: 0 25px;
+    }
+
+    .example-item p {
+        flex: 5;
+        margin: 0;
+        padding: 0 15px;
     }
 
     /* Accessibility focus styles */
@@ -189,7 +200,7 @@
                             }
 
                             if (example.name) {
-                                html += `<h4>${example.name}</h4>`;
+                                html += `<p>${example.name}</p>`;
                             }
 
                             exampleItem.innerHTML = html;
