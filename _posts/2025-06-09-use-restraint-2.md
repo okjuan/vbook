@@ -29,7 +29,7 @@ Every now and then I get the motivation to watch YouTube videos to learn how to 
 The people who make these videos tend to chat at the camera for a while, stroking and poking their plants as they slowly approach the subject at hand.
 I watch these videos impatiently, jumping forward with irritation until I find the bits of information I need.
 I want to get the task done as quickly as possible.
-I find it difficult to enjoy the process.
+Plant care for me is more chore than hobby.
 
 It's a funny thing to find yourself resenting chores you created for yourself.
 Nobody and no thing require that I have plants in my home and yet I have several.
@@ -39,9 +39,9 @@ Many of these are second or third generation houseplants that I planted from sni
 I stopped buying plants a while ago and yet I keep accumulating more of them.
 The list above is almost twenty in number without including my biggest and oldest plants, which are back in my apartment in Seattle, 238km away.
 Over there I have my lemon-lime dracaena, a sizeable monstera, a growing ficus, a tentacled pothos, and several other smaller plants.
-The better job I do at caring for my plants, the more they thrive and the greater my responsibilities become.
+The better job I do at caring for my plants, the longer they live, the bigger they get, and the greater my responsibilities become.
 
-Watering plants is a surprisingly effortful task, especially when you have to water many all at once.
+Watering plants is a surprisingly effortful task, especially when you water them all on the same day.
 For some, I stand on tiptoes and extend my arm rigidly overhead to let a stream of water arc into the pot.
 For others, I do a mini deadlift and lug their fragile figures to the tub.
 Any spills I mop up on my hands and knees.
