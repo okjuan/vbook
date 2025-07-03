@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-06-24
+modified_date: 2025-07-02
 layout: post
 title: "how to use restraint #2"
 permalink: /use-restraint-2
@@ -9,18 +9,21 @@ show_revisions: true
 
 I started buying houseplants about four years ago.
 <!--more-->
-I bought two from the grocery store and promptly killed one.
+No research went into it, I just picked two that I liked from the grocery store and brought them home.
+This proved fatal for one of them.
 I think I overwatered it.
-Or maybe it got infested by some tiny plant killers.
+Or maybe it got infested by malevolent insects.
 I don't know.
 I didn't try very hard to save it.
-I wanted my apartment to have that green leafy look but I didn't want to sink time and effort into research.
+I wanted my apartment to have that leafy, green look but I didn't want to sink time and effort into making it happen.
+I wanted the reward, but not the work.
 
-Apart from that early casualty, my approach of low involvement has worked pretty well.
-The other plant – a lemon-lime dracaena – has thrived.
-I've repotted it multiple times and it stands today at two or three times its original height.
+Apart from that early casualty, however, my approach of low involvement has worked pretty well.
+The other plant – a lemon-lime dracaena – has lived and thrived in the years since I brought it home.
+Multiple times I've repotted it and today it stands at two or three times its original height.
 I'm proud of it, somewhat.
-Several of its leaves are partially browned with decay due to some reason I've neglected to investigate, but nonetheless it lives on.
+Several of its leaves are at their edges browned with decay due to some reason I've neglected to investigate.
+Nonetheless, it lives on.
 
 Every now and then I get the motivation to watch YouTube videos to learn how to perform certain tasks of plant care.
 The people who make these videos tend to chat at the camera for a while, stroking and poking their plants as they slowly approach the subject at hand.
