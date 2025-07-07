@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-06-18
+modified_date: 2025-07-07
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -122,12 +122,48 @@ stacks:
        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529845599i/34051011.jpg
   - description: The kind you read because it won a big prize.
     examples:
-     - name: A Visit from the Goon Squad by Jennifer Egan
-       image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356844046i/7331435.jpg
+      - name: The Executioner's Song by Norman Mailer
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325755176i/12468.jpg
+      - name: A Visit from the Goon Squad by Jennifer Egan
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356844046i/7331435.jpg
   - description: The kind you read because you picked it up to peruse but then found yourself gripped by.
     examples:
      - name: The Road by Cormac McCarthy
        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288.jpg
+  - description: The kind you read to learn how literature can depict real events.
+    examples:
+      - name: The Executioner's Song by Norman Mailer
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325755176i/12468.jpg
+      - name: Fear and Loathing in Las Vegas by Hunter S. Thompson
+        image_url: https://m.media-amazon.com/images/I/81E8GG6W29L.jpg
+  - description: The kind you read because a blogger praised it.
+    examples:
+      - name: "Sum: forty tales from the afterlives by David Eagleman"
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328125275i/6564139.jpg
+      - name: The World Beyond Your Head by Matthew B. Crawford
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416448116i/22237171.jpg
+  - description: The kind you read because it's the masterpiece of a great of modern English Literature.
+    examples:
+      - name: Blood Meridian by Cormac McCarthy
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701688704i/394535.jpg
+      - name: East of Eden by John Steinbeck
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309288593i/919458.jpg
+  - description: The kind you read because the author recently died.
+    examples:
+      - name: "The Will to Change: Men, Masculinity, & Love by bell hooks"
+        image_url: https://m.media-amazon.com/images/I/61GRmiQSeYL.jpg
+  - description: The kind you read to learn about writing.
+    examples:
+      - name: Draft No. 4 by John McPhee
+        image_url: https://m.media-amazon.com/images/I/71mSsllsJIL._UF1000,1000_QL80_.jpg
+      - name: Wounds of Passion by bell hooks
+        image_url: https://m.media-amazon.com/images/I/61HZ8L+Iu9L._UF1000,1000_QL80_.jpg
+      - name: Several short sentences about writing by Verlyn Klinkenborg
+        image_url: https://m.media-amazon.com/images/I/61nzeMWY6cL.jpg
+      - name: The Elements of Style by William Strunk Jr.
+        image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckL3ZuMvxcRxuxqazatyLerxtzA-qA9jijA&s
+      - name: On Writing by Stephen King
+        image_url: https://m.media-amazon.com/images/I/71z4varBITL._UF1000,1000_QL80_.jpg
 ---
 
 There are many kinds of books.
