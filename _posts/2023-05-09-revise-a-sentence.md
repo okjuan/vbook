@@ -1,9 +1,9 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2025-07-12
 layout: post
 title: how to revise a sentence
 permalink: /revise-a-sentence
-tags: essays editing writing
+tags: essays writing
 
 ---
 

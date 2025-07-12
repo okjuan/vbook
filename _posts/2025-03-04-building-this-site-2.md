@@ -3,7 +3,7 @@ modified_date: 2025-07-12
 layout: post
 title: "building this site #2"
 permalink: /building-this-site-2
-tags: journal notes coding design kaizen editing
+tags: journal notes coding design kaizen writing
 ---
 
 Many features I've implemented on this site – e.g. {% vbook_post revisions | 2024-10-03-building-vbook %} – encourage retroactive editing of posts.
