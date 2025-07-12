@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-07-11
+modified_date: 2025-07-12
 layout: post
 title: "building this site #2"
 permalink: /building-this-site-2
@@ -18,6 +18,6 @@ For example, I changed {% vbook_post _okjuan.me/vbook/justify-writing_ | 2023-03
 If I later decide to change the URL again e.g. to _okjuan.me/vbook/why-i-write_, I just have to set `permalink: /why-i-write` and `redirect_from: ['why-write', '/justify-writing']` in the post's frontmatter.
 
 A nice side-effect of this change is that I can make a post's URL match its title even if I change it.
-Another perk is that I can easily update _okjuan.me/vbook/now_ to point to my latest _what I am doing now_ post.
+Another perk is that I can easily update _okjuan.me/vbook/now_ to point to my latest _what I'm doing now_ post.
 But probably this feature's most useful effect, and the reason I thought to implement it in the first place, is that it lets me realign a post into a series.
 For example, by changing the title of _how to justify writing_ to _why write?_, I can make it the first entry in a series that I can create by writing posts _why write? #2_, _why write? #3_, and so on.
