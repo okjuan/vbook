@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-07-12
+modified_date: 2025-07-15
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -36,7 +36,8 @@ They are perhaps more an entertainment company than a journalism firm.
 
 I often come across new sites and I like to save them here to remind myself to check back on them and consider adding them to the small set of sites I frequent.
 Here are sites that haven't made it into my special list but I want to revisit soon:
-- [scoutmagazine.ca](https://scoutmagazine.ca/) a digital magazine local to Vancouver BC for which now-councillor Sean Orr has written since 2011
+- [ucodia.space](https://ucodia.space/), digital art programmed by a Software Engineer in Vancouver BC
+- [scoutmagazine.ca](https://scoutmagazine.ca/), a digital magazine local to Vancouver BC for which now-councillor Sean Orr has written since 2011
 - [lethain.com](https://lethain.com/) e.g. [Forty Year Career](https://lethain.com/forty-year-career/)
 - [micro.blog](https://micro.blog/)
 - [iwebthings.joejenett.com](https://iwebthings.joejenett.com/)
