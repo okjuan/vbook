@@ -1,5 +1,5 @@
 ---
-modified_date: 2023-10-19
+modified_date: 2025-07-17
 layout: post
 title: Several Short Sentences About Writing (2012)
 subsubtitle: by Verlyn Klinkenborg
@@ -21,7 +21,7 @@ Some books about writing are sterile and tedious, but this book is on the other 
 Some of its advice has lodged into my writing brain:
 
 __Keep the space between sentences as empty as possible...__
-__Most sentences need no preamble - nor postlude.__
+__Most sentences {% vbook_post need no preamble | 2023-06-05-revise-a-sentence-2 %} - nor postlude.__
 
 __Avoid writing your sentence.__
 __Play with it in your head.__
