@@ -58,3 +58,21 @@ the significant influence of relationships between people
 
 that a small handful of citizens regularly participate in many public hearings – some to exalt, others to wield diatribe
     some insist that towers "belong downtown" and that "misery rains down from" them where built in "neighborhoods"
+
+---
+
+Why don't we have streetcars?
+According to Lewis Villegas, they are far cheaper than subways/skytrains and offer greater capacity.
+
+---
+
+Why doesn't the city penalize developers for failing to build?
+Are there any ways in which the city combats property speculation and zoning-flips like the kind discussed in [this article](https://cityhallwatch.wordpress.com/2025/07/17/flipping-rezoning-receivership-the-saga-of-the-curv-1075-nelson-renger/)?
+To what extent is this a problem in Vancouver?
+
+---
+
+Would I ever live in a tower?
+How many people would?
+
+---
