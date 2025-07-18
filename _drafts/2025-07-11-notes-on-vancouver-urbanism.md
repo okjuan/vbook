@@ -1,22 +1,42 @@
 ---
 layout: post
 title: "notes on Vancouver urbanism"
-permalink: /urbanism
-tags: notes city-planning urbanism
+permalink: /vancouver-urbanism
+tags: notes city-planning urbanism vancouver
 ---
 
-Here are some things I've noticed in the last couple of weeks while watching recordings of public hearings of the Vancouver City Council.
+Here are some things I've noticed in the last couple of weeks while watching recordings of public hearings held by the Vancouver City Council for rezoning proposals.
 <!--more-->
 
-Each councillor sits behind a computer monitor on which I assume they review the proposal at hand.
-It must be much more practical that way than using paper printouts.
-The hearings are hybrid meetings:
-Microsoft Teams plays a vital role
-really cool to see Microsoft products used in important and useful ways
+---
 
-impressed by the attention given to details like "view cones" and "solar areas"
+I am pleased and encouraged to see Microsoft Teams used to hold public hearings.
+City staff, members of the public, and even council members rely on it to participate.
+I don't work on Teams, but seeing Microsoft products relied upon for important work is a motivating and heartening reminder that the product I work on is a useful tool.
 
-awed that anyone can become a council member if enough people vote for them
+---
+
+It amazes me that anyone can become a council member if enough people vote for them.
+Hooray for democracy.
+Change is possible.
+Grassroots movements can go all the way to the top.
+
+---
+
+I'm impressed by the attention given to topics of aesthetic and leisure.
+Specified "view cones" and "solar areas" play a part in determining the height and placement of new buildings.
+
+Even more importantly, the impact on bike streets is carefully considered.
+During the public hearing for the infamous Safeway Towers, Councillor Maloney expressed concern that the entrance to the parking garage was on a bike street.
+City staff was ready for the question.
+The garage was on the north side of the street and the bike lanes were on the south side.
+The street runs east to west, so there was no conflict.
+
+---
+
+As a civilian steps up to the podium to speak, by their appearance alone, you can often guess whether they will be for or against the proposal.
+A remarkable portion of the opposition consists of homeowners of middle age.
+Young people on the other hand, comprise most of the support.
 
 amazed at the rhetoric slung by Villagomez on spacing.ca in critique of Uytae's YouTube videos
     I am also suspicious of the things folks from [CityHallWatch](https://cityhallwatch.wordpress.com/) say:
