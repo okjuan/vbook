@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-07-12
+modified_date: 2025-07-17
 layout: post
 title: "how to revise a sentence #5"
 permalink: /revise-a-sentence-5
@@ -38,7 +38,7 @@ But by the time I'd found a phrasing I preferred, it didn't matter much which of
 
 One thing that bothers me is the mushy **-ing** form of **hurry**.
 Another is the awkward way **endless** and **hurrying** get in each other's way modifying **feet**.
-My instinct is to break up this awkward trio and to pick a more pleasing form of **hurry**, like **hurried** or **hurry** itself, one that is more pleasing to say and hear.
+My instinct is to break up this awkward trio and to pick a form of **hurry** that's more pleasing to say and hear, like **hurried** or **hurry** itself.
 
 Here's a rephrasing that conserves Miller's idea and that I think improves the sentence that contains it:
 
