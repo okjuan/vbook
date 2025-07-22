@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-07-17
+modified_date: 2025-07-21
 layout: post
 title: "how to revise a sentence #5"
 permalink: /revise-a-sentence-5
@@ -74,3 +74,65 @@ On the other hand, this one does:
  \    x   \  x   \  x  \   x   \    x   \     x   \    x    \
 Years of endless hurry up and down the steps had worn them smooth.
 ```
+
+---
+
+As I progress into the novel, I notice more sentences with opportunity for rhythmic tweaking.
+
+Here's one that gathers pace, then slows over a speedbump, then speeds back up immediately.
+
+```
+A door that did not open at his knock was a novelty in its own right, and a kind of relief as well.
+                                                    ^^^^^^^^^^^^^^^^
+                                                          itself
+
+A door that did not open at his knock was a novelty itself, and a kind of relief as well.
+```
+
+Swapping **in its own right** with **itself** smooths over the hitch while maintaining the meaning.
+Although it introduces a bit of rhyminess with **as well** that makes me hesitate.
+Too sing-songy?
+
+Moving on.
+Here's a sentence missing a beat.
+
+```
+I fear I have robbed them not only of their youth but their age as well.
+       ^^^^^^                                        ^
+       I've                                          of
+
+x  \    x     \                                  x  \    x    \  x   \
+I fear I've robbed them not only of their youth but of their age as well.
+```
+
+The additional **of** I want in particular to round out the parallelism between **of their youth** and **of their age**, and to balance the rhythmic patter of the sentence.
+Compressing **I have** to **I've** is an optional tweak to help the sentence start off on a steady beat.
+But it comes at the cost of slightly undercutting the graveness in the speaker's tone.
+For that reason, it also makes sense to preserve the more formal **I have** in favor of the more casual **I've**.
+
+In the following sentence, replacing **he had** with **he'd** is an easier decision because it mirrors the opening **He'd** as well as tightening the rhythm:
+
+```
+He'd told me once that if he had brought the bow, he would have been the best archer in both armies.
+                          ^^^^^^                                                        ^^^^^^^^^^^
+                           he'd                                                         either army.
+
+ x    /   x   /    x   /   x      /     x   /   x    /    x    /    x   /   /  x   x  \  x   \ x
+He'd told me once that if he'd brought the bow, he would have been the best archer in either army.
+```
+
+It's hard to nail down what it is about **in either army** that flows better than **in both armies**.
+Maybe because it's easier to say?
+Consonants leading into vowels leading into consonants?
+Or maybe it's the additional syllable again leveling out the rhythm.
+
+In the revised sentence, there remains a rhythmic wrinkle in **archer**, which flips the order of beats for two syllables.
+Strong (`/`) then weak (`x`) rather than weak followed by strong.
+It's not obvious that this is a problem.
+Arguably, because **the best archer** is the climax of the sentence, the place where the parts coalesce into meaning, it makes sense to slow the reader down there.
+
+Ultimately, rhythm is not a good unto itself, but a technical tool at the writer's disposal.
+It all depends on the effect the writer aims to create and how rhythm might contribute to it.
+The point is not to apply it indiscriminately, but to wield it judisciously.
+No better way than developing close acquaintance with it.
+Hence the exercise.
