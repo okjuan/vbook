@@ -129,7 +129,9 @@ Or maybe it's the additional syllable again leveling out the rhythm.
 In the revised sentence, there remains a rhythmic wrinkle in **archer**, which flips the order of beats for two syllables.
 Strong (`/`) then weak (`x`) rather than weak followed by strong.
 It's not obvious that this is a problem.
-Arguably, because **the best archer** is the climax of the sentence, the place where the parts coalesce into meaning, it makes sense to slow the reader down there.
+Arguably, because **the best archer** is the climax of the sentence, the place where the parts coalesce into meaning, it makes sense there to slow the reader down.
+
+(When editing the last sentence in the previous paragraph, I changed **makes sense to slow the reader down there** to **makes sense there to slow the reader down**, hoisting up **there** to give the sentence a more interesting shape and sound without corrupting its meaning.)
 
 Ultimately, rhythm is not a good unto itself, but a technical tool at the writer's disposal.
 It all depends on the effect the writer aims to create and how rhythm might contribute to it.
