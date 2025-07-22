@@ -89,8 +89,7 @@ A door that did not open at his knock was a novelty in its own right, and a kind
 A door that did not open at his knock was a novelty itself, and a kind of relief as well.
 ```
 
-Swapping **in its own right** with **itself** smooths over the hitch while maintaining the meaning.
-Although it introduces a bit of rhyminess with **as well** that makes me hesitate.
+Swapping **in its own right** with **itself** smooths over the hitch while maintaining the meaning, although it introduces a bit of rhyminess (with **as well**) that makes me hesitate.
 Too sing-songy?
 
 Moving on.
@@ -110,7 +109,7 @@ Compressing **I have** to **I've** is an optional tweak to help the sentence sta
 But it comes at the cost of slightly undercutting the graveness in the speaker's tone.
 For that reason, it also makes sense to preserve the more formal **I have** in favor of the more casual **I've**.
 
-In the following sentence, replacing **he had** with **he'd** is an easier decision because it mirrors the opening **He'd** as well as tightening the rhythm:
+By contrast, in the following sentence, replacing **he had** with **he'd** is an easier decision because it mirrors the opening **He'd** as well as tightening the rhythm:
 
 ```
 He'd told me once that if he had brought the bow, he would have been the best archer in both armies.
