@@ -130,7 +130,7 @@ Strong (`/`) then weak (`x`) rather than weak followed by strong.
 It's not obvious that this is a problem.
 Arguably, because **the best archer** is the climax of the sentence, the place where the parts coalesce into meaning, it makes sense there to slow the reader down.
 
-(When editing the last sentence in the previous paragraph, I changed **makes sense to slow the reader down there** to **makes sense there to slow the reader down**, hoisting up **there** to give the phrase a more interesting shape and sound without corrupting its meaning.
+(Editing my previous sentence, I changed **makes sense to slow the reader down there** to **makes sense there to slow the reader down**, hoisting up **there** to give the phrase a more interesting shape and sound without corrupting its meaning.
 There's a threeshot _pah pah pah_ rhythm to **makes sense there** that then unwinds nicely in the three iambs that follow it.)
 
 Ultimately, rhythm is not a good unto itself, but a technical tool at the writer's disposal.
