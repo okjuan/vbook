@@ -34,7 +34,7 @@ The last bit in particular – **endless hurrying feet** – is a somewhat clunk
 It was hard to pinpoint what bothered me about it.
 At first I thought it was the word **endless**.
 I figured I'd replace it with **ceaseless**.
-But by the time I'd found a phrasing I preferred, it didn't matter much which of those two words were used.
+But by the time I'd found a phrasing I preferred, it didn't matter much which of those two words was used.
 
 One thing that bothers me is the mushy **-ing** form of **hurry**.
 Another is the awkward way **endless** and **hurrying** get in each other's way modifying **feet**.
