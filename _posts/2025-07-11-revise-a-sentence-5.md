@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-07-21
+modified_date: 2025-07-22
 layout: post
 title: "how to revise a sentence #5"
 permalink: /revise-a-sentence-5
@@ -104,7 +104,36 @@ x  \    x     \                                  x  \    x    \  x   \
 I fear I've robbed them not only of their youth but of their age as well.
 ```
 
-The additional **of** I want in particular to round out the parallelism between **of their youth** and **of their age**, and to balance the rhythmic patter of the sentence.
+It's clear to me that adding **of** improves the sentence.
+But why?
+Is it because it rounds out the parallelism in **of their youth** and **of their age**?
+I don't think so.
+Here's another sentence from the book that also avoids repeating the preposition but sounds perfect:
+
+```
+How an axe might feel in wood instead of flesh.
+```
+
+Inserting an **in** before **flesh** to mimic **in wood** would be a blunder.
+
+```
+How an axe might feel in wood instead of in flesh.
+```
+
+The sentence strides gracefully to its finish and at the last moment we shove a hurdle in its path.
+
+So, it's clear the problem was one of cadence, not of symmetry.
+Returning to our edit:
+
+```
+I fear I have robbed them not only of their youth but their age as well.
+       ^^^^^^                                        ^
+       I've                                          of
+
+x  \    x     \                                  x  \    x    \  x   \
+I fear I've robbed them not only of their youth but of their age as well.
+```
+
 Compressing **I have** to **I've** is an optional tweak to help the sentence start off on a steady beat.
 But it comes at the cost of slightly undercutting the graveness in the speaker's tone.
 For that reason, it also makes sense to preserve the more formal **I have** in favor of the more casual **I've**.
