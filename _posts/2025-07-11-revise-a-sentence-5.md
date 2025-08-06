@@ -1,12 +1,12 @@
 ---
-modified_date: 2025-07-22
+modified_date: 2025-08-06
 layout: post
 title: "how to revise a sentence #5"
 permalink: /revise-a-sentence-5
 tags: writing notes books rhythm
 ---
 
-At the beginning of Chapter Ten of Madeline Miller's _Circe_, the protagonist arrives in Crete, the island that her domineering sister rules oppressively.
+At the beginning of Chapter Ten of Madeline Miller's {% vbook_post _Circe_ | 2025-08-05-circe %}, the protagonist arrives in Crete, the island that her domineering sister rules oppressively.
 <!--more-->
 Upon docking at the bustling city port, Circe is told to make her way up to the palace immediately.
 She narrates:
