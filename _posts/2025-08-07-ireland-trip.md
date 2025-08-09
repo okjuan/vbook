@@ -67,6 +67,11 @@ I like it here.
 There is abundance of pubs, quality coffee shops, public transit, bike lanes, leftists, and young people.
 Z says it reminds her of Vancouver.
 
+Dublin feels bigger today.
+It's the weekend and today there was a friendly game between Leeds United vs AC Milan so the streets are chock full of people, many in yellow and white Leeds jerseys and a few Rossoneri sprinkled about.
+The city center is swarming with pedestrians, pubs brimming with cheerful drinkers pooling on the sidewalks by the entrance.
+Out the windows the sound of live music streams laced with singalongers.
+
 #### Sunday 08/10/2025 -- Dublin -> Galway
 
 - pick up car rental @ Dublin Airport in the afternoon
