@@ -62,6 +62,7 @@ Many if not most buildings are made of brick and sit at two or three stories.
 - get coffee @ Copper + Straw
 - tour @ Kilmainham Gaol Museum, former prison in which the UK Government held and executed Irish revolutionaries a hundred years ago
 - eat dinner @ Gallaghers Boxty House
+- attend stand up comedy @ Stitche's Comedy
 
 I like it here.
 There is abundance of pubs, quality coffee shops, public transit, bike lanes, leftists, and young people.
