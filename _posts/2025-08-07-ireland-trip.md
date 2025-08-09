@@ -65,7 +65,7 @@ Many if not most buildings are made of brick and sit at two or three stories.
 - attend stand up comedy @ Stitche's Comedy
 
 I like it here.
-There is abundance of pubs, quality coffee shops, public transit, bike lanes, leftists, and young people.
+There is an abundance of pubs, quality coffee shops, public transit, bike lanes, leftists, and young people.
 Z says it reminds her of Vancouver.
 
 Dublin feels bigger today.
