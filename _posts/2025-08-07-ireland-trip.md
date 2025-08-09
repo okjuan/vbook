@@ -16,8 +16,9 @@ Z and I are vacationing in Ireland for a week!
 The late afternoon flight gave me lots of time to get the apartment in order before leaving.
 I watered my plants and gathered them all into the office for Z's mom to water while we're away.
 Baxter is staying with my mom in Victoria.
-I expect he'll bond with my mom and younger sister in the three weeks he stays with them as he did with our friends who dogsat him while Z and I were in Indonesia in 2023.
+I expect he'll bond with her and my younger sister in the three weeks he stays with them as he did with our friends who dogsat him while Z and I were in Indonesia in 2023.
 In particular he loves our friend A, who playfought with him.
+He loves to playfight.
 
 #### Friday 08/08/2025 -- Dublin
 
