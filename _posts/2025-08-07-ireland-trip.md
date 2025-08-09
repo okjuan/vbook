@@ -12,6 +12,10 @@ Z and I are vacationing in Ireland for a week!
 #### Thursday 08/07/2025 -- Vancouver, BC
 
 - 4:30pm flight YVR -> YYC -> DUB
+- watched two interior design videos
+- read about Dublin, The Easter Rising, The Troubles
+- watched Thomas Flight's 1hr video _Why Movies Will Never Feel the Same_
+- read about Marshall McLuhan, the New Criticism, Harold Innis
 
 The late afternoon flight gave me lots of time to get the apartment in order before leaving.
 I watered my plants and gathered them all into the office for Z's mom to water while we're away.
