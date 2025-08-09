@@ -59,8 +59,13 @@ Many if not most buildings are made of brick and sit at two or three stories.
 - brunch @ Brother Hubbard and read on our phones about The Easter Rising
 - visit The Spire and GPO, site of The Rising
 - walk over O'Connell Bridge
-- coffee @ Copper + Straw
+- get coffee @ Copper + Straw
 - tour @ Kilmainham Gaol Museum, former prison in which the UK Government held and executed Irish revolutionaries a hundred years ago
+- watch Arsenal vs Athletic Club at River Bar
+
+I like it here.
+There is abundance of pubs, quality coffee shops, public transit, bike lanes, leftists, and young people.
+Z says it reminds her of Vancouver.
 
 #### Sunday 08/10/2025 -- Dublin -> Galway
 
