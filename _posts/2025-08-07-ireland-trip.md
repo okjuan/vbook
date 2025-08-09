@@ -40,7 +40,13 @@ He loves to playfight.
 - walk back to Airbnb to shower and unwind
 
 The locals have been very friendly and helpful.
+The cabbie chatted with us cheerfully.
+Z anticipates being upstaged in the realm of enthusiastic socializing.
+
 It surprised me how small the city feels.
+The weather is gray and mild and windy, good for walking outdoors.
+There is a good deal of car traffic.
+Many if not most buildings are made of brick and sit at two or three stories.
 
 #### Saturday 08/09/2025 -- Dublin
 
