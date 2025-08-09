@@ -68,9 +68,11 @@ There is abundance of pubs, quality coffee shops, public transit, bike lanes, le
 Z says it reminds her of Vancouver.
 
 Dublin feels bigger today.
-It's the weekend and today there was a friendly game between Leeds United vs AC Milan so the streets are chock full of people, many in yellow and white Leeds jerseys and a few Rossoneri sprinkled about.
+It's the weekend and this afternoon there was a friendly game between Leeds United and AC Milan so the streets are chock full of people, many in yellow and white Leeds jerseys and a few Rossoneri sprinkled about.
 The city center is swarming with pedestrians, pubs brimming with cheerful drinkers pooling on the sidewalks by the entrance.
 Out the windows the sound of live music streams laced with singalongers.
+Cars rumble and buses whine and bike bells chime on the street.
+Sunshine stretches out on the asphalt and above it lights up the translucent flags that hang angled from building fronts.
 
 #### Sunday 08/10/2025 -- Dublin -> Galway
 
