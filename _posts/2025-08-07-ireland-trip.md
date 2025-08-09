@@ -14,6 +14,10 @@ Z and I are vacationing in Ireland for a week!
 - 4:30pm flight YVR -> YYC -> DUB
 
 The late afternoon flight gave me lots of time to get the apartment in order before leaving.
+I watered my plants and gathered them all into the office for Z's mom to water while we're away.
+Baxter is staying with my mom in Victoria.
+I expect he'll bond with my mom and younger sister in the three weeks he stays with them as he did with our friends who dogsat him while Z and I were in Indonesia in 2023.
+In particular he loves our friend A, who playfought with him.
 
 #### Friday 08/08/2025 -- Dublin
 
@@ -35,9 +39,16 @@ The late afternoon flight gave me lots of time to get the apartment in order bef
 - walk back to Airbnb to shower and unwind
 
 The locals have been very friendly and helpful.
+It surprised me how small the city feels.
 
 #### Saturday 08/09/2025 -- Dublin
 
+- solo coffee @ The Little Cactus
+- watch episode of The Great House Revival that showed my Irish friend renovate his nanna's cottage in Kerry while I wait for Z to get ready
+- brunch @ Brother Hubbard and read on our phones about The Easter Rising
+- visit The Spire and GPO, site of The Rising
+- walk over O'Connell Bridge
+- coffee @ Copper + Straw
 - tour @ Kilmainham Gaol Museum, former prison in which the UK Government held and executed Irish revolutionaries a hundred years ago
 
 #### Sunday 08/10/2025 -- Dublin -> Galway
