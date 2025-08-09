@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-08
+modified_date: 2025-08-09
 layout: post
 title: trip to Ireland
 permalink: /ireland
@@ -62,7 +62,8 @@ Many if not most buildings are made of brick and sit at two or three stories.
 - get coffee @ Copper + Straw
 - tour @ Kilmainham Gaol Museum, former prison in which the UK Government held and executed Irish revolutionaries a hundred years ago
 - eat dinner @ Gallaghers Boxty House
-- attend stand up comedy @ Stitche's Comedy
+- attend stand up comedy @ In Stitches Comedy
+- get takeout pizza & fries from Manor Takeaway Foods
 
 I like it here.
 There is an abundance of pubs, quality coffee shops, public transit, bike lanes, leftists, and young people.
