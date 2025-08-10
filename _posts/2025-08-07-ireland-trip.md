@@ -81,7 +81,7 @@ Sunshine stretches out on the asphalt and above it lights up the translucent fla
 - pick up car rental @ Dublin Airport in the afternoon
 - drive to Galway
 
-husky bellows, wild waving of arms, glass clinking in ringed fingers, ramming the bottle down, then as it halfwaking from a hypnosis a whisper.
+husky bellows, wild waving of arms and snapping of fingers, glass clinking in ringed fingers, ramming the bottle down, then as it halfwaking from a hypnosis a whisper.
 
 #### Monday 08/11/2025 -- Galway
 
