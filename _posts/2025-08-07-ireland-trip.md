@@ -81,12 +81,16 @@ Sunshine stretches out on the asphalt and above it lights up the translucent fla
 - solo coffee @ Little Cactus
 - breakfast & coffee together @ Little Cactus
 - tour @ Henrietta House
-- tour & tasting @ Jameson
+- tour & tasting @ Jameson Distillery
 - shop for used books in Temple Bar
-- pick up car rental @ Dublin Airport in the afternoon
-- drive to Galway
+- pick up car rental @ Dublin Airport (which was a faff and a half)
+- pick up luggage from Airbnb and get quick meal from Manor Takeaway Foods
+- drive to Galway, settle at B&B and chat with host about what to do tomorrow
 
-husky bellows, wild waving of arms, glass clinking in ringed fingers, ramming the bottle down, then as it halfwaking from a hypnosis a whisper.
+At the Jameson Distillery, our host was the most animated one we've had in Dublin.
+He waved his arms wildly and in husky bellows rattled off his lines, punctuating them with dual finger snaps and tossing of the Jameson bottle from one hand to the other, the glass clinking against his hand jewelry.
+He concluded his opening speech by ramming the bottle down onto a prop book, then as if waking from a trance he commented mildly and mostly to himself that this bottle hadn't broken.
+I too was surprised.
 
 #### Monday 08/11/2025 -- Galway
 
