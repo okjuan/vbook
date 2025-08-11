@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-09
+modified_date: 2025-08-11
 layout: post
 title: trip to Ireland
 permalink: /ireland
@@ -82,12 +82,24 @@ Sunshine stretches out on the asphalt and above it lights up the translucent fla
 - breakfast & coffee together @ Little Cactus
 - tour @ Henrietta House
 - tour & tasting @ Jameson
+- shop for used books in Temple Bar
 - pick up car rental @ Dublin Airport in the afternoon
 - drive to Galway
 
 husky bellows, wild waving of arms, glass clinking in ringed fingers, ramming the bottle down, then as it halfwaking from a hypnosis a whisper.
 
 #### Monday 08/11/2025 -- Galway
+
+- breakfast @ 8am, I had a Full Irish Breakfast and Z had french toast with fruits
+- drive to Cliffden and around Sky Road around the peninsula
+- drive to Letterfrack and hike most of Diamond Hill
+- stop at Kylemore Abbey
+- return to Letterfrack for lunch @ Connemara Woodfire
+- drive to Killary Fjord, get ice cream @ Hamilton Grocery and enjoy view
+- drive back to Galway
+
+This was a supremely scenic daytrip.
+Exactly the kind that makes our car rental worth it.
 
 #### Tuesday 08/12/2025 -- Galway -> Doolin
 
