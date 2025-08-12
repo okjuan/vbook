@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-11
+modified_date: 2025-08-12
 layout: post
 title: trip to Ireland
 permalink: /ireland
@@ -106,6 +106,17 @@ This was a supremely scenic daytrip.
 Exactly the kind that makes our car rental worth it.
 
 #### Tuesday 08/12/2025 -- Galway -> Doolin
+
+- breakfast @ 9am, we both had french toast with fruits
+- ice cream @ Linnalla Irish Ice Cream
+- coffee @ The Oir House
+- drive up Corkscrew Hill
+- attended sheepdog demonstration @ Caherconnell Stone Fort
+- visit Poulnabrone Dolmen, tomb from the Stone Age
+- dinner @ Vaughan's Pub in Kilfenora
+- arrive @ Airbnb in Doolin to rest and do laundry
+- visit Cliffs of Mohar
+- get takeout pizza from Riverside Bistro and return to Airbnb
 
 #### Wednesday 08/13/2025 -- Doolin -> Dingle
 
