@@ -120,6 +120,15 @@ Exactly the kind that makes our car rental worth it.
 
 #### Wednesday 08/13/2025 -- Doolin -> Dingle
 
+- pack and leave airbnb
+- get coffee & breakfast @ Rocket House Coffee
+- ferry to Inis Oirr
+- rent pedal-assist electric bikes and ride them around the island
+- lunch @ Flaherty's Pub
+- bike towards shipwreck then back to ferry terminal
+- ferry back to Doolin
+- drive south along coast, through Kilkee which was buzzing with activity
+
 #### Thursday 08/14/2025 -- Dingle
 
 - meet with my friends K and C who I befriended in Berlin during my post-graduation travels in the summer of 2019
