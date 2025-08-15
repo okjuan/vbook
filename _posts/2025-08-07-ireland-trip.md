@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-12
+modified_date: 2025-08-15
 layout: post
 title: trip to Ireland
 permalink: /ireland
@@ -118,7 +118,7 @@ Exactly the kind that makes our car rental worth it.
 - visit Cliffs of Mohar
 - get takeout pizza from Riverside Bistro and return to Airbnb
 
-#### Wednesday 08/13/2025 -- Doolin -> Dingle
+#### Wednesday 08/13/2025 -- Doolin, Inis Oirr, & Dingle Peninsula
 
 - pack and leave airbnb
 - get coffee & breakfast @ Rocket House Coffee
@@ -128,14 +128,48 @@ Exactly the kind that makes our car rental worth it.
 - bike towards shipwreck then back to ferry terminal
 - ferry back to Doolin
 - drive south along coast, through Kilkee which was buzzing with activity
+- take Killimer Ferry into County Kerry
+- eat dinner @ Dough Mamma in Listowel
+- continue drive to Dingle Peninsula
+- settle in guest house of Tig Bhric & West Kerry Brewery
+- get a drink at the pub downstairs and listen to the locals sing together in Irish
 
-#### Thursday 08/14/2025 -- Dingle
+#### Thursday 08/14/2025 -- Slea Head Drive on Dingle Peninsula, then Knocknagoshel
 
-- meet with my friends K and C who I befriended in Berlin during my post-graduation travels in the summer of 2019
+- get coffee & breakfast in Dingle
+- set out on Slea Head Drive
+- visit Ceann Trá Beach, where several locals lounged in the water and two kids were langourously [hurling](https://en.wikipedia.org/wiki/Hurling) a ball between them
+- visit Lios Stone Circle to see the [ringfort](https://en.wikipedia.org/wiki/Ringfort) and to feed alpacas, sheep, goats, donkeys, and horses
+- visit "Bee Hive" Huts made of stone and inhabited by Celtic chieftains before the age of Christianity
+- stop at Cross at Slea Head to take pictures of the scenery
+- get coffee at a cafe nearby with a spacious patio facing the view
+- hike up Dunmore Head (one of my highlights of the trip)
+- stop near Dunquin Pier to look down at it
+- eat lunch on the scenic patio of The Blasket Centre, a small and wonderfuly architected museum
+- returned to Tig Bhric & West Kerry Brewery to pick up leftbehinds and a bottle of beer for my friends Kieran & C
+- visit the [Gallarus Oratory](https://en.wikipedia.org/wiki/Gallarus_Oratory), a small stone house believed to be over a thousand years old
+- drove to Tralee to buy spray paint to cover some scratches on the rental car's front bottom bumper
+- meet with my friend Kieran in his village of Knocknagoshel during a scavenger hunt he helped organize for the local kids
+- chat with Kieran's girlfriend's mom about the village, England, immigration, the patriarchy, and more
+- go to the pub with Kieran and another local B who until recently was working for the UN in Kenya
+- drank beer and caught up; met several locals including Kieran's girlfriend Eva and a man named Niall who they dubbed "the village philosopher" and who Z and I thought looked like Joaquin Phoenix
+- meet my friend Chris, who like Kieran I met and last saw in Berlin in June of 2019 during my post-graduation travels
+- drink more beer and eat dinner from a nearby takeaway, sit in a small circle chatting
+- return to Kieran's cottage, where Eva and Chris live as well
+- drink tea, eat chocolate, play music, and chat
+- sleep upstairs in Chris's attic room while he slept in his camper van outside
 
-#### Friday 08/15/2025 -- Dingle -> Cork -> Bristol
+#### Friday 08/15/2025 -- Dingle -> Killarney -> Cork -> Bristol
 
+- drink coffee and eat toast that Chris made for us
+- shower, pack, dress, and load car
+- fix scratches on rental car with Chris and Kieran's help
+- hike in Glanageenty Forest Recreation Area with Chris
+- eat lunch with Chris @ O'Riadas Bar along the N21 between Tralee and Castleisland
+- drive to Killarney to buy Kerry jersey
 - drive to Cork Airport and return rental car
-- take evening flight to Bristol to begin our {% vbook_post trip to England | 2025-08-07-england-trip %}!
+- drink beer and write this journal while waiting for our delayed flight to Bristol
 
-This will conclude a week in Ireland, a country I had not yet visited.
+And that's it!
+Our first ever week in Ireland.
+Now {% vbook_post off to England! | 2025-08-07-england-trip %}
