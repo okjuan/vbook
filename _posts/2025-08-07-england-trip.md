@@ -15,6 +15,16 @@ Z and I are vacationing in England for ten days!
 - eat late dinner @ Nadu (really good)
 - shower and go to bed before midnight
 
+Before we settled on Bristol, Z and I considered visiting Liverpool.
+When I noticed that Wrexham was nearby, I fancied a day trip down to see them play their first ever(?) Championship match at the Racecourse, or at least to grab a pint at The Turf and meet Wayne, the charming bar owner and Wrexham A.F.C. devotee.
+I just realized he reminds me of Karl Pilkington.
+Agh, I'm almost regretting not pursuing this plan.
+Commute from Bristol to Wrexham would be long and I can't imagine tickets would be cheap to get, if any were available at all.
+I suppose it might still be worth it if I can watch the game at The Turf.
+We'll see.
+Z won't be thrilled with the idea, but the 16th is my birthday and for it she'll do whatever possible to make me happy.
+I'm a lucky guy.
+
 #### Saturday 08/16/2025 (my birthday) -- Bristol
 
 - solo coffee @ Poquito
@@ -30,16 +40,6 @@ Z and I are vacationing in England for ten days!
 - scooter to Old Vic for free Sofar Sounds gig
 - walk through Queen Square, then back to Old Vic for next set of Sofar Sounds gig
 - attend stand up comedy @ The Gaffe Comedy club
-
-Before we settled on Bristol, Z and I considered visiting Liverpool.
-When I noticed that Wrexham was nearby, I fancied a day trip down to see them play their first ever(?) Championship match at the Racecourse, or at least to grab a pint at The Turf and meet Wayne, the charming bar owner and Wrexham A.F.C. devotee.
-I just realized he reminds me of Karl Pilkington.
-Agh, I'm almost regretting not pursuing this plan.
-Commute from Bristol to Wrexham would be long and I can't imagine tickets would be cheap to get, if any were available at all.
-I suppose it might still be worth it if I can watch the game at The Turf.
-We'll see.
-Z won't be thrilled with the idea, but the 16th is my birthday and for it she'll do whatever possible to make me happy.
-I'm a lucky guy.
 
 #### Sunday 08/17/2025 -- Bristol
 
