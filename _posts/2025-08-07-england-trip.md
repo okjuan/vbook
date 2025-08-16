@@ -22,7 +22,7 @@ Z and I are vacationing in England for ten days!
 - coffee @ Radford Mill Farm Shop
 - bike to north end of Bishopston on dott ebikes
 - browse bookstores on Gloucester Road
-- buy travel coffee gear @ Perfecto Coffee Co. and chat with barista
+- buy Yuro Press @ Perfecto Coffee Co. and chat with barista
 - get a beer & watch last 20 minutes of Aston Villa vs Newcastle @ Industry Bar & Kitchen
 
 Before we settled on Bristol, Z and I considered visiting Liverpool.
