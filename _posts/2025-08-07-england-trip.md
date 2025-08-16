@@ -11,10 +11,19 @@ Z and I are vacationing in England for ten days!
 
 #### Friday 08/15/2025 -- Bristol
 
-- arrive in Bristol by air in the evening
+- arrive in Bristol by air in the evening, take Uber to Airbnb in Montpelier
+- eat late dinner @ Nadu
+- shower and go to bed before midnight
 
-#### Saturday 08/16/2025 -- Bristol
+#### Saturday 08/16/2025 (my birthday) -- Bristol
 
+- solo coffee @ Poquito
+- breakfast @ The Bristolian
+- coffee @ Radford Mill Farm Shop
+- bike to north end of Bishopston on dott ebikes
+- browse bookstores on Gloucester Road
+- buy travel coffee gear @ Perfecto Coffee Co. and chat with barista
+- get a beer & watch last 20 minutes of Aston Villa vs Newcastle @ Industry Bar & Kitchen
 
 Before we settled on Bristol, Z and I considered visiting Liverpool.
 When I noticed that Wrexham was nearby, I fancied a day trip down to see them play their first ever(?) Championship match at the Racecourse, or at least to grab a pint at The Turf and meet Wayne, the charming bar owner and Wrexham A.F.C. devotee.
