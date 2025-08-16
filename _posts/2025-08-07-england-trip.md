@@ -21,9 +21,15 @@ Z and I are vacationing in England for ten days!
 - breakfast @ The Bristolian
 - coffee @ Radford Mill Farm Shop
 - bike to north end of Bishopston on dott ebikes
-- browse bookstores on Gloucester Road
+- browse bookstores along Gloucester Road
 - buy Yuro Press @ Perfecto Coffee Co and chat with barista
 - get a beer & watch last 20 minutes of Aston Villa vs Newcastle @ Industry Bar & Kitchen
+- browse more shops along Gloucester Road
+- walk back to Airbnb and rest
+- have lunch @ Nadu, then drop off leftovers at Airbnb
+- scooter to Old Vic for free Sofar Sounds gig
+- walk through Queen Square, then back to Old Vic for next set of Sofar Sounds gig
+- attend stand up comedy @ The Gaffe Comedy club
 
 Before we settled on Bristol, Z and I considered visiting Liverpool.
 When I noticed that Wrexham was nearby, I fancied a day trip down to see them play their first ever(?) Championship match at the Racecourse, or at least to grab a pint at The Turf and meet Wayne, the charming bar owner and Wrexham A.F.C. devotee.
