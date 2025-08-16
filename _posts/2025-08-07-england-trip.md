@@ -12,7 +12,7 @@ Z and I are vacationing in England for ten days!
 #### Friday 08/15/2025 -- Bristol
 
 - arrive in Bristol Airport in the evening, take Uber to Airbnb in Montpelier
-- eat late dinner @ Nadu
+- eat late dinner @ Nadu (really good)
 - shower and go to bed before midnight
 
 #### Saturday 08/16/2025 (my birthday) -- Bristol
