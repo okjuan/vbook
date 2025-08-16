@@ -41,6 +41,21 @@ I'm a lucky guy.
 - walk through Queen Square, then back to Old Vic for next set of Sofar Sounds gig
 - attend stand up comedy @ The Gaffe Comedy club
 
+Our {% vbook_post time in the Irish countryside | 2025-08-07-england.md %} was fantastic.
+There we found the conventional tourist attractions well worth seeing.
+It is making me reflect on cities and what about them makes them worth visiting.
+Good food of diverse types.
+Art shows like galleries, live music, and stand up comedy.
+Historical landmarks and notable architecture.
+
+A remarkable aspect of a good city is its density.
+I think I have to shift my mindset.
+Here it isn't about covering ground but about drilling down in single spots.
+Spending hours at a museum.
+Eating a great dinner in a restaurant mere steps from another where you had breakfast.
+Even returning to the same restaurant to try different items on the menu.
+It's not as easy to do.
+
 #### Sunday 08/17/2025 -- Bristol
 
 #### Monday 08/18/2025 -- Bristol
