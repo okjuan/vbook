@@ -77,10 +77,17 @@ I said Oh, you can't put it there? pointing overhead.
 She said No, it doesn't fit.
 Two dreadful excuses.
 Z and I looked at each other again, mutual incredulity growing.
-
 No matter, ahead were more open seats.
 
-the free seat was occupied by luggage belonging
+A woman with a baby strapped to her chest asked me for help putting her stroller in the overhead compartment.
+I did and as she turned to get in her seat the backpack on her back touched the face of a middleaged man and he moaned and clutched his nose as if he'd been struck.
+The mother turned to him and said _I'm so sorry, are you ok?_ with all the polite concern in her tone of voice but none much on her face.
+The man didn't look at her anyway — he was still holding onto his face — and waved her away and said _Just sit down_.
+The mother exchanges silent looks with us and sat down.
+
+As Z and I lurched down the aisle of the moving train towards the few remaining empty seats, nobody preemptively removed their bags from their adjacent seat to allow us a seat.
+For each of our seats we had to walk up to a passenger, look them in the face, and ask that they make their spare seat available to us.
+Great opportunity to interact with the locals.
 
 #### Monday 08/18/2025 -- Bristol
 
