@@ -58,6 +58,30 @@ It's not as easy to do.
 
 #### Sunday 08/17/2025 -- Bristol
 
+I can't help but chuckle to myself sitting here on my first train trip in England.
+The platform was occupied with travelers waiting for the train and when it arrived everyone flocked to the carriage entrances.
+Z and I were confused to see everyone standing so close to the doors before they opened.
+Wouldn't there be people on the train already, some of whom would be disembarking here in Bristol?
+Indeed there were.
+The doors opened and people started trickling out, many with luggage and one with a stroller and yet the travelers waiting to board barely made way for them.
+Z and I looked at each other.
+
+Once we got on the train, we waited for people in front of us to stow luggage and find seats.
+The seats were mostly occupied but we saw a few single open seats remaining so we stepped down the aisle towards them.
+Nearest us there appeared to be two single seats open at either side of the aisle but when I came to what would be mine I discovered a small dog panting where he lay before a bowl of water.
+I considered asking for the seat but then there were more open seats down the aisle.
+Still it felt funny to give deference to a dog.
+I turned to the other side of the aisle and asked the girl if she'd mind moving her luggage from the seat next to her.
+To my and Z's surprise she replied that she did mind, that she had documents in her suitcase.
+I said Oh, you can't put it there? pointing overhead.
+She said No, it doesn't fit.
+Two dreadful excuses.
+Z and I looked at each other again, mutual incredulity growing.
+
+No matter, ahead were more open seats.
+
+the free seat was occupied by luggage belonging
+
 #### Monday 08/18/2025 -- Bristol
 
 #### Tuesday 08/19/2025 -- Bristol -> London
