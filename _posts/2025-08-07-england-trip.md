@@ -40,6 +40,7 @@ I'm a lucky guy.
 - scooter to Old Vic for free Sofar Sounds gig
 - walk through Queen Square, then back to Old Vic for next set of Sofar Sounds gig
 - attend stand up comedy @ The Gaffe Comedy club
+- get takeout from KFC and get uber to Airbnb
 
 Our {% vbook_post time in the Irish countryside | 2025-08-07-ireland-trip %} was fantastic.
 There we found the conventional tourist attractions well worth seeing.
@@ -54,9 +55,20 @@ Here it isn't about covering ground but about drilling down in single spots.
 Spending hours at a museum.
 Eating a great dinner in a restaurant mere steps from another where you had breakfast.
 Even returning to the same restaurant to try different items on the menu.
-It's not as easy to do.
+Doing these things feel less like exploring and adventuring.
 
 #### Sunday 08/17/2025 -- Bristol
+
+- sleep in; get coffee & pastry from Poquito; shower & dress
+- scooter to Temple Meads train station and ride fifteen minutes to Bath
+- eat late lunch @ Comptoir Libanais Bath (really enjoyed it)
+- buy airpod bud tips from nearby Apple store
+- walk through city centre, visit The King's Bath, drink from host spring in The Pump Room
+- walk Z to Jane Austen Centre then walk alone to Assembly Inn
+- watch Arsenal vs Man United and chat with fellow Arsenal fans
+- walk with Z to The Circus then Royal Crescent then Pulteney Bridge
+- walk to train station, ride to Bristol Temple Meads, scooter back to Montpelier
+- get takeout from Oowee Diner and eat at Airbnb
 
 I can't help but chuckle to myself sitting here on my first train trip in England.
 The platform was occupied with travelers waiting for the train and when it arrived everyone flocked to the carriage entrances.
