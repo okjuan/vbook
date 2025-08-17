@@ -73,17 +73,17 @@ I considered asking for the seat but then there were more open seats down the ai
 Still it felt funny to give deference to a dog.
 I turned to the other side of the aisle and asked the girl if she'd mind moving her luggage from the seat next to her.
 To my and Z's surprise she replied that she did mind, that she had documents in her suitcase.
-I said Oh, you can't put it there? pointing overhead.
-She said No, it doesn't fit.
+I said _Oh, you can't put it there?_ pointing overhead.
+She said _No, it doesn't fit._
 Two dreadful excuses.
 Z and I looked at each other again, mutual incredulity growing.
 No matter, ahead were more open seats.
 
 A woman with a baby strapped to her chest asked me for help putting her stroller in the overhead compartment.
-I did and as she turned to get in her seat the backpack on her back touched the face of a middleaged man and he moaned and clutched his nose as if he'd been struck.
+I did and as she turned to get in her seat the backpack on her back touched the face of a middleaged man sitting across the aisle and he moaned and clutched his nose as if he'd been struck.
 The mother turned to him and said _I'm so sorry, are you ok?_ with all the polite concern in her tone of voice but none much on her face.
-The man didn't look at her anyway — he was still holding onto his face — and waved her away and said _Just sit down_.
-The mother exchanges silent looks with us and sat down.
+The man didn't look at her anyway — he was still holding his face — and he waved her away and said _Just sit down_.
+The mother exchanged silent looks with us and sat down.
 
 As Z and I lurched down the aisle of the moving train towards the few remaining empty seats, nobody preemptively removed their bags from their adjacent seat to allow us a seat.
 For each of our seats we had to walk up to a passenger, look them in the face, and ask that they make their spare seat available to us.
