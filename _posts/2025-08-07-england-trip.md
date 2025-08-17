@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-08
+modified_date: 2025-08-17
 layout: post
 title: trip to England
 permalink: /england
@@ -41,7 +41,7 @@ I'm a lucky guy.
 - walk through Queen Square, then back to Old Vic for next set of Sofar Sounds gig
 - attend stand up comedy @ The Gaffe Comedy club
 
-Our {% vbook_post time in the Irish countryside | 2025-08-07-england.md %} was fantastic.
+Our {% vbook_post time in the Irish countryside | 2025-08-07-ireland-trip %} was fantastic.
 There we found the conventional tourist attractions well worth seeing.
 It is making me reflect on cities and what about them makes them worth visiting.
 Good food of diverse types.
