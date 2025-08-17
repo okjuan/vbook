@@ -170,6 +170,11 @@ Exactly the kind that makes our car rental worth it.
 - drive to Cork Airport and return rental car
 - drink beer and write this journal while waiting for our delayed flight to Bristol
 
+On our hike through Glanageenty forest we spoke with Chris about various things.
+At one point we got on the topic of gender and he expressed his resent for anti-masculinity messaging he received while growing up.
+Lately he had been collecting opinions from people about what it is that makes a man.
+A positive definition as opposed to a negative one.
+
 And that's it!
 Our first ever week in Ireland.
 Now {% vbook_post off to England! | 2025-08-07-england-trip %}
