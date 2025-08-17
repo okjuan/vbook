@@ -101,7 +101,7 @@ As Z and I lurched down the aisle of the moving train towards the few remaining 
 Each of us had to walk up to a passenger, look them in the face, and ask that they make their spare seat available to us.
 An opportunity to interact more with the locals I suppose.
 
-#### Monday 08/18/2025 -- Bristol
+#### Monday 08/18/2025 (Z's birthday) -- Bristol
 
 #### Tuesday 08/19/2025 -- Bristol -> London
 
