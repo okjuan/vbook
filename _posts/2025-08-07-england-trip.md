@@ -85,9 +85,9 @@ The mother turned to him and said _I'm so sorry, are you ok?_ with all the polit
 The man didn't look at her anyway — he was still holding his face — and he waved her away and said _Just sit down_.
 The mother exchanged silent looks with us and sat down.
 
-As Z and I lurched down the aisle of the moving train towards the few remaining empty seats, nobody preemptively removed their bags from their adjacent seat to allow us a seat.
-For each of our seats we had to walk up to a passenger, look them in the face, and ask that they make their spare seat available to us.
-Great opportunity to interact with the locals.
+As Z and I lurched down the aisle of the moving train towards the few remaining empty seats, nobody made to remove their bags from their adjacent seat to allow us it.
+Each of us had to walk up to a passenger, look them in the face, and ask that they make their spare seat available to us.
+An opportunity to interact more with the locals I suppose.
 
 #### Monday 08/18/2025 -- Bristol
 
