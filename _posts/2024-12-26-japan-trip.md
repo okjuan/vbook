@@ -1,7 +1,7 @@
 ---
-modified_date: 2025-03-29
+modified_date: 2025-08-17
 layout: post
-title: japan trip
+title: trip to Japan
 permalink: /japan-trip
 tags: journal travel cities japan asia
 ---
