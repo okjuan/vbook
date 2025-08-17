@@ -6,7 +6,7 @@ permalink: /england
 tags: journal travel
 ---
 
-Z and I are vacationing in England for ten days!
+Z and I are vacationing in England for ten days from August 15th til the 26th.
 <!--more-->
 
 #### Friday 08/15/2025 -- Bristol

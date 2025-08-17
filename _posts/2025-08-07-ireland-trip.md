@@ -1,12 +1,12 @@
 ---
-modified_date: 2025-08-15
+modified_date: 2025-08-17
 layout: post
 title: trip to Ireland
 permalink: /ireland
 tags: journal travel
 ---
 
-Z and I are vacationing in Ireland for a week!
+Z and I are vacationing in Ireland for a week from August 8th til the 15th.
 <!--more-->
 
 #### Thursday 08/07/2025 -- Vancouver, BC
