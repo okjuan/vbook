@@ -26,11 +26,8 @@ He loves to playfight.
 
 #### Friday 08/08/2025 -- Dublin
 
-- arrive at Dublin Airport in the morning
-- take cab to Airbnb, drop off luggage
-- get coffee @ The Little Cactus
-- walk down through Smithfield, across River Liffey and into Usher's Quay
-- walk west on Thomas Street, then wander south on Meath Street
+- arrive at Dublin Airport in the morning; take cab to Airbnb, drop off luggage
+- get coffee @ The Little Cactus; walk through Smithfield, across River Liffey and into Usher's Quay
 - eat lunch @ SPACE JARU, then browse @ Marrowbone Books and chat with the worker about authors
 - walk east on The Coombe, then into St. Patrick's Park where we lay for a few minutes on the tidily mown grass like others were already doing
 - walk east on Golden Lane and Stephen Street until Grafton Street, which was thronging with pedestrians
