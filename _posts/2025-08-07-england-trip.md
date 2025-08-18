@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-17
+modified_date: 2025-08-18
 layout: post
 title: trip to England
 permalink: /england
@@ -102,6 +102,18 @@ Each of us had to walk up to a passenger, look them in the face, and ask that th
 An opportunity to interact more with the locals I suppose.
 
 #### Monday 08/18/2025 (Z's birthday) -- Bristol
+
+- sleep in; get breakfast @ The Crafty Egg
+- get coffee @ Elemental Collective Grocers
+- accompany Z to a couple boutiques on Stokes Croft
+- visit [Wake the Tiger](https://www.wakethetiger.com/)
+- eat dinner @ Poco Tapas Bar (fantastic)
+- spend evening relaxing at Airbnb
+
+We've been getting around on dott scooters.
+Bristol is not huge.
+The best ways for us to get around have been walking, biking, and scootering.
+We haven't taken the bus yet because it's rarely a convenient option.
 
 #### Tuesday 08/19/2025 -- Bristol -> London
 
