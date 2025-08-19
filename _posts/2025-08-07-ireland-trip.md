@@ -160,11 +160,12 @@ Those most successful at accumulating these things may feel for a while the fant
 Those less able become leeches and parasites that feed on those around them to bolster their feeling of adequacy.
 
 Regardless of one's position in this food chain, however, life is a desperate task.
-Every endeavour, every interaction, becomes a stage for bitter competition.
-Ground to prove one's worth.
-Other people are threats and unfamiliar situations are traps.
+Every endeavour becomes a stage for bitter competition, every interaction a sparring match if not a duel.
+Ground to prove one's worth by coming out on top of someone else.
+I think from this personal outlook flows the force of what bell hooks calls the [dominator culture](https://en.wikipedia.org/wiki/Dominator_culture) of the patriarchy, which deprives humanity from both perpetrators and victims.
 
 A person who begins the day with a feeling of adequacy sees no danger in the ordinary.
+The unfamiliar is not by default a threat or a trap.
 They can be openminded because learning is not proof of their foolishness.
 They can be empathetic because they aren't suspicious.
 They can respond because they don't need to defend.
