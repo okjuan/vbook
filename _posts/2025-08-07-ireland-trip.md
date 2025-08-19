@@ -150,23 +150,6 @@ I'll write it here later.
 On our hike through Glanageenty forest we spoke with Chris about various things.
 At one point we got on the topic of gender and he expressed his resent for the anti-masculinity messaging he received while growing up.
 Lately he had been collecting opinions from people about what it is that makes a man.
-A positive definition as opposed to a negative one.
-
+A positive definition instead of a negative one.
 I offered an answer.
-To be a good man, {% vbook_post you need self-esteem | 2024-07-04-be-a-man %}.
-Without it a man is just a black hole, a devouring force makes nothing from all it consumes.
-From low self-esteem arises the desperate and unabating appetite for money, power, women, status, all the proxy symbols of worth.
-Those most successful at accumulating these things may feel for a while the fantasy of supremacy (invulnerability) coming true.
-Those less able become leeches and parasites that feed on those around them to bolster their feeling of adequacy.
-
-Regardless of one's position in this food chain, however, life is a desperate task.
-Every endeavour becomes a stage for bitter competition, every interaction a sparring match if not a duel.
-Ground to prove one's worth by coming out on top of someone else.
-I think from this personal outlook flows the force of what bell hooks calls the [dominator culture](https://en.wikipedia.org/wiki/Dominator_culture) of the patriarchy, which deprives humanity from both perpetrators and victims.
-
-A person who begins the day with a feeling of adequacy sees no danger in the ordinary.
-The unfamiliar is not by default a threat or a trap.
-They can be openminded because learning is not proof of their foolishness.
-They can be empathetic because they aren't suspicious.
-They can respond because they don't need to defend.
-They can love because they don't fear they will perish by giving themselves.
+To be a good man, {% vbook_post you need self-esteem | 2025-08-18-be-a-man-2 %}.
