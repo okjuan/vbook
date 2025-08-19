@@ -154,12 +154,12 @@ A positive definition as opposed to a negative one.
 
 I offered an answer.
 To be a good man, {% vbook_post you need self-esteem | 2024-07-04-be-a-man %}.
-Without it a man is just a black hole, a devouring force producing nothing from all it consumes.
-From low self-esteem comes the desperate and unabating appetite for money, power, women, status, all the proxy symbols of worth.
-Those most successful at accumulating these things may feel for a while the fantasy of supremacy (invulnerability) becoming real.
-Those less able become leeches, parasites, feeding on those around them to bolster their feeling of adequacy.
+Without it a man is just a black hole, a devouring force makes nothing from all it consumes.
+From low self-esteem arises the desperate and unabating appetite for money, power, women, status, all the proxy symbols of worth.
+Those most successful at accumulating these things may feel for a while the fantasy of supremacy (invulnerability) coming true.
+Those less able become leeches and parasites that feed on those around them to bolster their feeling of adequacy.
 
-Regardless of one's position in this food chain, life is a desperate task.
+Regardless of one's position in this food chain, however, life is a desperate task.
 Every endeavour, every interaction, becomes a stage for bitter competition.
 Ground to prove one's worth.
 Other people are threats and unfamiliar situations are traps.
