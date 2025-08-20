@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-18
+modified_date: 2025-08-20
 layout: post
 title: trip to England
 permalink: /england
@@ -117,11 +117,21 @@ We haven't taken the bus yet because it's rarely a convenient option.
 
 #### Tuesday 08/19/2025 -- Bristol -> London
 
-- train to London, then commute to Z's friend L's apartment in East Ham
+- eat breakfast @ The Bristolian
+- coffee @ Poquito
+- bus to Bristol Temple Meads; train to London; take tube to Z's friend L's apartment in Upton Park
+- eat lunch @ Chaiiwala
+- eat dinner @ Mele e Pere
+- get ice cream @ Ben & Jerry's
 
 #### Wednesday 08/20/2025 -- London
 
-- see _Hadestown_ with Z's friend L
+- get coffee @ Nagare Coffee
+- eat lunch @ Bubala w/ my cousin P
+- get another coffee @ Nagare Coffee
+- browse shops in Spitalfields and Brick Lane
+- eat dinner from SushiDog
+- see _Hadestown_ with Z's friend A @ Lyric Theatre
 
 #### Thursday 08/21/2025 -- London
 
@@ -129,6 +139,7 @@ We haven't taken the bus yet because it's rarely a convenient option.
 
 #### Saturday 08/23/2025 -- London
 
+- attend matchday tour @ The Emirates
 - attend Arsenal vs Leeds @ The Emirates, the first home match of the new English Premier League season and my first ever Arsenal match!
 
 #### Sunday 08/24/2025 -- London
