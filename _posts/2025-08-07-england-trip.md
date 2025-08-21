@@ -135,6 +135,16 @@ We haven't taken the bus yet because it's rarely a convenient option.
 
 #### Thursday 08/21/2025 -- London
 
+- coffee @ Caravan Coffee Roasters
+- brunch @ Rosa's Thai
+- coffee @ Omotesando Koffee
+- visit The British Museum
+- solo walk in Bloomsbury
+- visit Skoob Books, used book store with ample selection
+- take Lime bike to King's Cross
+- visit Word on Water book store, then walk around; take Lime scootet
+- get takeout from Roti King & eat at Cock Tavern with beer
+
 #### Friday 08/22/2025 -- London
 
 #### Saturday 08/23/2025 -- London
