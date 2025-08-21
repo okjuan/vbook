@@ -115,7 +115,7 @@ Bristol is not huge.
 The best ways for us to get around have been walking, biking, and scootering.
 We haven't taken the bus yet because it's rarely a convenient option.
 
-#### Tuesday 08/19/2025 -- Bristol -> London
+#### Tuesday 08/19/2025 -- Bristol -> London (Upton Park, SoHo)
 
 - eat breakfast @ The Bristolian
 - coffee @ Poquito
@@ -124,7 +124,7 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - eat dinner @ Mele e Pere
 - get ice cream @ Ben & Jerry's
 
-#### Wednesday 08/20/2025 -- London
+#### Wednesday 08/20/2025 -- London (Spitalfield, SoHo)
 
 - get coffee @ Nagare Coffee
 - eat lunch @ Bubala w/ my cousin P
@@ -133,7 +133,7 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - eat dinner from SushiDog
 - see _Hadestown_ with Z's friend A @ Lyric Theatre
 
-#### Thursday 08/21/2025 -- London
+#### Thursday 08/21/2025 -- London (Fitzrovia, Bloomsbury, King's Cross, Somers Town)
 
 - coffee @ Caravan Coffee Roasters
 - brunch @ Rosa's Thai
@@ -142,7 +142,7 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - solo walk in Bloomsbury
 - visit Skoob Books, used book store with ample selection
 - take Lime bike to King's Cross
-- visit Word on Water book store, then walk around; take Lime scootet
+- visit Word on Water book store, then walk around; take Lime scooter
 - get takeout from Roti King & eat at Cock Tavern with beer
 
 #### Friday 08/22/2025 -- London
