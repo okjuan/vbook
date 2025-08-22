@@ -141,11 +141,20 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - visit The British Museum
 - solo walk in Bloomsbury
 - visit Skoob Books, used book store with ample selection
-- take Lime bike to King's Cross
-- visit Word on Water book store, then walk around; take Lime scooter
+- ride Lime bike to King's Cross
+- visit Word on Water book store, then walk around; ride Lime scooter to Somers Town
 - get takeout from Roti King & eat at Cock Tavern with beer
 
-#### Friday 08/22/2025 -- London
+#### Friday 08/22/2025 -- London (Blackfriars, Bankside, Waterloo, Covent Garden)
+
+- help a guy at Upton Park station catch the right train to King's Cross
+- solo coffee @ Flow Coffee outside Blackfriars station
+- walk across Blackfriars Bridge and along south bank of Thames to Tate Modern
+- spend day alone @ Tate Modern; eat a delicious pork shoulder sandwich & good flat white @ The Corner Tate cafe
+- ride Lime bike to Waterloo; have a drink w/ Z and A @ Waterloo Taps
+- ride Lime bike w/ Z to Covent Garden
+- eat dinner @ Sartori
+- go to stand up comedy
 
 #### Saturday 08/23/2025 -- London
 
