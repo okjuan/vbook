@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-19
+modified_date: 2025-08-23
 layout: post
 title: trip to Ireland
 permalink: /ireland
@@ -119,6 +119,7 @@ I'll write it here later.
 
 #### Thursday 08/14/2025 -- Slea Head Drive on Dingle Peninsula, then Knocknagoshel
 
+##### Part I
 - get coffee & breakfast in Dingle; set out on Slea Head Drive
 - visit Ceann Trá Beach, where several locals lounged in the water & two kids lazily [hurled](https://en.wikipedia.org/wiki/Hurling) a ball between them
 - visit Lios Stone Circle to see the [ringfort](https://en.wikipedia.org/wiki/Ringfort) & to feed alpacas, sheep, goats, donkeys, and horses
@@ -128,7 +129,9 @@ I'll write it here later.
 - eat lunch on the scenic patio of The Blasket Centre, a small & wonderfuly architected museum
 - returned to Tig Bhric & West Kerry Brewery to pick up leftbehinds and a bottle of beer for my friends Kieran & C
 - visit the [Gallarus Oratory](https://en.wikipedia.org/wiki/Gallarus_Oratory), a small stone house believed to be over a thousand years old
-- drove to Tralee to buy spray paint to cover some scratches on the rental car's front bottom bumper
+
+##### Part II
+- drive to Tralee to buy spray paint to cover some scratches on the rental car's front bottom bumper
 - meet with my friend Kieran in his village of Knocknagoshel during a scavenger hunt he helped organize for the local kids
 - chat with Kieran's girlfriend's mom about the village, England, immigration, the patriarchy, and more
 - go to the pub with Kieran & another local B who until recently was working for the UN in Kenya
