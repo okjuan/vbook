@@ -166,6 +166,7 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - shop @ The Armory; meet w/ Z and walk around stadium
 - attend Arsenal vs Leeds @ The Emirates — the first home match of the new English Premier League season & my first ever Arsenal match!
 - wait in The Armory for an hour to get name & numbers printed on back of jerseys
+- eat late dinner @ Nón
 
 #### Sunday 08/24/2025 -- London
 
