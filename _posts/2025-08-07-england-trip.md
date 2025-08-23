@@ -158,8 +158,14 @@ We haven't taken the bus yet because it's rarely a convenient option.
 
 #### Saturday 08/23/2025 -- London
 
-- attend matchday tour @ The Emirates
-- attend Arsenal vs Leeds @ The Emirates, the first home match of the new English Premier League season and my first ever Arsenal match!
+- solo coffee & pastry @ Prufrock Cafe (James Hoffman's)
+- walk in Farringdon & Holborn; ride Lime bike to Islington
+- coffee @ Miki's paradise; walk around
+- browse The Armory; attend Matchday Stadium Tour
+- eat lunch @ Xi'an Impression
+- shop @ The Armory; meet w/ Z and walk around stadium
+- attend Arsenal vs Leeds @ The Emirates — the first home match of the new English Premier League season & my first ever Arsenal match!
+- wait in The Armory for an hour to get name & numbers printed on back of jerseys
 
 #### Sunday 08/24/2025 -- London
 
