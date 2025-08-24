@@ -168,7 +168,13 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - wait in The Armory for an hour to get name & numbers printed on back of jerseys
 - eat late dinner @ Nón
 
-#### Sunday 08/24/2025 -- London
+#### Sunday 08/24/2025 -- London (Spitalfield, Hackney)
+
+- get Z supplies since she is under the weather
+- solo flat white @ Nagare Coffee; walk around
+- ride Lime bike to Hackney
+- get flat whites @ Elsewhere Coffee (good) and Incoming Coffee (great); walk around
+- visit Tate Modern Museum again
 
 #### Monday 08/25/2025 -- London
 
