@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-20
+modified_date: 2025-08-25
 layout: post
 title: trip to England
 permalink: /england
@@ -165,7 +165,7 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - eat lunch @ Xi'an Impression
 - shop @ The Armory; meet w/ Z and walk around stadium
 - attend Arsenal vs Leeds @ The Emirates — the first home match of the new English Premier League season & my first ever Arsenal match!
-- wait in The Armory for an hour to get name & numbers printed on back of jerseys
+- wait in The Armory for over an hour to get name & numbers printed on back of jerseys
 - eat late dinner @ Nón
 
 #### Sunday 08/24/2025 -- London (Spitalfield, Hackney)
@@ -175,9 +175,18 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - ride Lime bike to Hackney
 - get flat whites @ Elsewhere Coffee (good) and Incoming Coffee (great); walk around
 - visit Tate Modern Museum again
+- solo meal & drink @ Mercato Metropolitano
 
 #### Monday 08/25/2025 -- London
 
+- get flat white @ Origin Coffee at The British Library
+- eat lunch @ Xi'an Impression London again
+- get flat white @ Rua Coffee Bar
+- wait again in The Armory for over an hour to get name & numbers printed on back of my other jerseys
+- ride Lime bike to Camden Market; hang out there w/ Z and friends
+- drinks @ London Bridge Rooftop Bar w/ Z, friends, & my friend Anuj
+- get late dinner @ Silka Borough Market
+
 #### Tuesday 08/26/2025 -- London -> Vancouver
 
-Which will conclude the first ten days Z and I have spent in England!
+- take train to Heathrow & fly back to Vancouver
