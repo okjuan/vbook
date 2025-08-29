@@ -9,7 +9,7 @@ tags: movies life psychology
 In his video essay _Why The Movies Will Never Feel the Same Again_, Thomas Flight shared an idea that should've occurred to me already.
 <!--more-->
 The idea of _Media Ecology_, which looks at the physical, cultural, and psychological environments wherein we consume media.
-Already for the better part of a year I have been thinking about {% vbook_post _Attention Ecology_ | 2024-12-15-ecologies-of-attention %}, an idea I found ingenious for taking Ecology out of its native context and applying it to the psychological phenomenon of Attention, and yet it had not yet occurred to me to reproduce that same trick with something else.
+Already for the better part of a year I have been thinking about {% vbook_post _Attention Ecology_ | 2024-12-15-ecologies-of-attention %}, an idea I found ingenious for taking Ecology out of its native context and applying it to the psychological phenomenon of Attention, and yet it had not occurred to me to reproduce that same trick with something else.
 
 <iframe style="border-radius:12px; margin-bottom: 15px;" width="100%" height="400" src="https://www.youtube.com/embed/RoldOz5YyAw?si=xNam_fptIgGhDsXc" title="YouTube video player" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
