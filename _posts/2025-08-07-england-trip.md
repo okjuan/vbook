@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-25
+modified_date: 2025-08-28
 layout: post
 title: trip to England
 permalink: /england
@@ -140,10 +140,9 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - coffee @ Omotesando Koffee
 - visit The British Museum
 - solo walk in Bloomsbury
-- visit Skoob Books, used book store with ample selection
-- ride Lime bike to King's Cross
+- visit Skoob Books, used book store with ample selection; ride Lime bike to King's Cross
 - visit Word on Water book store, then walk around; ride Lime scooter to Somers Town
-- get takeout from Roti King & eat at Cock Tavern with beer
+- get takeout from Roti King & eat at Cock Tavern with beer; chat w/ three old men about Eze's transfer to Arsenal
 
 #### Friday 08/22/2025 -- London (Blackfriars, Bankside, Waterloo, Covent Garden)
 
@@ -154,7 +153,7 @@ We haven't taken the bus yet because it's rarely a convenient option.
 - ride Lime bike to Waterloo; have a drink w/ Z and A @ Waterloo Taps
 - ride Lime bike w/ Z to Covent Garden
 - eat dinner @ Sartori
-- go to stand up comedy
+- go to stand up comedy @ The 99 Club
 
 #### Saturday 08/23/2025 -- London
 
