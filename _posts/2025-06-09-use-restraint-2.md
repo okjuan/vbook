@@ -1,10 +1,11 @@
 ---
-modified_date: 2025-07-02
+modified_date: 2025-08-29
 layout: post
 title: "how to use restraint #2"
-permalink: /use-restraint-2
+permalink: /restraint-2
 tags: journal life
 show_revisions: true
+redirect_from: ['/use-restraint-2']
 ---
 
 I started buying houseplants about four years ago.

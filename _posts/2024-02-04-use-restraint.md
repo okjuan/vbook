@@ -1,9 +1,10 @@
 ---
-modified_date: 2025-03-09
+modified_date: 2025-08-29
 layout: post
 title: "how to use restraint"
-permalink: /use-restraint
+permalink: /restraint
 tags: essays writing mediums audio psychology hemingway
+redirect_from: ['/use-restraint']
 ---
 
 Sometimes, audio is the superior medium.
