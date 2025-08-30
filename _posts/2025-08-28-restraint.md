@@ -26,7 +26,7 @@ In the past, it may have seemed inconceivable to divorce music from its social a
 We put devices in our ears that acoustically shut out the world beyond our heads and pipe into our consciousness a private sountrack.
 Books function in a similar way.
 They are technologies that encode into symbols for the solitary consumption of readers the social acts of storytelling and conversation.
-These mediums are layers of communication that open a gulf between people and fills it with virtual experiences of each other.
+These mediums are layers of communication that open a gulf between people and fill it with virtual experiences of each other.
 With one hand media brings us together and with the other it sets us apart.
 It is [the dose that makes the poison](https://en.wikipedia.org/wiki/The_dose_makes_the_poison).
 As a supplement, media is a tremendously enriching substance, but problems arise when it becomes our primary means for connecting to the world.
