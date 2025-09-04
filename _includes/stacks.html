@@ -146,6 +146,46 @@
         const modalTitle = document.getElementById('modal-title');
         const examplesContainer = document.getElementById('examples-container');
 
+        // Image preloading cache
+        const preloadedImages = new Map();
+
+        // Function to preload an image
+        function preloadImage(src) {
+            return new Promise((resolve, reject) => {
+                if (preloadedImages.has(src)) {
+                    resolve(preloadedImages.get(src));
+                    return;
+                }
+
+                const img = new Image();
+                img.onload = () => {
+                    preloadedImages.set(src, img);
+                    resolve(img);
+                };
+                img.onerror = reject;
+                img.src = src;
+            });
+        }
+
+        // Preload all images on page load
+        stacks.forEach(stack => {
+            const hasExamples = stack.dataset.hasExamples === 'true';
+            if (hasExamples) {
+                try {
+                    const examples = JSON.parse(stack.dataset.examples);
+                    examples.forEach(example => {
+                        if (example.image_url) {
+                            preloadImage(example.image_url).catch(error => {
+                                console.warn('Failed to preload image:', example.image_url, error);
+                            });
+                        }
+                    });
+                } catch (error) {
+                    console.error('Error parsing examples data for preloading:', error);
+                }
+            }
+        });
+
         // Get the background color of the document body
         const bodyStyles = window.getComputedStyle(document.body);
         const bodyBgColor = bodyStyles.backgroundColor;
@@ -196,14 +236,25 @@
                             let html = '';
 
                             if (example.image_url) {
-                                html += `<img src="${example.image_url}" alt="Image for ${example.name}" class="example-image">`;
+                                // Use preloaded image if available, otherwise fallback to regular img tag
+                                if (preloadedImages.has(example.image_url)) {
+                                    const preloadedImg = preloadedImages.get(example.image_url);
+                                    const imgElement = preloadedImg.cloneNode(true);
+                                    imgElement.alt = `Image for ${example.name}`;
+                                    imgElement.className = 'example-image';
+                                    exampleItem.appendChild(imgElement);
+                                } else {
+                                    html += `<img src="${example.image_url}" alt="Image for ${example.name}" class="example-image">`;
+                                }
                             }
 
                             if (example.name) {
                                 html += `<p>${example.name}</p>`;
                             }
 
-                            exampleItem.innerHTML = html;
+                            if (html) {
+                                exampleItem.innerHTML += html;
+                            }
                             examplesContainer.appendChild(exampleItem);
                         });
 
