@@ -135,8 +135,8 @@
 
 <div id="stacks-container">
     {% for stack in page.stacks %}
-        {%- if page.stack_format == "imageTitleSubtitleDescription.html" -%}
-            <!-- TODO: pull out this implementation to a new file imageTitleSubtitleDescription.html -->
+        {%- if page.stack_format == "imageTitleSubtitleDescriptionCommentary.html" -%}
+            <!-- TODO: pull out this implementation to a new file imageTitleSubtitleDescriptionimageTitleSubtitleDescriptionCommentary.html -->
             <div class="stack"
                 data-description="{{ stack.description }}"
                 {% if stack.examples %}

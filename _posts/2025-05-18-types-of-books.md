@@ -6,7 +6,7 @@ permalink: /kinds-of-books
 tags: notes lists reading books
 disable_hovercards: true
 post_type: stacks
-stack_format: imageTitleSubtitleDescription.html
+stack_format: imageTitleSubtitleDescriptionCommentary.html
 stacks:
   - description: The kind you read over a weekend.
     examples:
