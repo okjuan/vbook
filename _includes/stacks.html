@@ -138,8 +138,8 @@
         <div class="stack"
              data-description="{{ stack.description }}"
              {% if stack.examples %}
-             data-has-examples="true"
-             data-examples="{{ stack.examples | jsonify | escape }}"
+                data-has-examples="true"
+                data-examples="{{ stack.examples | jsonify | escape }}"
              {% endif %}>
             <p class="stack-description">{{ stack.description }}</p>
         </div>
