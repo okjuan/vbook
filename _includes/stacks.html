@@ -86,7 +86,7 @@
         transform: translateY(0) scale(1);
     }
 
-    .examples-grid {
+    .entries-grid {
         display: flex;
         flex-direction: column;
         gap: 20px;
@@ -95,14 +95,14 @@
         padding-bottom: 30px;
     }
 
-    .example-item {
+    .entry-item {
         display: flex;
         flex-direction: row;
         align-items: center;
         gap: 15px;
     }
 
-    .example-image {
+    .entry-image {
         width: 100%;
         max-width: 120px;
         min-width: 60px;
@@ -114,7 +114,7 @@
         margin: 0 25px;
     }
 
-    .example-item p {
+    .entry-item p {
         flex: 5;
         margin: 0;
         padding: 0 15px;
@@ -139,9 +139,9 @@
             <!-- TODO: pull out this implementation to a new file imageTitleSubtitleDescriptionimageTitleSubtitleDescriptionCommentary.html -->
             <div class="stack"
                 data-description="{{ stack.description }}"
-                {% if stack.examples %}
-                    data-has-examples="true"
-                    data-examples="{{ stack.examples | jsonify | escape }}"
+                {% if stack.entries %}
+                    data-has-entries="true"
+                    data-entries="{{ stack.entries | jsonify | escape }}"
                 {% endif %}>
                 <p class="stack-description">{{ stack.description }}</p>
             </div>
@@ -152,11 +152,11 @@
     {% endfor %}
 </div>
 
-<!-- Modal for displaying examples -->
+<!-- Modal for displaying entries -->
 <div id="stack-modal" class="modal">
     <div class="modal-content">
         <p id="modal-title"></p>
-        <div id="examples-container" class="examples-grid"></div>
+        <div id="entries-container" class="entries-grid"></div>
     </div>
 </div>
 
@@ -166,7 +166,7 @@
         const modal = document.getElementById('stack-modal');
         const modalContent = document.querySelector('.modal-content');
         const modalTitle = document.getElementById('modal-title');
-        const examplesContainer = document.getElementById('examples-container');
+        const entriesContainer = document.getElementById('entries-container');
 
         // Image preloading cache
         const preloadedImages = new Map();
@@ -191,19 +191,19 @@
 
         // Preload all images on page load
         stacks.forEach(stack => {
-            const hasExamples = stack.dataset.hasExamples === 'true';
-            if (hasExamples) {
+            const hasEntries = stack.dataset.hasEntries === 'true';
+            if (hasEntries) {
                 try {
-                    const examples = JSON.parse(stack.dataset.examples);
-                    examples.forEach(example => {
-                        if (example.image_url) {
-                            preloadImage(example.image_url).catch(error => {
-                                console.warn('Failed to preload image:', example.image_url, error);
+                    const entries = JSON.parse(stack.dataset.entries);
+                    entries.forEach(entry => {
+                        if (entry.image_url) {
+                            preloadImage(entry.image_url).catch(error => {
+                                console.warn('Failed to preload image:', entry.image_url, error);
                             });
                         }
                     });
                 } catch (error) {
-                    console.error('Error parsing examples data for preloading:', error);
+                    console.error('Error parsing entries data for preloading:', error);
                 }
             }
         });
@@ -255,52 +255,52 @@
             // Handle click events
             stack.addEventListener('click', function() {
                 const description = this.dataset.description;
-                const hasExamples = this.dataset.hasExamples === 'true';
+                const hasEntries = this.dataset.hasEntries === 'true';
 
                 // Set modal title
                 modalTitle.textContent = description;
 
-                // Clear previous examples
-                examplesContainer.innerHTML = '';
+                // Clear previous entries
+                entriesContainer.innerHTML = '';
 
-                // If this stack has examples, display them
-                if (hasExamples) {
+                // If this stack has entries, display them
+                if (hasEntries) {
                     try {
-                        const examples = JSON.parse(this.dataset.examples);
+                        const entries = JSON.parse(this.dataset.entries);
 
-                        examples.forEach(example => {
+                        entries.forEach(entry => {
                             const exampleItem = document.createElement('div');
-                            exampleItem.className = 'example-item';
+                            exampleItem.className = 'entry-item';
 
                             let html = '';
 
-                            if (example.image_url) {
+                            if (entry.image_url) {
                                 // Use preloaded image if available, otherwise fallback to regular img tag
-                                if (preloadedImages.has(example.image_url)) {
-                                    const preloadedImg = preloadedImages.get(example.image_url);
+                                if (preloadedImages.has(entry.image_url)) {
+                                    const preloadedImg = preloadedImages.get(entry.image_url);
                                     const imgElement = preloadedImg.cloneNode(true);
-                                    imgElement.alt = `Image for ${example.name}`;
-                                    imgElement.className = 'example-image';
+                                    imgElement.alt = `Image for ${entry.title}`;
+                                    imgElement.className = 'entry-image';
                                     exampleItem.appendChild(imgElement);
                                 } else {
-                                    html += `<img src="${example.image_url}" alt="Image for ${example.name}" class="example-image">`;
+                                    html += `<img src="${entry.image_url}" alt="Image for ${entry.title}" class="entry-image">`;
                                 }
                             }
 
-                            if (example.name) {
-                                html += `<p>${example.name}</p>`;
+                            if (entry.title) {
+                                html += `<p>${entry.title}</p>`;
                             }
 
                             if (html) {
                                 exampleItem.innerHTML += html;
                             }
-                            examplesContainer.appendChild(exampleItem);
+                            entriesContainer.appendChild(exampleItem);
                         });
 
                         // Show the modal with animation
                         showModal();
                     } catch (error) {
-                        console.error('Error parsing examples data:', error);
+                        console.error('Error parsing entries data:', error);
                     }
                 }
             });
