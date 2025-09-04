@@ -41,15 +41,24 @@
 
     /* Modal styles */
     .modal {
-        display: none;
         position: fixed;
         z-index: 1000;
         left: 0;
         top: 0;
         width: 100%;
         height: 100%;
-        background-color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0);
         overflow-y: auto;
+        backdrop-filter: blur(0px);
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.3s ease, visibility 0.3s ease, backdrop-filter 0.3s ease;
+    }
+
+    .modal.show {
+        opacity: 1;
+        visibility: visible;
+        background-color: rgba(0, 0, 0, 0.3);
         backdrop-filter: blur(2px);
     }
 
@@ -68,6 +77,13 @@
         /* Make it a flex container */
         display: flex;
         flex-direction: column;
+        /* Animation properties */
+        transform: translateY(-30px) scale(0.95);
+        transition: transform 0.3s ease;
+    }
+
+    .modal.show .modal-content {
+        transform: translateY(0) scale(1);
     }
 
     .examples-grid {
@@ -195,17 +211,34 @@
             modalContent.style.backgroundColor = bodyBgColor;
         }
 
+        // Function to show modal with animation
+        function showModal() {
+            modal.style.display = 'block';
+            // Force a reflow to ensure the initial state is applied
+            modal.offsetHeight;
+            modal.classList.add('show');
+        }
+
+        // Function to hide modal with animation
+        function hideModal() {
+            modal.classList.remove('show');
+            // Wait for animation to complete before hiding
+            setTimeout(() => {
+                modal.style.display = 'none';
+            }, 300); // Match the CSS transition duration
+        }
+
         // Close modal when clicking outside the modal content
         window.addEventListener('click', function(event) {
             if (event.target === modal) {
-                modal.style.display = 'none';
+                hideModal();
             }
         });
 
         // Close modal with Escape key
         document.addEventListener('keydown', function(event) {
-            if (event.key === 'Escape' && modal.style.display === 'block') {
-                modal.style.display = 'none';
+            if (event.key === 'Escape' && modal.classList.contains('show')) {
+                hideModal();
             }
         });
 
@@ -258,8 +291,8 @@
                             examplesContainer.appendChild(exampleItem);
                         });
 
-                        // Show the modal
-                        modal.style.display = 'block';
+                        // Show the modal with animation
+                        showModal();
                     } catch (error) {
                         console.error('Error parsing examples data:', error);
                     }
