@@ -70,12 +70,14 @@ stacks:
         commentary: 'Here I will write a bit about this book. Soon!'
   - description: The kind you didn't finish but that permanently changed how you see the world.
     entries:
-      - name: 'Passages: Predictable Crises of Adult Life'
+      - title: 'Passages: Predictable Crises of Adult Life'
+        subtitle: by Gail Sheehy
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388271646i/82229.jpg
         commentary: 'Here I will write a bit about this book. Soon!'
   - description: The kind you recommend to everybody.
     entries:
-      - name: 'Passages: Predictable Crises of Adult Life'
+      - title: 'Passages: Predictable Crises of Adult Life'
+        subtitle: by Gail Sheehy
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388271646i/82229.jpg
         commentary: 'Here I will write a bit about this book. Soon!'
   - description: The kind you read because you are frozen with existential ennui and reading it is the only thing you can comfortably do.
@@ -118,7 +120,8 @@ stacks:
         commentary: 'Here I will write a bit about this book. Soon!'
   - description: The kind you read to learn from the author's writing style.
     entries:
-      - name: The Short Stories of Ernest Hemingway
+      - title: The Short Stories of Ernest Hemingway
+        subtitle: by Ernest Hemingway
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523546158i/4625.jpg
         commentary: 'Here I will write a bit about this book. Soon!'
       - title: A Moveable Feast
