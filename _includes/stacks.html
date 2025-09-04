@@ -135,14 +135,20 @@
 
 <div id="stacks-container">
     {% for stack in page.stacks %}
-        <div class="stack"
-             data-description="{{ stack.description }}"
-             {% if stack.examples %}
-                data-has-examples="true"
-                data-examples="{{ stack.examples | jsonify | escape }}"
-             {% endif %}>
-            <p class="stack-description">{{ stack.description }}</p>
-        </div>
+        {%- if page.stack_format == "imageTitleSubtitleDescription.html" -%}
+            <!-- TODO: pull out this implementation to a new file imageTitleSubtitleDescription.html -->
+            <div class="stack"
+                data-description="{{ stack.description }}"
+                {% if stack.examples %}
+                    data-has-examples="true"
+                    data-examples="{{ stack.examples | jsonify | escape }}"
+                {% endif %}>
+                <p class="stack-description">{{ stack.description }}</p>
+            </div>
+        {% else %}
+            <!-- TODO: implement a custom error to raise here -->
+            {% continue %}
+        {%- endif -%}
     {% endfor %}
 </div>
 

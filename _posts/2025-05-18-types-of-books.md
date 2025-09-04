@@ -1,11 +1,12 @@
 ---
-modified_date: 2025-07-07
+modified_date: 2025-09-03
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
 tags: notes lists reading books
 disable_hovercards: true
 post_type: stacks
+stack_format: imageTitleSubtitleDescription.html
 stacks:
   - description: The kind you read over a weekend.
     examples:
