@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-09-03
+modified_date: 2025-09-04
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -13,7 +13,7 @@ stacks:
       - title: Breakfast of Champions
         subtitle: by Kurt Vonnegut
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327934446i/4980.jpg
-        commentary: 'Here I will write a bit about this book. Soon! Here I will write a bit about this book. Soon! Here I will write a bit about this book. Soon! Here I will write a bit about this book. Soon! Here I will write a bit about this book. Soon!'
+        commentary: "I loved the ministories Vonnegut chucked out throughout this book and the constant switching of perspectives. Yet this book is one that has deteriorated in my memory. While I read it, I enjoyed it with enthusiasm. But that impression didn't keep. There is something rather selfconscious about Kurt Vonnegut and it comes across not only in his selfdeprecating manner as an interviewee but in the book's overt quirkiness and its unsubtle sociopolitical commentary and finally in Vonnegut's selfinsertion as a character."
       - title: Wise Blood
         subtitle: by Flannery O'Connor
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1223675478i/337107.jpg
