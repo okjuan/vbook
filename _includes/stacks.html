@@ -91,32 +91,24 @@
         flex-direction: column;
         gap: 20px;
         border-top: 1px solid currentColor;
-        padding-top: 30px;
-        padding-bottom: 30px;
+        padding: 30px;
     }
 
     .entry-item {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 15px;
+        display: block;
+        overflow: hidden; /* Contains floated elements */
+        margin-bottom: 20px;
     }
 
     .entry-image {
-        width: 100%;
+        width: 25%;
         max-width: 120px;
         min-width: 60px;
         height: auto;
         box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-        flex: 1;
-        flex-shrink: 1;
-        flex-grow: 1;
-        margin: 0 25px;
-    }
-
-    .entry-item > div {
-        flex: 5;
-        margin: 0 25px 0 0;
+        /* Float the image to the left so text wraps around it */
+        float: left;
+        margin: 0 20px 10px 0; /* Right and bottom margin for text padding */
     }
 
     /* Accessibility focus styles */
@@ -134,7 +126,7 @@
     .entry-title {
         font-size: 1.2em;
         font-weight: bold;
-        margin: 0.5em 0 0.2em 0;
+        margin: 0 0 0.2em 0;
         line-height: 1.3;
         color: inherit;
     }
@@ -143,7 +135,7 @@
         font-size: 1em;
         font-weight: 500;
         font-style: italic;
-        margin: 0 0 0.4em 0;
+        margin: 0.2em 0 0.3em 0;
         line-height: 1.2;
         color: inherit;
         opacity: 0.8;
@@ -152,10 +144,11 @@
     .entry-commentary {
         font-size: 0.95em;
         font-weight: normal;
-        margin: 0.2em 0 0.8em 0;
+        margin: 0 0 0.8em 0;
         line-height: 1.4;
         padding: 0;
         color: inherit;
+        text-align: justify;
     }
 </style>
 
@@ -298,10 +291,7 @@
                             const exampleItem = document.createElement('div');
                             exampleItem.className = 'entry-item';
 
-                            let html = '<div>';
-
                             if (entry.image_url) {
-                                // Use preloaded image if available, otherwise fallback to regular img tag
                                 if (preloadedImages.has(entry.image_url)) {
                                     const preloadedImg = preloadedImages.get(entry.image_url);
                                     const imgElement = preloadedImg.cloneNode(true);
@@ -309,23 +299,34 @@
                                     imgElement.className = 'entry-image';
                                     exampleItem.appendChild(imgElement);
                                 } else {
-                                    html += `<img src="${entry.image_url}" alt="Image for ${entry.title}" class="entry-image">`;
+                                    const imgElement = document.createElement('img');
+                                    imgElement.src = entry.image_url;
+                                    imgElement.alt = `Image for ${entry.title}`;
+                                    imgElement.className = 'entry-image';
+                                    exampleItem.appendChild(imgElement);
                                 }
                             }
 
+                            let html = '';
                             if (entry.title) {
-                                html += `<div class="entry-title"><p>${entry.title}</p></div>`;
+                                const title = document.createElement('div');
+                                title.className = 'entry-title';
+                                title.innerHTML = `${entry.title}`;
+                                exampleItem.appendChild(title);
                             }
                             if (entry.subtitle) {
-                                html += `<div class="entry-subtitle"><p>${entry.subtitle}</p></div>`;
+                                const subtitle = document.createElement('div');
+                                subtitle.className = 'entry-subtitle';
+                                subtitle.innerHTML = `${entry.subtitle}`;
+                                exampleItem.appendChild(subtitle);
                             }
                             if (entry.commentary) {
-                                html += `<div class="entry-commentary"><p>${entry.commentary}</p></div>`;
+                                const commentary = document.createElement('p');
+                                commentary.className = 'entry-commentary';
+                                commentary.innerHTML = `${entry.commentary}`;
+                                exampleItem.appendChild(commentary);
                             }
 
-                            if (html) {
-                                exampleItem.innerHTML += html + '</div>';
-                            }
                             entriesContainer.appendChild(exampleItem);
                         });
 
