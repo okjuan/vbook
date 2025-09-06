@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-09-05
+modified_date: 2025-09-06
 layout: post
 title: <em>Theatre takes place all the time</em>
 permalink: /theatre-all-the-time
@@ -12,11 +12,11 @@ tags: quotes art life
 This is a quote by John Cage that I encountered in _The Medium is the Massage_, professor Marshall McLuhan and graphic designer Quentin Fiore's idiosyncratic book.
 I thought immediately of my piece {% vbook_post _how to live in the moment #2_ | 2025-03-08-live-in-the-moment-2 %}, where I talk about art as a means for capturing special moments of everyday life.
 
-In the past, every time I've encountered a quote by an artist that echoes something I've written, I try hard to retroactively incorporate the quote into my piece.
+Until recently, every time I encountered a quote by an artist that echoed something I'd written, I would eagerly try to incorporate the quote into my piece retroactively.
 I did this multiple times to [_The Invisible Thinker_](https://okjuan.medium.com/the-invisible-thinker-c5ee42b4bb5) with quotes from David Lynch, Cormac McCarthy, and Friedrich Nietzsche.
-But eventually I regretted it.
-The quotes were relevant, but it was difficult to insert them without disrupting the flow of the finished piece.
+The quotes were relevant, but I came to regret inserting them into a piece I might already consider whole.
+It's difficult to make changes to a finished piece while preserving its flow and cohesion.
 
 So I've been thinking about this problem.
-How to collect quotes and connect them to existing pieces without forcing undue modifications.
-Here is one a new kind of attempt.
+How to collect quotes and connect them to existing pieces without forcing on them undue modifications.
+Here is a new kind of attempt.
