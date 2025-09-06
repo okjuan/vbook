@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-06-05
+modified_date: 2025-09-05
 layout: post
 title: "how to live in the moment #2"
 permalink: /live-in-the-moment-2
@@ -32,4 +32,4 @@ What you produce is an observation not of objective reality but of [subjective e
 Like the jarring of a firefly, you've taken from the vastness a little treasure so that the magic of that moment might endure a little longer.
 Something for the future, for yourself and for sharing with others.
 But you're also doing something now.
-You're enjoying the act of living.
+You're enjoying being alive.
