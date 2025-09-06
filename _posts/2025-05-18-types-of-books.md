@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-09-05
+modified_date: 2025-09-06
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -266,6 +266,26 @@ stacks:
       - title: On Writing
         subtitle: by Stephen King
         image_url: https://m.media-amazon.com/images/I/71z4varBITL._UF1000,1000_QL80_.jpg
+        commentary: 'Here I will write a bit about this book. Soon!'
+  - description: The kind that assembles short stories into a novel.
+    entries:
+      - title: If on a winter's night a traveler
+        subtitle: by Italo Calvino
+        image_url: https://m.media-amazon.com/images/I/51nqAv6u4vL._SY466_.jpg
+        commentary: 'Here I will write a bit about this book. Soon!'
+      - title: A Visit from the Goon Squad
+        subtitle: by Jennifer Egan
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356844046i/7331435.jpg
+        commentary: 'Here I will write a bit about this book. Soon!'
+      - title: Wise Blood
+        subtitle: by Flannery O'Connor
+        image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1223675478i/337107.jpg
+        commentary: 'Here I will write a bit about this book. Soon!'
+  - description: The kind that is less a journey and more a sequence of jumpoff points, less a whole more a hub.
+    entries:
+      - title: The Medium is the Massage
+        subtitle: by Marshall McLuhan & Quentin Fiore
+        image_url: https://pictures.abebooks.com/inventory/md/md31197883371.jpg
         commentary: 'Here I will write a bit about this book. Soon!'
 ---
 
