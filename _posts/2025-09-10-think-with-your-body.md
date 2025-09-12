@@ -1,9 +1,9 @@
 ---
-modified_date: 2025-09-10
+modified_date: 2025-09-12
 layout: post
 title: "how to think with your body #2"
 permalink: /think-with-your-body-2
-tags: psychology attention perception care chores anxiety technology
+tags: psychology attention perception anxiety technology
 ---
 
 I like doing laundry.
