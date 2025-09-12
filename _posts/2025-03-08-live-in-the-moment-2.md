@@ -1,9 +1,9 @@
 ---
-modified_date: 2025-09-05
+modified_date: 2025-09-12
 layout: post
 title: "how to live in the moment #2"
 permalink: /live-in-the-moment-2
-tags: writing literature art life
+tags: writing literature art life attention
 show_revisions: true
 ---
 

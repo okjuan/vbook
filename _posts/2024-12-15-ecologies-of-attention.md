@@ -1,9 +1,9 @@
 ---
-modified_date: 2025-01-21
+modified_date: 2025-09-12
 layout: post
 title: 'what is attention?'
 permalink: /attention
-tags: books environment psychology technology evolution
+tags: books environment psychology technology evolution attention
 ---
 
 From where I am sitting on my balcony I can see the TV out of the corner of my eye and it's very difficult to ignore it.

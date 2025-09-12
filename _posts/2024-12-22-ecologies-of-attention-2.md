@@ -1,9 +1,9 @@
 ---
-modified_date: 2024-12-22
+modified_date: 2025-09-12
 layout: post
 title: 'what is attention? #2'
 permalink: /attention-2
-tags: environment psychology psychoanalysis
+tags: environment psychology psychoanalysis attention
 ---
 
 The shower is so fertile a place for contemplation and creative thinking for so many of us that we have the name _shower thoughts_ for the novel ideas that we produce while we're there.

@@ -1,9 +1,9 @@
 ---
-modified_date: 2025-02-10
+modified_date: 2025-09-12
 layout: post
 title: how to think with your body
 permalink: /think-with-your-body
-tags: essays psychology thinking
+tags: essays psychology thinking attention
 ---
 
 Activities that occupy partial attention – like driving or cooking – make me restless.
