@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-09-06
+modified_date: 2025-09-19
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -7,6 +7,8 @@ tags: notes lists reading books
 disable_hovercards: true
 post_type: stacks
 stack_format: imageTitleSubtitleDescriptionCommentary.html
+excerpt: There are many kinds of books.
+stacks_preamble: There are many kinds of books.
 stacks:
   - description: The kind you read over a weekend.
     entries:
@@ -288,6 +290,3 @@ stacks:
         image_url: https://pictures.abebooks.com/inventory/md/md31197883371.jpg
         commentary: 'Here I will write a bit about this book. Soon!'
 ---
-
-There are many kinds of books.
-<!--more-->

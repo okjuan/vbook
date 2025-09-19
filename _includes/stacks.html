@@ -1,6 +1,12 @@
+{%- if page.stacks_preamble -%}
+    <div class="paragraph">
+        <p>{{ page.stacks_preamble }}</p>
+    </div>
+{%- endif -%}
+
 <div id="stacks-container">
     {% for stack in page.stacks %}
-        <div class="stack"
+        <div class="stack paragraph"
             data-description="{{ stack.description }}"
             {% if stack.entries %}
                 data-has-entries="true"
