@@ -1,18 +1,13 @@
 <div id="stacks-container">
     {% for stack in page.stacks %}
-        {%- if page.stack_format == "imageTitleSubtitleDescriptionCommentary.html" -%}
-            <div class="stack"
-                data-description="{{ stack.description }}"
-                {% if stack.entries %}
-                    data-has-entries="true"
-                    data-entries="{{ stack.entries | jsonify | escape }}"
-                {% endif %}>
-                <p class="stack-description">{{ stack.description }}</p>
-            </div>
-        {% else %}
-            <!-- TODO: implement a custom error to raise here -->
-            {% continue %}
-        {%- endif -%}
+        <div class="stack"
+            data-description="{{ stack.description }}"
+            {% if stack.entries %}
+                data-has-entries="true"
+                data-entries="{{ stack.entries | jsonify | escape }}"
+            {% endif %}>
+            <p class="stack-description">{{ stack.description }}</p>
+        </div>
     {% endfor %}
 </div>
 
@@ -23,5 +18,7 @@
     </div>
 </div>
 
-<script src="{{ site.baseurl }}/assets/js/stacks.js"></script>
-<link rel="stylesheet" href="{{ "/assets/css/stacks.css" | relative_url }}">
+{%- if page.stack_format == "imageTitleSubtitleDescriptionCommentary.html" -%}
+    <script src="{{ site.baseurl }}/assets/js/stacks.js"></script>
+    <link rel="stylesheet" href="{{ "/assets/css/stacks.css" | relative_url }}">
+{%- endif -%}
