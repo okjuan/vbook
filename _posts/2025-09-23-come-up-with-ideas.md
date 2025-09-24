@@ -17,7 +17,7 @@ What about a nonprofit futsal league?
 I rarely see the rink in use.
 The goals are there, I'd just need to request or rent them.
 Those smaller ones look perfect, no goalkeeper would be necessary.
-Already on the rink's surface there are lines demarcating a little zone where the goals should be placed.
+Already on the rink's surface there are lines demarcating the little zones where the goals should be placed.
 To prevent players from squatting on the goalline there could be a rule disallowing players from entering the zone, it's a fairly common one in smallsided games.
 But then the game would probably devolve into bickering about whether someone stepped across the line or not.
 When it's up to the players to call fouls there's always one that spends the whole game calling them.
