@@ -9,7 +9,7 @@ tags: journal essays creativity thinking
 Fifteen minutes before a work meeting I wander out into the neighborhood to sit idly in the sunshine.
 <!--more-->
 I settle on a boulder in the park across the street and find myself looking at the bike polo rink and the small netted goals lockchained to its edge.
-There a few months prior my friend and I played an impromptu pickup game with some neighborhood kids and on another day with another friend I'd returned to kick a ball around.
+There a few months prior my friend and I played an impromptu pickup game with some neighborhood kids and on another day with another friend I returned to kick a ball around.
 I play soccer regularly in a local league but somewhat regret the cost, which seems too high especially considering there are no referees.
 Because of that, I sometimes daydream about starting a grassroots nonprofit soccer league and now sitting in the park looking at the bike polo rink I slip back into that daydream.
 
