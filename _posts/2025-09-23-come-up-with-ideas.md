@@ -20,7 +20,7 @@ Those smaller ones look perfect, no goalkeeper would be necessary.
 Already on the rink's surface there are lines demarcating the little zones where the goals should be placed.
 To prevent players from squatting on the goalline there could be a rule disallowing players from entering the zone, it's a fairly common one in smallsided games.
 But then the game would probably devolve into bickering about whether someone stepped across the line or not.
-When it's up to the players to call fouls there's always one that spends the whole game calling them.
+When it's up to the players to call fouls there's always one that spends half the game a partisan referee.
 Better minimize the number of rules.
 I could post flyers around the neighborhood to gauge interest in a futsal league.
 Just last night I saw a woman posting flyers on lightposts and then pedaling off down the road, probably to the next intersection where posted flyers were likely to be noticed.
