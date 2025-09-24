@@ -33,4 +33,4 @@ I could do it right now.
 Walk home, text my friends, set a date, and book the rink online.
 I don't mind coughing up the startup cost of a futsal ball.
 But we don't even need that yet.
-We can just play with a regular soccer ball.
+We can just start with a regular soccer ball.
