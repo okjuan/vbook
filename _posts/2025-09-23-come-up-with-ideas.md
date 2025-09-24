@@ -26,7 +26,7 @@ I could post flyers around the neighborhood to gauge interest.
 Just last night I saw a woman posting flyers on lightposts and then pedaling off down the road, probably to the next intersection where posted flyers were likely to be noticed.
 I could call it the Cooper Park Futsal League, its location would be right there in the name.
 It could start here and then federate out to other neighborhood parks as awareness and interest burgeons.
-Ok but really I should just start with a proof of concept.
+But really I should just start with a proof of concept.
 A one-off game among friends.
 It would be so easy.
 I could do it right now.
