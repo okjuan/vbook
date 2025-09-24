@@ -22,7 +22,7 @@ To prevent players from squatting on the goalline there could be a rule disallow
 But then the game would probably devolve into bickering about whether someone stepped across the line or not.
 When it's up to the players to call fouls there's always one that spends half the game a partisan referee.
 Better minimize the number of rules.
-I could post flyers around the neighborhood to gauge interest in a futsal league.
+I could post flyers around the neighborhood to gauge interest.
 Just last night I saw a woman posting flyers on lightposts and then pedaling off down the road, probably to the next intersection where posted flyers were likely to be noticed.
 I could call it the Cooper Park Futsal League, its location would be right there in the name.
 It could start here and then federate out to other neighborhood parks as awareness and interest burgeons.
