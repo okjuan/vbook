@@ -29,6 +29,7 @@ Take for example [this article](https://heritagevancouver.org/top10-watch-list/2
 > The delicate balance between serving local and regional tastes is under pressure on The Drive...Rising land values threaten to displace the local businesses and to attract new 3-4 storey buildings, with high-rent retail and high-cost residential above.
 
 Three to four storey buildings?
+That's what you're so worried about?
 In 2016?
 Are you kidding me?
 
