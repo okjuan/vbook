@@ -33,7 +33,7 @@ That's what you're so worried about?
 In 2016?
 Are you kidding me?
 
-It's the great plot twist we should've all seen coming, that these NIMBYs that fight to preserve good city life by railing against the unlivability of towers, their "luxury" prices, and the opportunists building them are themselves the greedy ones, hoarding the most luxurious of housing types – single family homes – and leaving eventually no option but to build towers.
+It's the great plot twist we should've all seen coming, that these NIMBYs faithfully fighting to preserve good city life by declaiming against the unlivability of towers, their "luxury" prices, and the opportunists building them are themselves the greedy ones, hoarding the most luxurious of housing types – single family homes – and leaving eventually no option but to build towers.
 Because towers would not be necessary if over long periods of time densification were allowed to happen in the form of [medium-density housing](https://en.wikipedia.org/wiki/Missing_middle_housing) in the areas that demand it.
 But no!
 New buildings are gross!
