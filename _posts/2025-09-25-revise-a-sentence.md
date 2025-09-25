@@ -16,7 +16,7 @@ In fact by the end I finish with two, one long one shorter.
 I notice that new images and phrasings spring up between drafts.
 **The PNW** turns into **coast cities of the PNW**.
 **Encroach** appears and then does the **grey blanket**.
-And the explicit name of **joy** disappears {% vbook_post in place of its feeling being conveyed | 2021-01-10-make.instead.of.describing %}.
+And the explicit name of **joy** disappears so that its feeling may be {% vbook_post conveyed rather than stated | 2021-01-10-make.instead.of.describing %}.
 
 ---
 
