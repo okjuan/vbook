@@ -14,7 +14,7 @@ I love instead a sense of place, neighborly acquantaince, and easy access to the
 It's true, architecture of "human scale" is much better.
 
 And yet I find it hard to argue against towers in cities desperate for housing.
-How else are we supposed to supply housing in a scalable way?
+How else are we supposed to create many dwellings quickly?
 Over and over at zoning hearings at Vancouver's city council the same old men crop up to rail against towers.
 They cast shadows!
 They're too big for the neigborhood!
