@@ -6,7 +6,7 @@ permalink: /revise-a-sentence-6
 tags: writing notes
 ---
 
-Here is a progression of a sentence {% vbook_post I wrote today | 2025-01-18-my-2025 %} from first draft to final form.
+Here is the progression of a sentence {% vbook_post I wrote today | 2025-01-18-my-2025 %} from first draft to final form.
 <!--more-->
 These iterative versions don't capture all the edits I attempted, they are snapshots taken along the evolution of the sentence.
 
