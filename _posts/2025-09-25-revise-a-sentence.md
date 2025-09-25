@@ -15,7 +15,7 @@ In fact by the end I finish with two, one long one shorter.
 
 I notice that new images and phrasings spring up between drafts.
 **The PNW** turns into **coast cities of the PNW**.
-**Encroach** appears and then does the **grey blanket**.
+**Encroach** appears and then does the **gray blanket**.
 And the explicit name of **joy** disappears so that its feeling may be {% vbook_post conveyed rather than stated | 2021-01-10-make.instead.of.describing %}.
 
 ---
@@ -36,8 +36,8 @@ And the explicit name of **joy** disappears so that its feeling may be {% vbook_
 
 > Here in the coastal cities of the PNW, before October arrives and the sunsets encroach on our afternoons and the last of the summer sunshine peters out, we have the cooling air and warm sunshine of September.
 
-> Here in the coastal cities of the PNW before October arrives and the sunsets encroach on our afternoons and the familiar grey blanket unrolls over the sky, we have September.
+> Here in the coastal cities of the PNW before October arrives and the sunsets encroach on our afternoons and the familiar gray blanket unrolls over the sky, we have September.
 > It is a brief period of balance, of cool air and warm sunshine, of leafy trees and soft crunchy sidewalks.
 
-> Here in the coastal cities of the PNW, before October arrives and the sunsets encroach on our afternoons and the familiar grey blanket unrolls over the sky, we have September.
+> Here in the coastal cities of the PNW, before October arrives and the sunsets encroach on our afternoons and the familiar gray blanket unrolls over the sky, we have September.
 > A brief period of balance, of cool air and sunshine, of leafy trees and soft crunchy sidewalks.
