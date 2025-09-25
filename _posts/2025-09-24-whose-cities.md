@@ -23,7 +23,7 @@ They're good for greedy developers and no one else!
 The council is corrupt!
 
 For alternatives these guys make passing gestures at "reasonable" building heights of eight to twelve stories, but it's hard to believe they mean it.
-It's only because the proposals are for buildings of 30, 40, 50 stories that these guys are willing to entertain denser housing at all.
+It's only because the proposals are for buildings of 30, 40, 50 stories that these guys are willing at all to entertain housing of greater density than already exists.
 Take for example [this article](https://heritagevancouver.org/top10-watch-list/2016/7-commercial-drive/), which sounds the alarm on prospective development on Commercial Drive, one of Vancouver's liveliest and most attractive neighborhoods:
 
 > The delicate balance between serving local and regional tastes is under pressure on The Drive...Rising land values threaten to displace the local businesses and to attract new 3-4 storey buildings, with high-rent retail and high-cost residential above.
