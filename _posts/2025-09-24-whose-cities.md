@@ -8,11 +8,10 @@ tags: cities vancouver urbanism
 
 I must concede one point to the NIMBYs – towers do not make ideal housing.
 <!--more-->
-I personally prefer not to live in a tower.
-I despise the long, corporate-feeling hallways, the endless fobbing at locked doors, and the tedious elevator wait.
-I love instead a sense of place, neighborly acquantaince, and easy access to the street.
-I will not deny that architecture of "human scale" is much better.
 Nine times out of ten I will choose to live in a building of modest size.
+About towers I despise the long, corporate-feeling hallways, the endless fobbing at locked doors, and the tedious elevator wait.
+I love instead a sense of place, neighborly acquantaince, and easy access to the street.
+It's true, architecture of "human scale" is much better.
 
 And yet I find it hard to argue against towers in cities desperate for housing.
 How else are we supposed to supply housing in a scalable way?
