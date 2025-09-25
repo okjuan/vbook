@@ -41,3 +41,6 @@ And the explicit name of **joy** disappears so that its feeling may be {% vbook_
 
 > Here in the coastal cities of the PNW, before October arrives and the sunsets encroach on our afternoons and the familiar gray blanket unrolls over the sky, we have September.
 > A brief period of balance, of cool air and sunshine, of leafy trees and soft crunchy sidewalks.
+
+> Here in the coastal cities of the PNW, before October arrives and the sunsets begin encroaching on our afternoons and the familiar gray blanket unrolls over the daytime sky, we have September.
+> A brief period of balance, of cool air and sunshine, of leafy trees and soft crunchy sidewalks.
