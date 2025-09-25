@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-09-24
+modified_date: 2025-09-25
 layout: post
 title: "who does the city belong to? #3"
 permalink: /whose-city-3
@@ -10,7 +10,7 @@ I must concede one point to the NIMBYs – towers do not make ideal housing.
 <!--more-->
 Nine times out of ten I will choose to live in a building of modest size.
 About towers I despise the long, corporate-feeling hallways, the endless fobbing at locked doors, and the tedious elevator wait.
-I love instead a sense of place, neighborly acquantaince, and easy access to the street.
+I love instead a sense of place, neighborly acquaintance, and easy access to the street.
 It's true, architecture of "human scale" is much better.
 
 And yet I find it hard to argue against towers in cities desperate for housing.
