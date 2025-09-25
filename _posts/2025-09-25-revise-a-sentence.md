@@ -22,7 +22,7 @@ And the explicit name of **joy** disappears so that its feeling may be {% vbook_
 
 > The sunshine and cool air of September in the PNW brings me joy.
 
-> I rejoice in the September sunshine and cool air in the coastal cities of the PNW.
+> I rejoice in the sunshine and cool air of September in the coastal cities of the PNW.
 
 > In the coastal cities of the PNW September maintains the summer sunshine as it
 
