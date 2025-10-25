@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.10.0"
+gem "jekyll", "~> 3.9.5"
 
 gem 'openssl', '~> 3.3', '>= 3.3.1'
 
