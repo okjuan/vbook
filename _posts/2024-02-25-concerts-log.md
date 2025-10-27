@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-03-10
+modified_date: 2025-10-27
 layout: post
 title: concerts
 permalink: /concerts
@@ -16,6 +16,12 @@ Log of concerts I've attended.
 &#x2605; = Ok
 
 &#x2606; = Disappointing
+
+#### 2025
+
+| Rating | Artist | City | Country | Venue | Date |
+| - | - | - | - | - | - |
+| &#x2605; &#x2605; &#x2605; | Polo & Pan | Seattle | USA | WAMU Theater | 09/27/2025 |
 
 #### 2024
 
