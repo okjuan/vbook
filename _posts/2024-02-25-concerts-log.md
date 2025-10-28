@@ -21,7 +21,7 @@ Log of concerts I've attended.
 
 | Rating | Artist | City | Country | Venue | Date |
 | - | - | - | - | - | - |
-| &#x2605; &#x2605; &#x2605; | Polo & Pan | Seattle | USA | WAMU Theater | 09/27/2025 |
+| &#x2605; &#x2605; | Polo & Pan | Seattle | USA | WAMU Theater | 09/27/2025 |
 
 #### 2024
 
