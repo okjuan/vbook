@@ -10,6 +10,15 @@ document.addEventListener('DOMContentLoaded', function() {
             const dateB = getDateFromElement(b, selectedOption);
             return dateB - dateA;
         });
+        const dateTextFontWeight = selectedOption === "dateModified"? 'bold' : 'normal';
+        const dateTextDecoration = selectedOption === "dateModified"? 'underline' : '';
+        postElements.forEach((p) => {
+            const dateModifiedElement = p.querySelector(`li time[itemprop="dateModified"]`);
+            if (dateModifiedElement) {
+                dateModifiedElement.style['font-weight'] = dateTextFontWeight;
+                dateModifiedElement.style['text-decoration'] = dateTextDecoration;
+            }
+        });
         postList.innerHTML = '';
         postElements.forEach(post => postList.appendChild(post));
     }
