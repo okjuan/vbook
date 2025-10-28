@@ -1,9 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('post-order-controls');
-    form.addEventListener('change', function() {
+    form.addEventListener('change', reorderPosts);
+
+    function reorderPosts() {
         const selectedOption = document.querySelector('input[name="option"]:checked').value;
-        sortPosts(selectedOption);
-    });
+        const postList = document.getElementById('post-list');
+        const postElements = Array.from(postList.querySelectorAll('li')).sort((a, b) => {
+            const dateA = getDateFromElement(a, selectedOption);
+            const dateB = getDateFromElement(b, selectedOption);
+            return dateB - dateA;
+        });
+        postList.innerHTML = '';
+        postElements.forEach(post => postList.appendChild(post));
+    }
 
     function getDateFromElement(element, dateType) {
         let dateElement = element.querySelector(`time[itemprop="${dateType}"]`);
@@ -18,19 +27,5 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         }
         return new Date(dateElement.getAttribute('datetime'));
-    }
-
-    function sortPosts(sortKey) {
-        const postList = document.getElementById('post-list');
-        const posts = Array.from(postList.querySelectorAll('li'));
-        posts.sort((a, b) => {
-            const dateA = getDateFromElement(a, sortKey);
-            const dateB = getDateFromElement(b, sortKey);
-            return dateB - dateA;
-        });
-
-        // Clear the post list and append sorted posts
-        postList.innerHTML = '';
-        posts.forEach(post => postList.appendChild(post));
     }
 });
