@@ -231,8 +231,6 @@ em, i {
  * Page content
  */
 .page-content {
-  padding-bottom: $spacing-unit * 0.5;
-  padding-top: $spacing-unit * 0.5;
   flex: 1 0 auto;
 }
 
@@ -256,11 +254,6 @@ em, i {
   > li {
     margin-bottom: $spacing-unit;
   }
-}
-
-.post-list-wrapper {
-  padding-bottom: $spacing-unit * 0.5;
-  padding-top: $spacing-unit * 0.5;
 }
 
 .post-meta {
@@ -505,14 +498,8 @@ em, i {
 
 #post-order-controls {
   display: block;
+  margin-top: $spacing-unit * 0.5;
   margin-bottom: $spacing-unit * 0.5;
-
-  @media screen and (min-width: $on-medium) {
-    float: right;
-    position: relative;
-    top: -($spacing-unit * 0.5);
-    margin: 0px;
-  }
 }
 
 #post-order-controls {
