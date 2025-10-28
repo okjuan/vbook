@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     form.addEventListener('change', reorderPosts);
 
     function reorderPosts() {
-        const selectedOption = document.querySelector('input[name="option"]:checked').value;
+        const selectedOption = document.querySelector('#post-order-controls input[name="option"]:checked').value;
         const postList = document.getElementById('post-list');
         const postElements = Array.from(postList.querySelectorAll('li')).sort((a, b) => {
             const dateA = getDateFromElement(a, selectedOption);
