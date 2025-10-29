@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-09-19
+modified_date: 2025-10-28
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -188,7 +188,12 @@ stacks:
         subtitle: by Italo Calvino
         image_url: https://m.media-amazon.com/images/I/516FBBf5NpL.jpg
         commentary: 'Here I will write a bit about this book. Soon!'
-  - description: The kind you find yourself bringing up in conversation but you've actually never read.
+  - description: The kind you find yourself bringing up in conversation even though you've only ever skimmed it.
+    entries:
+      - title: 'A Pattern Language: Towns, Buildings, Construction'
+        subtitle: by Christopher Alexander, Sara Ishikawa & Murray Silverstein
+        image_url: https://m.media-amazon.com/images/I/41BhLbY+NtL._SY445_SX342_ML2_.jpg
+        commentary: It turns out I was right. It's a very cool book. It inspired me to create <a href="my-pattern-language">my own pattern language</a>.
   - description: The kind you read because it was gifted to you.
     entries:
      - title: Pachinko
