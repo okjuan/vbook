@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-10-28
+modified_date: 2025-10-30
 layout: post
 title: "the different kinds of books"
 permalink: /kinds-of-books
@@ -10,16 +10,16 @@ stack_format: imageTitleSubtitleDescriptionCommentary.html
 excerpt: There are many kinds of books.
 stacks_preamble: There are many kinds of books.
 stacks:
-  - description: The kind you read over a weekend.
+  - description: The kind that feels fresh while you read it but stales in your memory.
     entries:
       - title: Breakfast of Champions
         subtitle: by Kurt Vonnegut
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327934446i/4980.jpg
-        commentary: "I loved the ministories Vonnegut chucked out throughout this book and the constant switching of perspectives. Yet it is a book for which my esteem deteriorated with time. I enjoyed it with enthusiasm while I read it, but that impression didn't keep. There is something rather selfconscious about Kurt Vonnegut and it comes across not only in his selfdeprecating manner as an interviewee but in this book's overt quirkiness, its unsubtle sociopolitical commentary, and finally in Vonnegut's insertion of himself as a character. I feel he undermines being taken seriously as preemptive defense against being rejected as a serious writer of literature. Maybe he's right. His stature in literature may loom too large. I will read <em>Cat's Cradle</em> next and see how my opinion evolves."
+        commentary: "I loved the ministories Vonnegut chucked out throughout this book and the constant switching of perspectives. But this is a book for which my esteem deteriorated with time. I enjoyed it with enthusiasm while I read it, but my attitude didn't keep. There is something rather selfconscious about Kurt Vonnegut and it comes across not only in his selfdeprecating manner as an interviewee but in this book's overt quirkiness, its unsubtle sociopolitical commentary, and finally in Vonnegut's selfinsertion as a character. I suspect he sabotages his image as a serious writer of literature as preemptive defense against failing to be one. It doesn't help his case. I will read <em>Cat's Cradle</em> next and see how my opinion of him evolves."
       - title: Wise Blood
         subtitle: by Flannery O'Connor
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1223675478i/337107.jpg
-        commentary: "Here another. This book is tainted by the fact that Flannery O'Connor <a href='https://www.newyorker.com/magazine/2020/06/22/how-racist-was-flannery-oconnor'>was racist</a>. I suppose she is a bit like her protagonist Hazel Moates – unable to extract the figure moving from tree to tree in the back of her mind. And this tendency in herself she evaluates in the same bizarre way she evaluates the one in Hazel: not as a moral failing, but as a sign of integrity. A virtue of loyalty. Just as Hazel cannot escape the Catholic guilt instilled in him in his upbringing, she cannot betray the \"values\" of her community because, as she said about a suggested meeting with fellow novelist and black man James Baldwin in her state of Georgia, <em>it would cause the greatest trouble and disturbance and disunion.</em> It's a strange thing for an artist of enduring aesthetic freshness to espouse such stale, backwards views. Art may have been for her not an escape but an escape from an escape."
+        commentary: "This book is tainted by the fact that Flannery O'Connor <a href='https://www.newyorker.com/magazine/2020/06/22/how-racist-was-flannery-oconnor'>was racist</a>. I suppose she is a bit like her protagonist Hazel Moates – unable to extract the figure moving from tree to tree in the back of her mind, unable to shed the doctrine of repression bestowed upon her from childhood. And this tendency in herself she evaluates in the same bizarre way she evaluates the one in Hazel: not as a moral failing, but as a sign of integrity. A virtue of loyalty. Just as Hazel cannot escape his Catholic guilt instilled in upbringing, she cannot betray the racist \"values\" of her community because, as she said about a suggested meeting in her state of Georgia with fellow writer James Baldwin, <em>it would cause the greatest trouble and disturbance and disunion.</em> It's a strange thing for an artist of enduring aesthetic freshness to espouse such stale, backwards views. Art may have been for her not an escape but an escape from an escape."
   - description: The kind you read sometimes before bed.
     entries:
       - title: The Listening Book
