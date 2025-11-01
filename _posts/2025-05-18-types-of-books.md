@@ -10,7 +10,7 @@ stack_format: imageTitleSubtitleDescriptionCommentary.html
 excerpt: There are many kinds of books.
 stacks_preamble: There are many kinds of books.
 stacks:
-  - description: The kind that feels fresh while you read it but stales in your memory.
+  - description: The kind that feels fresh while you read it but then stales in your memory.
     entries:
       - title: Breakfast of Champions
         subtitle: by Kurt Vonnegut
