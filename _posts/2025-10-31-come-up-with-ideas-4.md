@@ -6,7 +6,7 @@ permalink: /come-up-with-ideas-4
 tags: essays creativity
 ---
 
-Go through life paying attention and collect all the oddities the tides of fortune carry into your path as you drift through the expanse.
+Go through life paying attention and collect all the oddities the tides of fortune deposit into your path.
 <!--more-->
 Then just put them in your work when the rightsized hole gapes.
 
