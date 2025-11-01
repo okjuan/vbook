@@ -15,7 +15,7 @@ I suppose it shows, the hodgepodge it is.
 It's not the easiest thing to pull off.
 But when you do it expands your work in dimension.
 Instead of giving your audience a line to trace from start to point to point to end, you entangle them in a web of ideas and draw their attention to the meaningful ways they come into contact.
-Several lines of thought intersect in an intricate nexus and then they go off and point each in their own tangential direction worth pursuing.
+Several lines of thought intersect in an intricate nexus and then they go off and point each in a tangential direction worth pursuing.
 That's how it is in reality anyhow.
 
 David Lynch's enigmatic _Lost Highway_ begins with a cryptic message murmured into the protagonist's intercom.
