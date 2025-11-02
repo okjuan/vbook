@@ -38,7 +38,7 @@ He lets the ideas "percolate and simmer together" – as he said in [another int
 > I let everything I'm interested in at the moment I'm writing into the book...If it all comes from my mind and I'm interested in all of it, it is going to be like a stand of Aspen trees...Aspen trees look like they're different trees, but actually they all have the same root system, it's actually one organism...I love having a bunch of stuff that's just floating around in a manuscript for years and I'm like, I have _no_ idea how you belong but I think you do.
 
 That last bit is important.
-This is not an arbitrary process.
+The choice to include an element is not arbitrary.
 It relies on intuition to determine where an element belongs, even if how or why it belongs remains a mystery.
 
 I don't contend this approach is a necessary one, but it's one I like.
