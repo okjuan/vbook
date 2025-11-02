@@ -50,7 +50,7 @@ I was also pleased with the image of **sunsets encroach**ing.
 It expresses that their approach is unwelcome.
 
 Worth noting that **joy** and **rejoice** have disappeared.
-At this point I am working on conveying their feeling {% vbook_post instead of naming them | 2021-01-10-make.instead.of.describing %}.
+At this point I am working on conveying the feeling {% vbook_post instead of naming it | 2021-01-10-make.instead.of.describing %}.
 
 > In September, before sunsets encroach on the afternoons, along the coast of the PNW summerlike sunshine remains a while as the air cools but
 
