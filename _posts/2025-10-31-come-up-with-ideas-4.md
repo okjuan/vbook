@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-10-31
+modified_date: 2025-11-02
 layout: post
 title: "how to come up with ideas #4"
 permalink: /come-up-with-ideas-4
@@ -7,8 +7,8 @@ tags: essays creativity
 ---
 
 Pay attention as you go through life and collect all the oddities the tides of fortune deposit into your path.
-<!--more-->
 Then just put them in your work when the rightsized hole gapes.
+<!--more-->
 
 I did this while writing [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360).
 I suppose it shows, the hodgepodge it is.
