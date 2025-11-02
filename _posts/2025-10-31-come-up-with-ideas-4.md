@@ -6,7 +6,7 @@ permalink: /come-up-with-ideas-4
 tags: essays creativity
 ---
 
-Pay attention as you go through life and collect all the oddities the tides of fortune deposit into your path.
+Pay attention as you go through life and collect all the curiosities the tides of fortune deposit into your path.
 Then just put them in your work when the rightsized hole gapes.
 <!--more-->
 
