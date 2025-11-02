@@ -13,12 +13,7 @@ These iterative versions don't capture all the edits I attempted, they are snaps
 Seeing how it grew in length reminds me of Verlyn Klinkenborg's claim that long sentences are just {% vbook_post several short sentences | 2023-02-25-several-short-sentences %} put together and that to write a long sentence one must know how to write a short one.
 In fact by the end I finish with two sentences, one long one shorter.
 
-I notice that new images and phrasings spring up between drafts.
-**The PNW** turns into **coast cities of the PNW**.
-**Encroach** appears and then does the **gray blanket**.
-And the explicit name of **joy** disappears so that its feeling may be {% vbook_post conveyed rather than stated | 2021-01-10-make.instead.of.describing %}.
-
----
+I began with this attempt:
 
 > The sunshine and cool air of September in the PNW brings me joy.
 
@@ -52,6 +47,9 @@ The sunshine is lingering.
 
 I was also pleased with the image of **sunsets encroach**ing.
 It expresses that their approach is unwelcome.
+
+Worth noting that **joy** and **rejoice** have disappeared.
+At this point I am working on conveying their feeling {% vbook_post instead of naming them | 2021-01-10-make.instead.of.describing %}.
 
 > In September, before sunsets encroach on the afternoons, along the coast of the PNW summerlike sunshine remains a while as the air cools but
 
