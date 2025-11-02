@@ -36,3 +36,11 @@ Paul Harding, whose debut novel _Tinkers_ won the 2010 Pulitzer Prize for Fictio
 That last bit is important.
 This is not an arbitrary process.
 It relies on intuition to determine where an element belongs, even if how or why it belongs remains a mystery.
+
+I don't contend this approach is a necessary one, but it's one I like.
+It produces art that feels organic, spontaneous, unpredictable, alive.
+It favors intuition and its riches over rational cohesion and its reducibility.
+It's a method for developing in different directions at once.
+Sometimes you get lost but that can be a good thing.
+I love art of this kind for the same reason I love jazz.
+So many interesting things are happening all the time.
