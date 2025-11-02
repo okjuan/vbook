@@ -13,10 +13,8 @@ Then just put them in your work when the rightsized hole gapes.
 I did this while writing [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360).
 I suppose it shows, the hodgepodge it is.
 It's not the easiest thing to pull off.
-But when you do, it expands your work in dimension.
-Instead of giving your audience a line to trace from start to point to point to end, you entangle them in a web of ideas and draw their attention to the meaningful ways they come into contact.
-Several lines of thought intersect in an intricate nexus then split off in tangential directions each worth pursuing.
-That's how it is in reality anyhow.
+But when you do, it gives dimension to your work.
+Instead of giving your audience a line to trace from start to end, you put in their hands a knot to pick at, an object to turn over and examine.
 
 David Lynch's enigmatic _Lost Highway_ begins with a cryptic message murmured into the protagonist's intercom.
 _Dick Laurent is dead._
