@@ -28,6 +28,11 @@ He plucked this strange moment from his personal experience and grafted it onto 
 
 Lynch is no doubt an eccentric.
 But this process of {% vbook_post curating and appropriating from real life | 2025-03-08-live-in-the-moment-2 %} is so common among artists I dare call it standard practice.
-Paul Harding, whose debut novel _Tinkers_ won the 2010 Pulitzer Prize for Fiction, tells in [this interview](https://youtu.be/roLRPQPQU58?si=8azqvMoN7Jksu4ti) that he **let[s] everything [he's] interested in at the moment [he's] writing into the book**:
+Kurt Vonnegut writes in the prologue to _Breakfast of Champions_ that the book "is a sidewalk strewn with trash" that resulted from his attempt to empty his mind "of all the junk in there."
+Paul Harding, whose debut novel _Tinkers_ won the 2010 Pulitzer Prize for Fiction, offers a more optimistic version in [his interview with David Perell](https://youtu.be/roLRPQPQU58?si=8azqvMoN7Jksu4ti):
  
-> If it all comes from my mind and I'm interested in all of it, it is going to be like a stand of Aspen trees...Aspen trees look like they're different trees, but actually they all have the same root system, it's actually one organism...I love having a bunch of stuff that's just floating around in a manuscript for years and I'm like, I have _no_ idea how you belong but I think you do.
+> I let everything I'm interested in at the moment I'm writing into the book...If it all comes from my mind and I'm interested in all of it, it is going to be like a stand of Aspen trees...Aspen trees look like they're different trees, but actually they all have the same root system, it's actually one organism...I love having a bunch of stuff that's just floating around in a manuscript for years and I'm like, I have _no_ idea how you belong but I think you do.
+
+That last bit is important.
+This is not an arbitrary process.
+It relies on intuition to determine where an element belongs, even if how or why it belongs remains a mystery.
