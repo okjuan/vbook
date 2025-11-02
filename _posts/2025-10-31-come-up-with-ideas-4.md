@@ -29,8 +29,13 @@ He plucked this strange moment from his personal experience and grafted it onto 
 Lynch is no doubt an eccentric.
 But this process of {% vbook_post curating and appropriating from real life | 2025-03-08-live-in-the-moment-2 %} is so common among artists I dare call it standard practice.
 Kurt Vonnegut writes in the prologue to _Breakfast of Champions_ that the book "is a sidewalk strewn with trash" that resulted from his attempt to empty his mind "of all the junk in there."
-Paul Harding, whose debut novel _Tinkers_ won the 2010 Pulitzer Prize for Fiction, offers a more optimistic version in [his interview with David Perell](https://youtu.be/roLRPQPQU58?si=8azqvMoN7Jksu4ti):
- 
+Paul Harding, whose debut novel _Tinkers_ won the 2010 Pulitzer Prize for Fiction, describes the positive version of this in [his interview with David Perell](https://youtu.be/roLRPQPQU58?si=8azqvMoN7Jksu4ti):
+
+> I'll go for months on end where to all appearances I'm napping on the couch...but I'm always reading, I've got books all over the place and I'm reading a little bit of this, a little bit of that...and I'll just spend time letting the language, the books, and the music that I'm [consuming]...become coextensive....and I just let it kind of all go into the pot.
+
+He opens up his mind and fills it, {% vbook_post consuming in preparation to produce | 2021-04-25-work %}.
+He lets the ideas "percolate and simmer together" – as he said in [another interview](https://thebookerprizes.com/the-booker-library/features/paul-harding-interview-this-other-edenfsudd) – and then, when his [internal milieu](https://en.wikipedia.org/wiki/Internal_environment) shifts him into motion, he "rides the updraft."
+
 > I let everything I'm interested in at the moment I'm writing into the book...If it all comes from my mind and I'm interested in all of it, it is going to be like a stand of Aspen trees...Aspen trees look like they're different trees, but actually they all have the same root system, it's actually one organism...I love having a bunch of stuff that's just floating around in a manuscript for years and I'm like, I have _no_ idea how you belong but I think you do.
 
 That last bit is important.
