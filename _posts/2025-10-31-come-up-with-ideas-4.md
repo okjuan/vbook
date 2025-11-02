@@ -18,13 +18,12 @@ Instead of giving your audience a line to trace from start to end, you put in th
 
 A master of embedding meaning in enigma is David Lynch.
 His work is rife with bizarre and baffling elements that entreat contemplation but promise no easy translation.
-And as he has told in numerous interviews and written in his books, he doesn't come up with his ideas, he _receives_ them.
+And as he has told in numerous interviews and written in his books, he doesn't come up with his ideas, he receives them.
 _Lost Highway_, his neo-noir film from 1997, begins with a cryptic message murmured into the protagonist's intercom.
 **Dick Laurent is dead.**
-This message came to Lynch not from the depths of his subconscious mind but from his own intercom.
-Puzzled, Lynch went to the window to try to get a look at the speaker but he struggled to get a view of the front of his house from inside.
-For the film, Lynch bought a house and reconfigured the inside to reenact this whole scenario.
-He plucked this strange moment from his personal experience and grafted it onto a film inspired by the O.J. Simpson trial, another event that he was compelled to translate into art.
+This message came to Lynch not from his subconscious mind but from his own intercom.
+When this happened to Lynch, he went to the window to try to see the speaker but he struggled to get a view of the front of his house from inside.
+So determined was he to recreate this scenario in film that he bought a house and reconfigured the indoors so he could graft this strange personal memory onto a film that he in turn developed out of horrified fascination with the O.J. Simpson case, another event that he was compelled to translate into art.
 
 Lynch is no doubt an eccentric.
 But this process of {% vbook_post curating and appropriating from real life | 2025-03-08-live-in-the-moment-2 %} is so common among artists I dare call it standard practice.
@@ -44,7 +43,7 @@ It relies on intuition to determine where an element belongs, even if how or why
 
 I don't contend this approach is a necessary one, but it's one I like.
 It produces art that feels organic, spontaneous, unpredictable, alive.
-It favors intuition and its riches over rational cohesion and its reducibility.
+It favors intuition and its riches over the reducibility of rational cohesion.
 It's a method for developing in different directions at once.
 Sometimes you get lost but that can be a good thing.
 I love art of this kind for the same reason I love jazz.
