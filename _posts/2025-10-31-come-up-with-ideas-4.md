@@ -16,8 +16,11 @@ It's not the easiest thing to pull off.
 But when you do, it gives dimension to your work.
 Instead of giving your audience a line to trace from start to end, you put in their hands a knot to pick at, an object to turn over and examine.
 
-David Lynch's enigmatic _Lost Highway_ begins with a cryptic message murmured into the protagonist's intercom.
-_Dick Laurent is dead._
+A master of embedding meaning in enigma is David Lynch.
+His work is rife with bizarre and baffling elements that entreat contemplation but promise no easy translation.
+And as he has told in numerous interviews and written in his books, he doesn't come up with his ideas, he _receives_ them.
+_Lost Highway_, his neo-noir film from 1997, begins with a cryptic message murmured into the protagonist's intercom.
+**Dick Laurent is dead.**
 This message came to Lynch not from the depths of his subconscious mind but from his own intercom.
 Puzzled, Lynch went to the window to try to get a look at the speaker but he struggled to get a view of the front of his house from inside.
 For the film, Lynch bought a house and reconfigured the inside to reenact this whole scenario.
