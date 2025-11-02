@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-09-25
+modified_date: 2025-11-02
 layout: post
 title: "how to revise a sentence #6"
 permalink: /revise-a-sentence-6
@@ -10,7 +10,7 @@ Here is the progression of a sentence {% vbook_post I wrote today | 2025-01-18-m
 <!--more-->
 These iterative versions don't capture all the edits I attempted, they are snapshots taken along the evolution of the sentence.
 
-Seeing how it grew in length reminds me of Verlyn Klinkenborg's claim that long sentences are just {% vbook_post several short sentences | 2023-02-25-several-short-sentences %} put together and that write a long sentence we must begin by learning how to write a short one.
+Seeing how it grew in length reminds me of Verlyn Klinkenborg's claim that long sentences are just {% vbook_post several short sentences | 2023-02-25-several-short-sentences %} put together and that to write a long sentence one must know how to write a short one.
 In fact by the end I finish with two, one long one shorter.
 
 I notice that new images and phrasings spring up between drafts.
