@@ -20,6 +20,7 @@ I began with this attempt:
 Ending with **brings me joy** felt weak.
 Not sure why.
 Maybe because it is preceded by a much larger subject?
+(When I showed Z this discussion later on, she pointed out **brings me joy** is a bit cliche. I think she's right. It's trite, trendy phrasing. A "volunteer phrase," to use Verlyn Klinkenborg terminology.)
 So I tried moving **joy** to the beginning of the sentence and giving it a more central role as the active verb **rejoice**:
 
 > I rejoice in the sunshine and cool air of September in the coastal cities of the PNW.
