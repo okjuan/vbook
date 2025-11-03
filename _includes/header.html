@@ -16,11 +16,15 @@
         </label>
 
         <div class="trigger">
-          <a class="page-link" href="{{ site.baseurl }}/tags/writing">#writing</a>
-          <a class="page-link" href="{{ site.baseurl }}/tags/psychology">#psychology</a>
-          <a class="page-link" href="{{ site.baseurl }}/tags/creativity">#creativity</a>
-          <a class="page-link" href="{{ site.baseurl }}/tags/thinking">#thinking</a>
-          <a class="page-link" href="{{ site.baseurl }}/tags/cities">#cities</a>
+            {% assign tags = "writing,psychology,creativity,thinking,cities" | split: "," %}
+            {% for tag in tags %}
+                {%- if tag == page.tag -%}
+                    {% assign style = "font-weight: bold;" %}
+                {% else %}
+                    {% assign style = "" %}
+                {%- endif -%}
+                <a class="page-link" style="{{style}}" href="{{ site.baseurl }}/tags/{{tag}}">#{{tag}}</a>
+            {% endfor %}
         </div>
       </nav>
     </div>
