@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2025-11-02
 layout: post
 title: how to chart moods
 permalink: /chart-moods
@@ -9,7 +9,10 @@ tags: essays moods time-management energy
 Learning to pick between {% vbook_post _productive_ and _absorptive_ | 2021-04-25-work %} activities based on my current mood and energy level has helped me notice, for example, when I should try to write instead of reading.
 <!--more-->
 
-&#8592; productive &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; absorptive &#8594;
+<div>
+    <span style="float: left">&#8592; productive &nbsp;</span>
+    <span style="float: right">&nbsp; absorptive &#8594;</span>
+</div>
 
 ---
 
@@ -17,7 +20,10 @@ It occurred to me recently that there are many other dimensions to consider when
 An obvious distinction is _active_ vs _passive_ activities.
 It is similar to _productive_ vs _absorptive_, but it's possible to be absorptive both actively (e.g. reading) and passively (e.g. watching, listening).
 
-&#8592; active &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; passive &#8594;
+<div>
+    <span style="float: left">&#8592; active &nbsp;</span>
+    <span style="float: right">&nbsp; passive &#8594;</span>
+</div>
 
 ---
 
@@ -25,13 +31,19 @@ Are you in a mood to expend energy or do you need to refuel?
 The same answer will have different implications for different people.
 For introverted people, having "expensive" capacity at a given moment offers an opportunity to socialize.
 
-&#8592; expensive &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; regenerative &#8594;
+<div>
+    <span style="float: left">&#8592; expensive &nbsp;</span>
+    <span style="float: right">&nbsp; regenerative &#8594;</span>
+</div>
 
 ---
 
 After determining that you want to watch a movie -- a fine choice when one is feeling passive-absorptive-regenerative -- you can figure out whether you want to do your passive absorbing alone or with other people.
 
-&#8592; individual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social &#8594;
+<div>
+    <span style="float: left">&#8592; individual &nbsp;</span>
+    <span style="float: right">&nbsp; social &#8594;</span>
+</div>
 
 ---
 
