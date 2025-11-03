@@ -32,7 +32,7 @@ Paul Harding, whose debut novel _Tinkers_ won the 2010 Pulitzer Prize for Fictio
 
 > I'll go for months on end where to all appearances I'm napping on the couch...but I'm always reading, I've got books all over the place and I'm reading a little bit of this, a little bit of that...and I'll just spend time letting the language, the books, and the music that I'm [consuming]...become coextensive....and I just let it kind of all go into the pot.
 
-He opens up his mind and fills it, {% vbook_post consuming in preparation to produce | 2021-04-25-work %}.
+He opens up his mind and fills it, {% vbook_post absorbing in preparation to produce | 2021-04-25-work %}.
 He lets the ideas "percolate and simmer together" – as he said in [another interview](https://thebookerprizes.com/the-booker-library/features/paul-harding-interview-this-other-edenfsudd) – and then, when his [internal milieu](https://en.wikipedia.org/wiki/Internal_environment) shifts him into motion, he "rides the updraft."
 
 > I let everything I'm interested in at the moment I'm writing into the book...If it all comes from my mind and I'm interested in all of it, it is going to be like a stand of Aspen trees...Aspen trees look like they're different trees, but actually they all have the same root system, it's actually one organism...I love having a bunch of stuff that's just floating around in a manuscript for years and I'm like, I have _no_ idea how you belong but I think you do.
