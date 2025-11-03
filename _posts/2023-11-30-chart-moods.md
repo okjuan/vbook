@@ -70,14 +70,13 @@ Meet with friends to do something that nourishes you.
 Or are you feeling social-expensive?
 Do something that you're not easily motivated to do but that your loved ones want to do with you.
 
-I always try to choose activities based on how I'm feeling so I can evade the taxing experience of forcing myself to do something through willpower alone.
-But you can't always wait for the right mood to come.
-In life, you have to do some planning, and you can do that better if you learn how your moods and energy levels fluctuate.
+Choosing an activity based on how you're feeling in the moment is a good way to evade the taxing experience of forcing yourself to do something through willpower alone.
+But learning how your moods and energy levels fluctuate is also useful for planning.
 
-Notice which activities are expensive for you.
-Make time after those for your regenerative activites.
-Whether you're more introverted or extroverted, take note of how often you need social interaction to keep a healthy balance.
+It's important to notice which activities are expensive for you.
 Whether you're a morning person or a night owl, dedicate your expensive mood to {% vbook_post meaningful, important work | 2023-01-22-work-2 %}.
+Make time afterwards for your regenerative activites.
+Whether you're more introverted or extroverted, take note of how often you need social interaction to keep a healthy balance.
 If producing is important to you, dedicate time to absorbing as well.
 As Stephen King writes in his book _On Writing: A Memoir of the Craft_:
 > Reading is the creative center of a writer's life.
