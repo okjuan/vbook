@@ -1,13 +1,18 @@
 ---
-modified_date: 2025-11-02
+modified_date: 2025-11-03
 layout: post
 title: how to chart moods
 permalink: /chart-moods
 tags: moods time-management energy
 ---
 
-Learning to pick between {% vbook_post _productive_ and _absorptive_ | 2021-04-25-work %} activities based on my current mood and energy level has helped me notice, for example, when I should try to write instead of reading.
+I have some free time right now.
+Should I read or should I write?
 <!--more-->
+I've learned to choose by checking in with my body.
+Do I feel an appetite for absorbing new information?
+Or do I feel a need to express myself in some way?
+In other words, am I feeling {% vbook_post _absorptive_ or _productive_ | 2021-04-25-work %}?
 
 <div>
     <span style="float: left">&#8592; productive &nbsp;</span>
@@ -16,9 +21,16 @@ Learning to pick between {% vbook_post _productive_ and _absorptive_ | 2021-04-2
 
 ---
 
-It occurred to me recently that there are many other dimensions to consider when picking an activity.
-An obvious distinction is _active_ vs _passive_ activities.
-It is similar to _productive_ vs _absorptive_, but it's possible to be absorptive both actively (e.g. reading) and passively (e.g. watching, listening).
+Classifying my mood on that simple criterion has helped me a lot.
+When I'm feeling _productive_, I know I'll have a hard time quieting my mind to read.
+And when I'm feeling _absorptive_, I know it's a great time to make progress on a book.
+
+Recently it occurred to me I could add more binary tests like this one.
+After I determine I feel like consuming rather than producing, I might ask myself whether I feel like doing something _active_ or something _passive_.
+Watching TV for example can be active or passive depending on whether you watch a documentary about an unfamiliar topic or rewatch your favorite sitcom.
+
+By adding a second axis, we upgrade our binary test into a matrix.
+And the more criteria we add, the more precisely we can chart our moods.
 
 <div>
     <span style="float: left">&#8592; active &nbsp;</span>
@@ -30,6 +42,7 @@ It is similar to _productive_ vs _absorptive_, but it's possible to be absorptiv
 Are you in a mood to expend energy or do you need to refuel?
 The same answer will have different implications for different people.
 For introverted people, having "expensive" capacity at a given moment offers an opportunity to socialize.
+For extroverted people, it might be a good chance to attend to personal chores.
 
 <div>
     <span style="float: left">&#8592; expensive &nbsp;</span>
@@ -38,7 +51,7 @@ For introverted people, having "expensive" capacity at a given moment offers an 
 
 ---
 
-After determining that you want to watch a movie -- a fine choice when one is feeling passive-absorptive-regenerative -- you can figure out whether you want to do your passive absorbing alone or with other people.
+After determining that you want to watch a movie -- a fine choice when one is feeling passive-absorptive-regenerative, by the way -- you can figure out whether you want to do your passive absorbing alone or with other people.
 
 <div>
     <span style="float: left">&#8592; individual &nbsp;</span>
