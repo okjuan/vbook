@@ -1,7 +1,7 @@
 ---
-modified_date: 2025-10-31
+modified_date: 2025-11-02
 layout: post
-title: "the different kinds of books"
+title: "kinds of books"
 permalink: /kinds-of-books
 tags: notes lists reading books
 disable_hovercards: true
