@@ -254,7 +254,7 @@ On departure, it feels nice to equip oneself before stepping through the doorway
 
 Ordinary actions like these can have meaning.
 This imbuing of meaning into inanimate objects and impersonal surroundings is part of the process that transforms house into home.
-A building or even a room becomes a place where one is provided for and secure, where one can rest at ease.
+A building or even a room becomes a place where one is provided for and made feel secure, where one can rest at ease.
 
 A home is sprinkled with meaning throughout.
 A quiet, comfy place to read and relax.
