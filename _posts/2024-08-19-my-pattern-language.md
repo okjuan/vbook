@@ -262,13 +262,7 @@ A welcoming common area to be together.
 A room of one's own, a private space.
 All these are ordinary physical spaces that provide precious and intangible nourishment.
 
-It's obvious that we should avoid and dispel negative meanings from our home.
-Less obvious is the task of preventing neutrality and meaninglessness.
-The lack of meaning is more insidious than negative meaning for a few reasons.
-Firstly, because its presence is not obvious.
-Every bit and every corner without meaning is like a little leak that create together a void of meaning that can be felt but not easily traced to a source.
+It's obvious that negative meanings undermine a home.
+But neutrality and meaninglessness do as well.
+Each bit and each place devoid of meaning is like a little leak out of which seeps out the precious feeling of hominess.
 They silently steal from our home's potential as a place for rest and renewal.
-
-Negative energy is easier to detect and pinpoint, and its invasiveness is felt more sharply, which spurs us into action.
-Meaninglessness, on the other hand, is stultifying.
-It confuses and bores us with its lack of specificity and sedates us by promoting numbness and detachment.
