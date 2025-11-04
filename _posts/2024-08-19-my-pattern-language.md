@@ -187,7 +187,7 @@ There should be a spot right there, within reach from a natural sitting position
 
 ---
 
-After writing the above, I revisited the book.
+After writing the above, I revisited {% vbook_post the book | 2024-08-19-use-books %}.
 Thanks to its relative obscurity, the ebook version was available to borrow immediately from the library.
 I'm pleased to find out the authors encourage readers to come up with their own pattern languages.
 It occurs to me that some of the my patterns might have some tacit principles in common.
