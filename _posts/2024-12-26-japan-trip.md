@@ -137,19 +137,18 @@ This was one of the best days of the trip.
 - dinner @ Daigo, a fancy Shojin restaurant
 - karaoke @ Big Echo
 
-A thunderstorm began while we were in a taxi on the way to the Kanazawa train station.
-Flashes of lightning so bright I thought for a moment our driver had run a red light and triggered a super powerful automated stoplight camera.
-We tried a coffee shop near the train station but it was closed for New Years, which is the biggest national holiday in Japan.
-Train station was full of stores and flooded with white overhead lighting.
-Cruel Summer by Taylor Swift playing in the overhead speakers.
-We sat in Tully's Coffee lounge with our bags piled around our ankles.
-On the far wall a horribly sappy and nonsensical marketing poem for _& Tea_.
-I felt like I could be in any other manufactured commercial center around the world.
-Soulless places like these often have this sort interchangeability, lack of identity.
-Being there, it doesn't feel like you're in an actual _place_.
-You're just temporarily detained in a massproduced commercial limbo.
-
-Grateful to be back in the sun.
+We were en route to Kanazawa Station by taxi when a thunderstorm hit.
+Lightning flashed outside the windshield so brightly I thought our driver had run a red light and triggered a stoplight camera.
+Still we asked to get dropped at a coffee shop a block away from the station so I could get a good coffee.
+But then we found the shop was closed for New Years so we frantically lugged our bags back to the taxi to catch it before it left.
+The train station was big and busy with travelers.
+It was basically a mall with a train station.
+White artificial light and Cruel Summer by Taylor Swift came down from the ceiling everywhere.
+We settled in a Tully's Coffee lounge with our bags piled around our ankles.
+The far wall was decorated with a sappy, nonsensical poem marketing _& Tea_.
+We might as well have been in a mall in Jakarta or Mexico City or someplace else.
+I hate places like these.
+When you're there, you don't feel like you're anywhere.
 
 #### Wednesday 01/01/2024 -- Tokyo
 
