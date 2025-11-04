@@ -249,7 +249,8 @@ The same is possible with artwork, especially if you use command strips or some 
 
 A place for keys at the entrance is convenient for arrival and departure, and it effects a pleasant sense of transition.
 Arriving, it feels nice to unburden oneself of logistical paraphernalia necessary for navigating the world outside, which accentuates the feeling of returning to a place of convenience, comfort, and familiarity.
-Departing, it feels nice to equip oneself before stepping through the doorway into the world.
+The inverse is true as well.
+On departure, it feels nice to equip oneself before stepping through the doorway into the world.
 
 Ordinary actions like these can have meaning.
 This imbuing of meaning into inanimate objects and impersonal surroundings is the part of the process that transforms a house into a home.
