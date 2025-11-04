@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-17
+modified_date: 2025-11-03
 layout: post
 title: trip to Japan
 permalink: /japan-trip
@@ -154,7 +154,7 @@ Grateful to be back in the sun.
 #### Wednesday 01/01/2024 -- Tokyo
 
 - coffee & breakfast @ Starbucks
-- visit fancy mall where teamLABS is
+- visit fancy mall where teamLAB is
 - watched Gladiator II @ 109 Cinemas
 - ramen dinner nearby
 
