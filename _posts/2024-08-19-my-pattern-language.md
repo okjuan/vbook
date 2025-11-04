@@ -11,21 +11,24 @@ tags: design interior-design architecture
 ### patterns
 
 <ol style="list-style-type:lower-roman">
-    <li>good bed</li>
+    <li>good bed*</li>
     <li>walk-in shower</li>
-    <li>diffused & ambient lighting</li>
+    <li>diffused & ambient lighting**</li>
     <li>plants</li>
-    <li>comfy couch</li>
-    <li>dishwasher</li>
-    <li>ample natural light</li>
-    <li>coffee setup</li>
-    <li>TV with a good sound system</li>
-    <li>artwork</li>
+    <li>comfy couch**</li>
+    <li>dishwasher**</li>
+    <li>ample natural light*</li>
+    <li>coffee setup**</li>
+    <li>TV with a good sound system**</li>
+    <li>artwork*</li>
     <li>worktable with a monitor</li>
     <li>nice dishware</li>
-    <li>easy & fast access to street</li>
-    <li>places to set things down</li>
+    <li>easy & fast access to street*</li>
+    <li>places to set things down**</li>
 </ol>
+
+**non-negotiables
+*sad not to have
 
 ### principles
 
