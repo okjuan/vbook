@@ -131,7 +131,7 @@ This was one of the best days of the trip.
 
 #### Tuesday 12/31/2024 -- Kanazawa -> Tokyo
 
-- tax to train station, where we ate and waited for our train
+- taxi to train station, where we ate and waited for our train
 - arrived in Tokyo, train to Shimbashi, checked back into the hotel
 - rested a couple hours at the hotel
 - dinner @ Daigo, a fancy Shojin restaurant
