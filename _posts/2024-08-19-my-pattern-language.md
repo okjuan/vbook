@@ -3,34 +3,12 @@ modified_date: 2025-11-03
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
-tags: journal books design interior-design architecture
+tags: design interior-design architecture
 ---
 
-> most...wonderful places of the world were not made by architects, but by the people.
-
 <!--more-->
-That's a quote from [_A Pattern Language: Towns, Buildings, Construction_](https://www.goodreads.com/book/show/79766.A_Pattern_Language), a book published in 1977 that I came across a few years ago while thumbing through the Seattle Public Library's virtual collection on Libby.
-Something about the unusual title and the minimal, uncommercial cover called to me.
-I checked it out, perused it, then put it aside.
-I spent scant time with it, but its basic idea stuck with me.
 
-> The elements of this language are entities called patterns. Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
-
-The book lists two hundred and fiftythree of these, spanning in scope from regions to rooms and graded with the degree of confidence that the authors have in the solution's immutability.
-Despite being defined loosely to allow flexible application, the patterns are also defined concretely, often specified numerically and illustrated with pictures and diagrams.
-The patterns are ordered by scale from big to small, but they also contain references that connect them into subnetworks.
-Forward references elucidate how larger patterns depend on smaller ones and backreferences contextualize patterns in larger ones.
-
-I find the approach -- flexible, deferential, and associative -- rather appealing.
-In fact, the book abides by various principles of my {% vbook_post virtual book | 2023-08-11-virtual-book %} idea, namely: multimedia, readerdriven, nonlinear, and nonmonolithic.
-As a big fan of wikis, I'm pleased to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
-And as a programmer, I'm intrigued to learn that it inspired the idea of [software design patterns](https://www.wikiwand.com/en/articles/Software_design_pattern), which are a core part of the industry vernacular.
-
-The book is, finally, an inspiration for me to create my own pattern language.
-I love interior design, placemaking, vibesetting, and lately I've been thinking about what elements make a homespace great.
-I've loved furnishing, laying out, and decorating my apartments, and I look forward to owning a house someday.
-
-### my patterns
+### patterns
 
 <ol style="list-style-type:lower-roman">
     <li>good bed</li>
@@ -49,13 +27,15 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
     <li>places to set things down</li>
 </ol>
 
-### my principles
+### principles
 
 <ol style="list-style-type:lower-alpha">
     <li>avoid causes of mental clutter & friction</li>
     <li>allow for incremental discovery and gradual changes</li>
     <li>cultivate meaning in objects and places</li>
 </ol>
+
+---
 
 ### i) good bed
 
