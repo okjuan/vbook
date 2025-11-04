@@ -2,8 +2,9 @@
 modified_date: 2025-11-03
 layout: post
 title: trip to Japan
-permalink: /japan-trip
+permalink: /japan
 tags: journal travel cities japan asia
+redirect_from: ['/japan-trip']
 ---
 
 For Christmas and New Years, I went to Japan with my wife Z, my mom, my older sister, her boyfriend, and my younger sister.
