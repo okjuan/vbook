@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2025-11-03
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
@@ -59,12 +59,12 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
 
 ### i) good bed
 
-A full for myself, queen or king if I'm sharing with my wife.
-Two pillows for myself.
+Big enough, first of all.
+With two pillows just for me.
 Fitted sheet and a duvet, no top sheet.
-The duvet cover made of a high quality, breathable material in a nice color.
-It must have eight ties inside it to keep the duvet in place and a zipper at the bottom hidden behind a flap.
-While using the bed, I don't want to notice a separation between the duvet and its cover.
+Percale cotton or linen, in a nice color.
+The duvet cover must offer a way to secure the duvet inside it so that it appears and feels like one item.
+What has worked well in my experience is a duvet covet with eight ties inside it and a zipper at the bottom hidden behind a flap.
 
 The frame must be sturdy and stable.
 No squeaking when getting in and out of bed.
