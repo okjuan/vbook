@@ -2,7 +2,7 @@
 layout: post
 title: what to do in Mexico City
 permalink: /visiting-cdmx
-tags: notes travel
+tags: travel
 
 ---
 

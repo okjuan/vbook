@@ -3,7 +3,7 @@ modified_date: 2025-03-04
 layout: post
 title: why write?
 permalink: /why-write
-tags: essays mediums art writing
+tags: mediums art writing
 redirect_from: ['/justify-writing']
 ---
 

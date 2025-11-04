@@ -4,7 +4,7 @@ layout: post
 title: "how to tell a story #2"
 subtitle: (This is an excerpt from my piece <a href='https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360'>The Virtual Book</a>.)
 permalink: /tell-a-story-2
-tags: essays mediums story-telling music photography videos journalism
+tags: mediums story-telling music photography videos journalism
 ---
 
 As satisfying as it was to hear Herbie narrate the {% vbook_post stories in his audiobook | 2022-06-11-reinvent-yourself %}, it was frustrating to never hear his music.

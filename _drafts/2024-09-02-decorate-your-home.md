@@ -2,7 +2,7 @@
 layout: post
 title: interior design ideas
 permalink: /interior-design-ideas
-tags: notes interior-design
+tags: interior-design
 ---
 
 <!--more-->

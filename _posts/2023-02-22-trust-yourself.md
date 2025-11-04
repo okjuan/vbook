@@ -3,7 +3,7 @@ modified_date: 2023-10-19
 layout: post
 title: how to trust yourself
 permalink: /trust-yourself
-tags: essays honesty bullshit ego
+tags: honesty bullshit ego
 
 ---
 

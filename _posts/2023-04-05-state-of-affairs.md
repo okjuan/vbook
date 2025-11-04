@@ -5,7 +5,7 @@ title: The State of Affairs (2017)
 subtitle: Rethinking Infidelity
 subsubtitle: by Esther Perel
 permalink: /state-of-affairs
-tags: reviews books relationships marriage monogamy sexuality infidelity
+tags: books relationships marriage monogamy sexuality infidelity
 
 ---
 

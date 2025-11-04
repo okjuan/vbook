@@ -5,7 +5,7 @@ title: 'Four Thousand Weeks (2021)'
 subtitle: Time Management for Mortals
 subsubtitle: by Oliver Burkeman
 permalink: /four-thousand-weeks
-tags: reviews books time-management mortality
+tags: books time-management mortality
 
 ---
 

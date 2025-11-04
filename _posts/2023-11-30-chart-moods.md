@@ -3,7 +3,7 @@ modified_date: 2025-11-02
 layout: post
 title: how to chart moods
 permalink: /chart-moods
-tags: essays moods time-management energy
+tags: moods time-management energy
 ---
 
 Learning to pick between {% vbook_post _productive_ and _absorptive_ | 2021-04-25-work %} activities based on my current mood and energy level has helped me notice, for example, when I should try to write instead of reading.

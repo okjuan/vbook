@@ -5,7 +5,7 @@ title: On Writing (2000)
 subtitle: A Memoir of the Craft
 subsubtitle: by Stephen King
 permalink: /on-writing
-tags: reviews books memoir nonfiction writing
+tags: books memoir nonfiction writing
 ---
 
 Half memoir, half advice for aspiring fiction writers.

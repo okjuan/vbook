@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: how to coordinate metaphors
 permalink: /coordinate-metaphors
-tags: notes essays imagery cohesiveness writing
+tags: imagery cohesiveness writing
 ---
 
 It's important to keep your metaphors from bumping into one another.

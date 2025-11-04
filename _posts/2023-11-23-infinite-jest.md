@@ -4,7 +4,7 @@ layout: post
 title: 'Infinite Jest (1996)'
 subsubtitle: by David Foster Wallace
 permalink: /infinite-jest
-tags: reviews books fiction literature
+tags: books fiction literature
 ---
 
 My first attempt to review a book _while_ I read it instead of waiting until I finish it.

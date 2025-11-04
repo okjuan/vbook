@@ -3,7 +3,7 @@ modified_date: 2024-03-23
 layout: post
 title: "how to coordinate metaphors #3"
 permalink: /coordinate-metaphors-3
-tags: notes imagery cohesiveness writing
+tags: imagery cohesiveness writing
 ---
 
 > ...looking again in the old books, I find so much pleasure in the authority of [Cormac McCarthy's] voice, and the wisdom that flames out from his pages, and it is painful to imagine that such a fire has been extinguished.

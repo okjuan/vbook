@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: "how to coordinate metaphors #2"
 permalink: /coordinate-metaphors-2
-tags: notes essays imagery cohesiveness writing
+tags: imagery cohesiveness writing
 ---
 
 Here's an example of coordinated metaphors, something I wish {% vbook_post other writers | 2023-03-09-coordinate-metaphors %} used more often.

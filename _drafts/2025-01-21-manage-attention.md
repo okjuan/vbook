@@ -2,7 +2,7 @@
 layout: post
 title: how to manage your attention
 permalink: /manage-your-attention
-tags: essays psychology thinking motivation
+tags: psychology thinking motivation
 ---
 
 Activities that require full attention – like writing an essay or reading a book – are often hard for me to start.

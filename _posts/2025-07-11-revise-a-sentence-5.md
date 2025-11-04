@@ -3,7 +3,7 @@ modified_date: 2025-08-06
 layout: post
 title: "how to revise a sentence #5"
 permalink: /revise-a-sentence-5
-tags: writing notes books rhythm
+tags: writing books rhythm
 ---
 
 At the beginning of Chapter Ten of Madeline Miller's {% vbook_post _Circe_ | 2025-08-05-circe %}, the protagonist arrives in Crete, the island that her domineering sister rules oppressively.

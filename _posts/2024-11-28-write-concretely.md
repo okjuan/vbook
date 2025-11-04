@@ -3,7 +3,7 @@ modified_date: 2025-06-06
 layout: post
 title: "how to write concretely"
 permalink: /write-concretely
-tags: writing essays honesty meaning
+tags: writing honesty meaning
 ---
 
 A virtue of concrete writing is that it causes a distinct mental sensation.

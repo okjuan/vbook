@@ -3,7 +3,7 @@ modified_date: 2025-03-08
 layout: post
 title: how to live in the moment
 permalink: /live-in-the-moment
-tags: essays time-management mortality mindfulness
+tags: time-management mortality mindfulness
 
 ---
 

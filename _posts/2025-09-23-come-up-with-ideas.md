@@ -3,7 +3,7 @@ modified_date: 2025-09-23
 layout: post
 title: "how to come up with ideas #3"
 permalink: /come-up-with-ideas-3
-tags: journal essays creativity thinking
+tags: journal creativity thinking
 ---
 
 Fifteen minutes before a work meeting I wander out into the neighborhood to sit idly in the sunshine.

@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: "where do ideas come from? #2"
 permalink: /where-ideas-come-from-2
-tags: notes writing subconscious creativity problem-solving
+tags: writing subconscious creativity problem-solving
 ---
 
 > There was this little voice whispering to me that the book was really good, and if I didn't finish, I would regret it forever.

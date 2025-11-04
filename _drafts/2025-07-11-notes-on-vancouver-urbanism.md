@@ -2,7 +2,7 @@
 layout: post
 title: "notes on Vancouver urbanism"
 permalink: /vancouver-urbanism
-tags: notes city-planning urbanism vancouver
+tags: city-planning urbanism vancouver
 ---
 
 Here are some things I've noticed in the last couple of weeks while watching recordings of public hearings held by the Vancouver City Council for rezoning proposals.

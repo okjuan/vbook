@@ -3,7 +3,7 @@ modified_date: 2023-12-06
 layout: post
 title: what are the best IPAs in the PNW?
 permalink: /best-IPAs
-tags: notes seattle portland vancouver victoria
+tags: seattle portland vancouver victoria
 ---
 
 I love IPAs, and I've had a lot of them, mostly in the Pacific Northwest. These are my few favorites.
@@ -26,7 +26,7 @@ From [Fremont Brewing's website](https://www.fremontbrewing.com/lush-ipa):
 >
 > Aroma: Tropical, melon, citrus, grassy
 >
-> Flavor: Medium sweetness with moderate bitterness and a toasted biscuit backbone      
+> Flavor: Medium sweetness with moderate bitterness and a toasted biscuit backbone
 
 ### Wanderlust IPA, Breakside Brewery, Portland, OR
 
@@ -56,10 +56,10 @@ From [Dageraad's website](https://dageraadbrewing.com/beers/new-slang-5/):
 > Volume: 473 mL
 >
 > Ingredients: Water, malted barley, malted wheat, sugar, hops, malted oats, rice, yeast
-> 
+>
 >
 > A new language of yeast-driven IPA is emerging and Dageraad wants to add to the vocabulary. These IPAs are driven by new strains of yeast that can transform odorless compounds in hops and grain into vividly fruity thiols, changing understated old world hops into fruit bombs.
-> 
+>
 > For New Slang 5, we really wanted to dial in the thiols. By mash-hopping one batch, we allowed the thiolizing yeast to express more of the potent fruit notes before blending with a dry-hopped batch to add back in classic IPA hop character using Rakau, Vic Secret and Laurel hops. The result is a smooth, lightly juicy IPA with a fruit and floral nose backed by lush notes of melon and passionfruit and a mellow resin character.
 
 ### Cold Crash Cold IPA, Victoria, BC

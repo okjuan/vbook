@@ -3,7 +3,7 @@ modified_date: 2024-08-03
 layout: post
 title: "writing <i>bob the handyman</i>"
 permalink: /writing-bob
-tags: journal writing notes
+tags: journal writing
 ---
 
 I had this encounter in October of 2022, almost two years ago.

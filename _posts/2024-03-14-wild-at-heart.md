@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: "Wild at Heart (1990)"
 permalink: /wild-at-heart
-tags: reviews movies
+tags: movies
 ---
 
 {% vbook_post The Elephant Man | 2024-01-18-elephant-man %} bears Lynch's touch lightly but this movie has his fingerprints all over.

@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
-tags: journal notes books design interior-design architecture
+tags: journal books design interior-design architecture
 ---
 
 > most...wonderful places of the world were not made by architects, but by the people.

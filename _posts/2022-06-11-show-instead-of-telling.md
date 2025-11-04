@@ -4,7 +4,7 @@ layout: post
 title: how to show instead of telling
 subtitle: (This is an excerpt from my piece <a href='https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360'>The Virtual Book</a>.)
 permalink: /show-instead-of-telling
-tags: essays mediums story-telling education interfaces
+tags: mediums story-telling education interfaces
 ---
 
 A modern torchbearer of {% vbook_post Thompson’s immersion journalism | 2022-06-11-tell-a-story %} is comedian-journalist [Andrew Callaghan](https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg).

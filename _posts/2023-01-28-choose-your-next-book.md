@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: how to choose your next book
 permalink: /choose-your-next-book
-tags: essays decision-making reading
+tags: decision-making reading
 
 ---
 

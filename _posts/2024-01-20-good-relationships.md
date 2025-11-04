@@ -3,7 +3,7 @@ modified_date: 2024-01-20
 layout: post
 title: what makes a good relationship?
 permalink: /good-relationships
-tags: notes books relationships psychology insecurity
+tags: books relationships psychology insecurity
 ---
 
 Dr. George Pransky in his book _The Relationship Handbook_ writes:

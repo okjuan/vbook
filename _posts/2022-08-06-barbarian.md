@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: Barbarian (2022)
 permalink: /barbarian
-tags: reviews movies writing story-telling
+tags: movies writing story-telling
 ---
 
 A twisting plot with topical themes woven in elegantly. My main complaint is that they get the characters to tell you things that the story itself explains well enough.

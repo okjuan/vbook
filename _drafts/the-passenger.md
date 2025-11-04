@@ -3,7 +3,7 @@ layout: post
 title: 'The Passenger (2022)'
 subsubtitle: by Cormac McCarthy
 permalink: /the-passenger-2
-tags: notes reviews books fiction literature
+tags: books fiction literature
 ---
 
 

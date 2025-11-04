@@ -3,7 +3,7 @@ modified_date: 2025-02-10
 layout: post
 title: Panic Room (2002)
 permalink: /panic-room
-tags: reviews movies white-guilt
+tags: movies white-guilt
 ---
 
 There is something skeevy and suspicious about how the writer designed Raoul, the white poor guy, and Burnham, the black poor guy, to create so lurid a contrast between them.

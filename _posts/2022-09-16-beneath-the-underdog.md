@@ -4,7 +4,7 @@ layout: post
 title: Beneath the Underdog (1971)
 subsubtitle: by Charles Mingus
 permalink: /beneath-the-underdog
-tags: reviews books memoir jazz abuse narcissism
+tags: books memoir jazz abuse narcissism
 
 ---
 

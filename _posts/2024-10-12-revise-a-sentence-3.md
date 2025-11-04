@@ -2,7 +2,7 @@
 layout: post
 title: "how to revise a sentence #3"
 permalink: /revise-a-sentence-3
-tags: writing notes
+tags: writing
 ---
 
 I want to make the following sentence more fluid by removing its commas, but they are preventing ambiguity:

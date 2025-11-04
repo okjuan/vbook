@@ -3,7 +3,7 @@ modified_date: 2025-01-11
 layout: post
 title: what are rules?
 permalink: /what-are-rules
-tags: notes chess games rules design law
+tags: chess games rules design law
 ---
 
 In chess, there's a niche rule with an untranslated name that amusingly befits its esotericism: [_en passant_](https://www.wikiwand.com/en/En_passant).

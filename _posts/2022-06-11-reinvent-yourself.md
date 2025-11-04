@@ -4,7 +4,7 @@ layout: post
 title: how to reinvent yourself
 subtitle: (This is an excerpt from my piece <a href='https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360'>The Virtual Book</a>.)
 permalink: /reinvent-yourself
-tags: essays music jazz creativity religion art career
+tags: music jazz creativity religion art career
 ---
 
 The first song of Herbie Hancock’s _Mwandishi_ is hard to describe.

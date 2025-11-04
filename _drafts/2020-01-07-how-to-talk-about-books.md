@@ -3,7 +3,7 @@ layout: post
 title: How to Talk About Books You Haven't Read (2007)
 subsubtitle: by Pierre Bayard
 permalink: /how-to-talk-about-books
-tags: reviews books reading memory
+tags: books reading memory
 
 ---
 

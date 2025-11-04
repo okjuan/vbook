@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: how to read deeply
 permalink: /read-deeply
-tags: essays critical-thinking reading
+tags: critical-thinking reading
 
 ---
 

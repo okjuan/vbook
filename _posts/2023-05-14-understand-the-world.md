@@ -3,7 +3,7 @@ modified_date: 2023-10-19
 layout: post
 title: how to understand the world
 permalink: /understand-the-world
-tags: essays philosophy poli-sci thinking knowledge
+tags: philosophy poli-sci thinking knowledge
 
 ---
 

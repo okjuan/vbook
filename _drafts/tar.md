@@ -2,7 +2,7 @@
 layout: post
 title: Tar (2022)
 permalink: /tar
-tags: reviews movies
+tags: movies
 ---
 
 I put off watching this movie because two articles -- one from the New Yorker and one from the New York Times -- claimed that this movie was a reactionary counterattack on Cancel Culture.

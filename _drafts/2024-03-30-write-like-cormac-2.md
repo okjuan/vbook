@@ -2,7 +2,7 @@
 layout: post
 title: 'how to write like Cormac McCarthy'
 permalink: /write-like-cormac
-tags: notes writing literature
+tags: writing literature
 ---
 
 Cormac filters out unnecessary words from his writing to avoid diluting its potency.

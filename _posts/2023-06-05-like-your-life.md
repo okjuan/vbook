@@ -3,7 +3,7 @@ modified_date: 2025-07-20
 layout: post
 title: how to like your life
 permalink: /like-your-life
-tags: essays time-management mortality mindfulness
+tags: time-management mortality mindfulness
 
 ---
 

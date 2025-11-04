@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: where do ideas come from?
 permalink: /where-ideas-come-from
-tags: notes writing subconscious creativity
+tags: writing subconscious creativity
 ---
 
 Don't come up with the plot of your story, {% vbook_post says Stephen King | 2023-12-09-on-writing %}.

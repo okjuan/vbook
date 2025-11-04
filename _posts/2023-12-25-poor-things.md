@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: Poor Things (2023)
 permalink: /poor-things
-tags: reviews movies writing story-telling feminism
+tags: movies writing story-telling feminism
 ---
 
 One of my favorite movies of recent times.

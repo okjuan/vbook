@@ -3,7 +3,7 @@ modified_date: 2025-03-18
 layout: post
 title: why is Severance so slow?
 permalink: /severance
-tags: reviews writing tv-shows story-telling
+tags: writing tv-shows story-telling
 ---
 
 The premise and the set are both interesting, but for so long I'm just waiting for something to happen.

@@ -4,7 +4,7 @@ layout: post
 title: 'The World Beyond Your Head (2014)'
 subsubtitle: by Matthew B. Crawford
 permalink: /world-beyond-your-head
-tags: reviews books freedom individuality agency liberalism society attention
+tags: books freedom individuality agency liberalism society attention
 ---
 
 I heartily agree with Crawford's emphasis on the importance of embodied experiences and his warning that virtual worlds can promote passivity, technology as magic, and false agency.

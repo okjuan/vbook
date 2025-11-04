@@ -4,7 +4,7 @@ layout: post
 title: 'The End Of Absence (2014)'
 subsubtitle: by Michael Harris
 permalink: /end-of-absence
-tags: reviews books technology psychology attention
+tags: books technology psychology attention
 ---
 
 In his book [_The End Of Absence_](https://www.goodreads.com/book/show/20821373-the-end-of-absence), Michael Harris laments the everpresence of digital technology.

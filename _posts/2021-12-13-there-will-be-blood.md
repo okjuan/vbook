@@ -3,7 +3,7 @@ modified_date: 2023-10-19
 layout: post
 title: There Will Be Blood (2007)
 permalink: /there-will-be-blood
-tags: reviews movies writing biblical acting
+tags: movies writing biblical acting
 
 ---
 

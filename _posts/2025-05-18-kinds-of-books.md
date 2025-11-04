@@ -3,7 +3,7 @@ modified_date: 2025-11-02
 layout: post
 title: "kinds of books"
 permalink: /kinds-of-books
-tags: notes lists reading books
+tags: lists reading books
 disable_hovercards: true
 post_type: stacks
 stack_format: imageTitleSubtitleDescriptionCommentary.html

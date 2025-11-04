@@ -4,7 +4,7 @@ layout: post
 title: Kick the Latch (2022)
 subsubtitle: by Kathryn Scanlan
 permalink: /kick-the-latch
-tags: reviews writing books
+tags: writing books
 
 ---
 

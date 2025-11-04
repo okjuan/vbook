@@ -3,7 +3,7 @@ modified_date: 2023-10-19
 layout: post
 title: how to motivate yourself
 permalink: /motivate-yourself
-tags: essays psychology motivation work
+tags: psychology motivation work
 
 ---
 

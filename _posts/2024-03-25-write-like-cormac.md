@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: 'how to write like Cormac McCarthy'
 permalink: /write-like-cormac
-tags: notes writing literature
+tags: writing literature
 ---
 
 The main reason I read Cormac McCarthy is to experience and learn from his writing craft.

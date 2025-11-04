@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: Stephen King's writing advice
 permalink: /writing-advice
-tags: notes writing
+tags: writing
 ---
 
 King's advice is mostly for fiction, but some of it applies to non-fiction, too.

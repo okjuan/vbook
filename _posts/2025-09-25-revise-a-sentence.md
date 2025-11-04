@@ -3,7 +3,7 @@ modified_date: 2025-11-02
 layout: post
 title: "how to revise a sentence #6"
 permalink: /revise-a-sentence-6
-tags: writing notes
+tags: writing
 ---
 
 Here is the progression of a sentence {% vbook_post I wrote today | 2025-01-18-my-2025 %} from first draft to final form.

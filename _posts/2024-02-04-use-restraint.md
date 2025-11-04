@@ -3,7 +3,7 @@ modified_date: 2025-08-29
 layout: post
 title: "how to use restraint"
 permalink: /restraint
-tags: essays writing mediums audio psychology hemingway
+tags: writing mediums audio psychology hemingway
 redirect_from: ['/use-restraint']
 ---
 

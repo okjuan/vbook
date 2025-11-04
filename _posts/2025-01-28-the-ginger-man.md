@@ -4,7 +4,7 @@ layout: post
 title: "The Ginger Man (1955)"
 subsubtitle: by J. P. Donleavy
 permalink: /ginger-man
-tags: reviews books literature writing
+tags: books literature writing
 ---
 
 I've read seven chapters so far.

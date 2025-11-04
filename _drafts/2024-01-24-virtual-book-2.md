@@ -2,7 +2,6 @@
 layout: post
 title: "what is a virtual book? #2"
 permalink: /virtual-book-2
-tags: notes
 ---
 
 A [good story]() is best told in a [medium that suits its content]().

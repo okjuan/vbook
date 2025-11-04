@@ -2,7 +2,6 @@
 layout: post
 title: why write about yourself on the internet?
 permalink: /write-about-yourself
-tags: notes
 ---
 
 <!--more-->

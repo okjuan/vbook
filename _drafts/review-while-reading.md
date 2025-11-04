@@ -2,7 +2,7 @@
 layout: post
 title: why review books while reading them?
 permalink: /review-while-reading
-tags: notes reviews books reading
+tags: books reading
 ---
 
 I wrote an essay called [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360) but I never defined the term.

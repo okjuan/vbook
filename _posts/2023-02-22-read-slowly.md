@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: how to read slowly
 permalink: /read-slowly
-tags: essays learning reading
+tags: learning reading
 
 ---
 

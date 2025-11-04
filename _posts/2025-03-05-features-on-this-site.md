@@ -3,7 +3,7 @@ modified_date: 2025-03-06
 layout: post
 title: "what is this site? #5"
 permalink: /what-5
-tags: notes coding design
+tags: coding design
 ---
 
 On the surface, this is an ordinary blog.

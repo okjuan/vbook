@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: how to narrate transparently
 permalink: /narrate-transparently
-tags: essays writing narration point-of-view norman-mailer new-journalism
+tags: writing narration point-of-view norman-mailer new-journalism
 
 ---
 

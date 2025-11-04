@@ -2,7 +2,7 @@
 layout: post
 title: 'how to commentate (wip)'
 permalink: /commentate
-tags: notes speaking eloquence sports soccer
+tags: speaking eloquence sports soccer
 ---
 
 Martin Tyler -- is he or is he not a good commentator?

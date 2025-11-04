@@ -3,7 +3,7 @@ modified_date: 2024-12-02
 layout: post
 title: "how to revise a sentence #4"
 permalink: /revise-a-sentence-4
-tags: writing notes
+tags: writing
 ---
 
 I began with this sentence:
@@ -25,7 +25,7 @@ Immediately, I disliked the "Due to" construction, so I wrote a third version:
 > These opportunities in my early life allowed me to develop native proficiency in Spanish and English and gave me an intuition for multiple cultural contexts.
 
 I prefer the latest version because it connects cause and effect using verbs rather than with logical statement.
-Specifically, to express the causal relationship between the "opportunities in my early life" and my consequent skills, the third version uses the verbs "allowed me to develop" rather than the more abstract, logical connecting bits "Due to" and "I am" of the second version. 
+Specifically, to express the causal relationship between the "opportunities in my early life" and my consequent skills, the third version uses the verbs "allowed me to develop" rather than the more abstract, logical connecting bits "Due to" and "I am" of the second version.
 The reader _sees_ the relationship directly in the sentence without having to translate it from a logical statement.
 
 I realize this might sound like nitpicky minutiae.

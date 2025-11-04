@@ -3,7 +3,7 @@ modified_date: 2024-07-04
 layout: post
 title: "how to coordinate metaphors #4"
 permalink: /coordinate-metaphors-4
-tags: notes imagery cohesiveness writing
+tags: imagery cohesiveness writing
 ---
 
 In her [New Yorker article](https://www.newyorker.com/magazine/2024/05/27/the-secrets-of-suspense) about suspense, Kathryn Schulz uses a clever image to describe how suspense exists at many scales.

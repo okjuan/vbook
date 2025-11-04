@@ -4,7 +4,7 @@ layout: post
 title: "how to think invisibly"
 subsubtitle: "(Originally posted <a href='https://okjuan.medium.com/the-invisible-thinker-c5ee42b4bb5'>on okjuan.medium.com</a>.)"
 permalink: /think-invisibly
-tags: essays psychology creativity subconscious problem-solving
+tags: psychology creativity subconscious problem-solving
 show_revisions: true
 ---
 

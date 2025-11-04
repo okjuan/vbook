@@ -4,7 +4,7 @@ layout: post
 title: 'The Passenger (2022)'
 subsubtitle: by Cormac McCarthy
 permalink: /the-passenger
-tags: reviews books fiction literature
+tags: books fiction literature
 ---
 
 This novel is like a long, restless dream about a man paralyzed by his guilt and his grief.

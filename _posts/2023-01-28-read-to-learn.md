@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: how to read to learn
 permalink: /read-to-learn
-tags: essays learning reading
+tags: learning reading
 
 ---
 

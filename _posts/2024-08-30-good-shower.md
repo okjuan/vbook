@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: what makes a good shower?
 permalink: /good-shower
-tags: notes design
+tags: design
 show_revisions: true
 ---
 
