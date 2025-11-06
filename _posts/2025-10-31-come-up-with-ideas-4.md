@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-11-02
+modified_date: 2025-11-06
 layout: post
 title: "how to come up with ideas #4"
 permalink: /come-up-with-ideas-4
@@ -18,7 +18,7 @@ Instead of giving your audience a line to trace from start to end, you put in th
 
 A master of embedding meaning in enigma is David Lynch.
 His work is rife with bizarre and baffling elements that entreat contemplation but promise no easy translation.
-And as he has told in numerous interviews and written in his books, he doesn't come up with his ideas, he receives them.
+And as he has said in numerous interviews and written in his books, he doesn't come up with his ideas, he receives them.
 _Lost Highway_, his neo-noir film from 1997, begins with a cryptic message murmured into the protagonist's intercom.
 **Dick Laurent is dead.**
 This message came to Lynch not from his subconscious mind but from his own intercom.
