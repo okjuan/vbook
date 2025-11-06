@@ -116,7 +116,7 @@ em, i {
     margin-left: 20px;
   }
 
-  @media screen and (min-width: $on-medium) {
+  @media screen and (min-width: $min-width-for-unpacked-nav-bar) {
     position: static;
     float: right;
     border: none;

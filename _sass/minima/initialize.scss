@@ -22,6 +22,8 @@ $on-laptop:        800px !default;
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
 
+$min-width-for-unpacked-nav-bar: 775px;
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
