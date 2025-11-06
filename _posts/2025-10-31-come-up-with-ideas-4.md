@@ -23,7 +23,7 @@ _Lost Highway_, his neo-noir film from 1997, begins with a cryptic message murmu
 **Dick Laurent is dead.**
 This message came to Lynch not from his subconscious mind but from his own intercom.
 When this happened to Lynch, he went to the window to try to see the speaker but he struggled to get a view of the front of his house from inside.
-So determined was he to recreate this scenario in film that he bought a house and reconfigured the indoors so he could graft this strange personal memory onto a film that he in turn developed out of horrified fascination with the O.J. Simpson case, another event that he was compelled to translate into art.
+So determined was he to recreate this scenario in film that he bought a house and reconfigured the indoors, just so he could graft this strange personal memory onto a film that he in turn developed out of horrified fascination with the O.J. Simpson case, another event that he was compelled to translate into art.
 
 Lynch is no doubt an eccentric.
 But this process of {% vbook_post curating and appropriating from real life | 2025-03-08-live-in-the-moment-2 %} is so common among artists I dare call it standard practice.
