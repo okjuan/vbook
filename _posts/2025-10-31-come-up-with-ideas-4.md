@@ -3,7 +3,7 @@ modified_date: 2025-11-06
 layout: post
 title: "how to come up with ideas #4"
 permalink: /come-up-with-ideas-4
-tags: creativity
+tags: creativity art writing film
 ---
 
 Pay attention as you go through life and collect all the curiosities the tides of fortune deposit into your path.
