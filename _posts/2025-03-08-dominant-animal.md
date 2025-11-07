@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-05-31
+modified_date: 2025-11-06
 layout: post
 title: "The Dominant Animal (2019)"
 subsubtitle: by Kathryn Scanlan
@@ -21,5 +21,5 @@ Foremost is Scanlan's unique yet accessible prose, which she assiduously pruned,
 As described in the New Yorker:
 > In all her books, Scanlan writes about ordinary life in extraordinary ways by compacting it radically, like pressurizing carbon into diamonds.
 
-Scanlan continued this practice in novel form with {% vbook_post _Kick the Latch_ | 2022-11-27-kick-the-latch %}, which came out two years later in 2022.
+Scanlan continued this practice in novel form with _Kick the Latch_, which came out two years later in 2022.
 For me, she is one of the most exciting prose writers working today.
