@@ -4,6 +4,7 @@ module Jekyll
     def initialize(tag_name, input, tokens)
       super
       input_split = input.split("|")
+      @raw_link_text = input
       @text = input_split[0].strip
       @post_name = input_split[1]? input_split[1].strip : 'TODO'
     end
@@ -14,7 +15,7 @@ module Jekyll
       if post
         "<a id='#{@post_name}' class='internal-site-link' href='#{site.baseurl}#{post.permalink}'>#{@text}</a>"
       else
-        puts "ERROR:\n\tPost not found: @post_name=#{@post_name}\nERROR\n"
+        puts "ERROR:\n\tPost not found: @post_name='#{@post_name}'\n\tIn context: '#{@raw_link_text}'\nERROR\n"
       end
     end
   end
