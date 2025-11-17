@@ -57,8 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to show modal with animation
     function showModal() {
         modal.style.display = 'block';
-        // Force a reflow to ensure the initial state is applied
-        modal.offsetHeight;
+        modal.scrollTo(0, 0);
         modal.classList.add('show');
     }
 
