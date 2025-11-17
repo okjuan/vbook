@@ -124,7 +124,6 @@ document.addEventListener('DOMContentLoaded', function() {
                             }
                         }
 
-                        let html = '';
                         if (entry.title) {
                             const title = document.createElement('div');
                             title.className = 'entry-title';
