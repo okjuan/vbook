@@ -32,6 +32,16 @@ module Revision
           # was not properly terminated with regexp: /\%\}/ in /Users/juan/personal/github/vbook/_posts/2024-08-30-good-shower.md
           .gsub('{+vbook_post+}', 'vbook_post')
           .gsub('[-post_url_with_hover_card-]', '')
+          # Fix bug
+          # ---
+          # Post not found: @post_name=2024-02-04-use-restraint  <del>
+          # happening in internalSiteLinks.rb due to diff text:
+          # {% vbook_post [-literature-] like curation | 2024-02-04-use-restraint [-%}?-]{+%}.+}
+          #
+          # where the true diff is a '?' replaced with '.' but '%}' gets replicated in the addition and deletion parts
+          # so we extricate the '%}' from both the addition and deletion and conserve the rest
+          # e.g. '[-%}?-]{+%}.+}' => '%}[-?-]{+.+}'
+          .gsub(/\[-([^\]]*?)%\}([^\]]*?)-\]\{\+([^\]]*?)%\}([^\]]*?)\+\}/, '%}[-\1\2-]{+\3\4+}')
 
         next unless any_diff(raw_content_diff)
 
