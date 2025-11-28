@@ -255,6 +255,8 @@ They silently steal from our home's potential as a place for rest and renewal.
 
 TVs that can be turned sideways, pulled forward, and pushed back.
 Lamps that can be tweaked into different angles, pointed in different directions, or even carried around the home.
+Little tables that can be displaced and replaced to accommodate brief activities.
+Stools that can be conjured and banished.
 Couch cushions that can be tilted and propped up into convenient positions.
 Coffee tabletops that can be lifted up towards the sofa.
 A computer monitor that can be swiveled in and out of the way.
