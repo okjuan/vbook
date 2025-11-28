@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-11-03
+modified_date: 2025-11-27
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
@@ -36,6 +36,7 @@ tags: design interior-design architecture
     <li>avoid causes of mental clutter & friction</li>
     <li>allow for incremental discovery and gradual changes</li>
     <li>cultivate meaning in objects and places</li>
+    <li>make things adjustable</li>
 </ol>
 
 ---
@@ -249,3 +250,14 @@ It's obvious that negative meanings undermine a home.
 But neutrality and meaninglessness do as well.
 Each bit and each place devoid of meaning is like a little leak out of which seeps out the precious feeling of hominess.
 They silently steal from our home's potential as a place for rest and renewal.
+
+### d) make things adjustable
+
+TVs that can be turned sideways, pulled forward, and pushed back.
+Lamps that can be tweaked into different angles, pointed in different directions, or even carried around the home.
+Couch cushions that can be tilted and propped up into convenient positions.
+Coffee tabletops that can be lifted up towards the sofa.
+A computer monitor that can be swiveled in and out of the way.
+Retractable awnings covering patios and balconies – see pattern #244, _canvas roofs_.
+In these there's a joy akin to that of the bluetooth speaker, the laptop, and a pair of wireless headphones.
+A degree of freedom and flexibility that may sound trivial but gives so much satisfaction.
