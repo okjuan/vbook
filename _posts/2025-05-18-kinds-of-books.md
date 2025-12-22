@@ -1,12 +1,12 @@
 ---
-modified_date: 2025-11-10
+modified_date: 2025-12-22
 layout: post
 title: "kinds of books"
 permalink: /kinds-of-books
 tags: lists reading books
 disable_hovercards: true
 post_type: stacks
-stack_format: imageTitleSubtitleDescriptionCommentary.html
+stack_format: book
 excerpt: There are many kinds of books.
 stacks_preamble: There are many kinds of books.
 stacks:

@@ -24,7 +24,10 @@
     </div>
 </div>
 
-{%- if page.stack_format == "imageTitleSubtitleDescriptionCommentary.html" -%}
-    <script src="{{ site.baseurl }}/assets/js/stacks.js"></script>
-    <link rel="stylesheet" href="{{ "/assets/css/stacks.css" | relative_url }}">
+<script src="{{ site.baseurl }}/assets/js/stacks.js"></script>
+
+{%- if page.stack_format == "book" -%}
+    <link rel="stylesheet" href="{{ "/assets/css/book-stacks.css" | relative_url }}">
+{%- else -%}
+    <link rel="stylesheet" href="{{ "/assets/css/stacks-base.css" | relative_url }}">
 {%- endif -%}
