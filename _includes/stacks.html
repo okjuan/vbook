@@ -28,6 +28,8 @@
 
 {%- if page.stack_format == "book" -%}
     <link rel="stylesheet" href="{{ "/assets/css/book-stacks.css" | relative_url }}">
+{%- elsif page.stack_format == "text" -%}
+    <link rel="stylesheet" href="{{ "/assets/css/text-stacks.css" | relative_url }}">
 {%- else -%}
     <link rel="stylesheet" href="{{ "/assets/css/stacks-base.css" | relative_url }}">
 {%- endif -%}
