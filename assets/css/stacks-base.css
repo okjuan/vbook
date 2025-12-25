@@ -68,13 +68,17 @@
     flex-direction: column;
     gap: 20px;
     border-top: 1px solid currentColor;
-    padding: 30px;
+    padding: 40px 55px;
 }
 
 .entry-item {
     display: block;
     overflow: hidden; /* Contains floated elements */
     margin-bottom: 20px;
+}
+
+.entry-item:last-child {
+    margin-bottom: 0;
 }
 
 .entry-image {
