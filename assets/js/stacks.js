@@ -137,10 +137,24 @@ document.addEventListener('DOMContentLoaded', function() {
                             exampleItem.appendChild(subtitle);
                         }
                         if (entry.commentary) {
-                            const commentary = document.createElement('p');
-                            commentary.className = 'entry-commentary';
-                            commentary.innerHTML = `${entry.commentary}`;
-                            exampleItem.appendChild(commentary);
+                            const commentaryContainer = document.createElement('div');
+                            commentaryContainer.className = 'entry-commentary-container';
+
+                            const paragraphs = entry.commentary.split(/\n\s*\n/);
+                            paragraphs.forEach(paragraphText => {
+                                const trimmedText = paragraphText.trim();
+                                if (trimmedText) {
+                                    const pContainer = document.createElement('div');
+                                    pContainer.className = 'paragraph';
+                                    const p = document.createElement('p');
+                                    p.className = 'entry-commentary';
+                                    p.innerHTML = trimmedText;
+                                    pContainer.appendChild(p);
+                                    commentaryContainer.appendChild(pContainer);
+                                }
+                            });
+
+                            exampleItem.appendChild(commentaryContainer);
                         }
 
                         entriesContainer.appendChild(exampleItem);
