@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const hasEntries = this.dataset.hasEntries === 'true';
 
             // Set modal title
-            modalTitle.textContent = description;
+            modalTitle.innerHTML = description;
 
             // Clear previous entries
             entriesContainer.innerHTML = '';
