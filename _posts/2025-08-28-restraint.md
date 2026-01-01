@@ -44,10 +44,9 @@ A much more efficient and productive one is _ecological_, one that looks to the 
 What we need to preserve the magic of moviewatching and more generally to neutralize the ills of unadulterated access to infinite digital streams is to reintroduce limits that were removed not for our benefit but in service of the [profit motive](https://en.wikipedia.org/wiki/Profit_motive).
 We must contrive restraints to create new default behaviors.
 
-There are so many possible tactics.
-Put the phone on the other side of the room.
-Leave it in the car.
-At night time, replace it with a purpose-built alarm clock.
+The possible tactics are many.
+Leave your phone in a different room, somewhere out of sight and reach.
+Use a purpose-built alarm clock instead of the equivalent feature your phone offers.
 Delete problematic apps from your phone.
 Configure it to render in black and white.
 Exchange it for a flip phone or for a "dumb phone."
