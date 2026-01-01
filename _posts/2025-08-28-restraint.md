@@ -39,8 +39,8 @@ Who can blame a human that, when anxious feelings spring as they do so readily i
 We need barely lift a finger and our mind is cast out beyond the preoccupations in our head and into a virtual source of stimulation tailored to our taste.
 Mindless escape is a bad habit and it is a common one because technology gives us the power to indulge it so easily.
 
-Chastening and berating ourselves to resist stimulation that is so easily accessible is a poor strategy.
-A much more efficient and productive one is ecological, one that looks to the nature of the organisms and to the nature of their environment.
+Chastening and berating ourselves to resist stimulation that is so easily accessible is a poor strategy for countering the negative effects of digital technology.
+A much more efficient and productive one is _ecological_, one that looks to the nature of the organisms and to the nature of their environment.
 What we need – to preserve the magic of moviewatching and more generally to neutralize the ills of unadulterated access to infinite digital streams – is to reintroduce the limits technology has dutifully removed for our convenience and to reduce the options it has generously accumulated for our benefit.
 We must contrive restraints to create new default behaviors.
 
