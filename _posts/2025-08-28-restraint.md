@@ -67,4 +67,4 @@ If I was reading one book, I was only ignoring a few others and I would get to t
 
 It's startling how powerful a contrived rule can be.
 It seems silly that the human mind could be duped so easily, but then again it is a testament to its power that it can take an idea and construct from it a reality.
-I suppose it is precisely this affinity and ease with virtual domains that gets us into trouble in the first place.
+I suppose it is precisely our adaptibility to virtual domains that gets us into trouble in the first place.
