@@ -43,6 +43,7 @@ Chastening and berating ourselves to resist stimulation that is so easily access
 A much more efficient and productive one is _ecological_, one that looks to the nature of the organisms and to the nature of their environment.
 What we need to preserve the magic of moviewatching and more generally to neutralize the ills of unadulterated access to infinite digital streams is to reintroduce limits that were removed not for our benefit but in service of the [profit motive](https://en.wikipedia.org/wiki/Profit_motive).
 We must contrive restraints to create new default behaviors.
+Put simply, we can change our behavior by changing what we interact with.
 
 The possible tactics are many.
 Leave your phone in a different room, somewhere out of sight and reach.
@@ -50,6 +51,11 @@ Use a purpose-built alarm clock instead of the equivalent feature your phone off
 Delete problematic apps from your phone.
 Configure it to render in black and white.
 Exchange it for a flip phone or for a "dumb phone."
+The methods I find the most satisfying are cheap and simple.
+Market solutions for problems created by the market feel the worst.
+And they're unnecessary, anyway.
+The most relevant technology for shaping our reality is in the one in our head.
+We can change our reality by introducing a paperthin layer of mediation between ourselves and the technology we use.
 
 Many times I've sat down to watch a movie with friends and we found ourselves browsing torpidly through a streaming library so vast that no single movie seemed to have much luster.
 To neutralize this unpleasant effect, I might employ a tactic I've used successfully this year for books.
