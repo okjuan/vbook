@@ -54,10 +54,10 @@ Exchange it for a flip phone or for a "dumb phone."
 Many times I've sat down to watch a movie with friends and we found ourselves browsing torpidly through a streaming library so vast that no single movie seemed to have much luster.
 To neutralize this unpleasant effect, I might employ a tactic I've used successfully this year for books.
 I prepared a short list of books to read throughout the year.
-Each time I finish one I check it off my list and each time I want to begin a new one I peruse the remaining options.
-With satisfaction I've watched the checkmarks accumulate gradually and felt each time a jolt of enthusiastic motivation to pick up the next book.
-I feel the value of each book on the list because its membership comes at the cost of excluding other millions and I spend very little time feeling like I'm missing out because I have mentally eliminated an endless library of options.
-If I'm reading this book, I'm only ignoring a few others and I will get to those soon enough anyhow.
+Each time I finished one I checked it off my list and each time I wanted to begin a new one I perused the remaining options.
+With satisfaction I watched the checkmarks accumulate one by one and felt rekindled my motivation to continue progressing.
+I felt the value of each book on the list because it was one of a handful and I spent very little time feeling like I was missing out because I had mentally eliminated an endless library of options.
+If I was reading one book, I was only ignoring a few others and I would get to those soon enough anyhow.
 
 It's startling how powerful a contrived rule can be.
 It seems silly that the human mind could be duped so easily, but then again it is a testament to its power that it can take an idea and construct from it a reality.
