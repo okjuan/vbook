@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-29
+modified_date: 2026-01-01
 layout: post
 title: "how to use restraint #2"
 permalink: /restraint-2
@@ -54,8 +54,8 @@ Eventually, I realized the vision.
 And I loved it.
 But, as is often the case, the happily ever after is a lot more tedious than its still image suggests.
 
-I am living a weird life.
-It isn't one I dreamed up for myself, but one that has developed bit by bit over the years from the conditions imposed on me by life.
+I am living a strange life.
+It isn't one I dreamed up for myself, but one that has developed bit by bit over the years from my circumstances and how I've chosen to adapt to them.
 Enviously I've held onto everything in my grasp and years later I find myself sprawled across two countries, in two apartments, both full of houseplants.
-This abundance has enriched my life while encumbering it.
+This abundance has enriched my life and encumbered it as well.
 Perhaps it's time to lighten the burdens I've put upon myself.
