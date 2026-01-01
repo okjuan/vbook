@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-08-29
+modified_date: 2026-01-01
 layout: post
 title: "how to use restraint #3"
 permalink: /restraint-3
@@ -17,7 +17,7 @@ Through the lens of Media Ecology, Thomas Flight analyzes how the circumstances 
 Once, watching a movie meant commuting to a certain place at a specific time to see something that you were likely never to see again.
 It was an occasion and often a communal experience among friends, loved ones, neighbors, and other locals.
 Today, a movie can be something insignificant and something entirely private.
-It can be a stimulating source that lulls someone into sleep or that distracts a tired homemaker while they fold laundry.
+It can be nothing more than a stimulus for alleviating restlessness as one does house chores or waits for sleep to come.
 The default mode of watching movies has changed and going to the cinema is now an unusual one.
 Today, movies play a different role in our lives.
 
