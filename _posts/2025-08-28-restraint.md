@@ -37,7 +37,7 @@ Technology is not evil.
 But it gives us power, and power corrupts.
 Who can blame a human that, when anxious feelings spring as they do so readily in the kind of lives we live, reaches for the anesthetic device always at their disposal?
 We need barely lift a finger and our mind is cast out beyond the preoccupations in our head and into a virtual source of stimulation tailored to our taste.
-Mindless escape is a bad habit and it is a common one because technology gives us the power to so easily indulge it.
+Mindless escape is a bad habit and it is a common one because technology gives us the power to indulge it so easily.
 
 Chastening and berating ourselves to resist stimulation that is so easily accessible is a poor strategy.
 A much more efficient and productive one is ecological, one that looks to the nature of the organisms and to the nature of their environment.
