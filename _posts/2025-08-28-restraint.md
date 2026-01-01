@@ -41,7 +41,7 @@ Mindless escape is a bad habit and it is a common one because technology gives u
 
 Chastening and berating ourselves to resist stimulation that is so easily accessible is a poor strategy for countering the negative effects of digital technology.
 A much more efficient and productive one is _ecological_, one that looks to the nature of the organisms and to the nature of their environment.
-What we need – to preserve the magic of moviewatching and more generally to neutralize the ills of unadulterated access to infinite digital streams – is to reintroduce the limits technology has dutifully removed for our convenience and to reduce the options it has generously accumulated for our benefit.
+What we need to preserve the magic of moviewatching and more generally to neutralize the ills of unadulterated access to infinite digital streams is to reintroduce limits that were removed not for our benefit but in service of the [profit motive](https://en.wikipedia.org/wiki/Profit_motive).
 We must contrive restraints to create new default behaviors.
 
 There are so many possible tactics.
