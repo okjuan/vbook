@@ -61,7 +61,7 @@ Many times I've sat down to watch a movie with friends and we found ourselves br
 To neutralize this unpleasant effect, I might employ a tactic I've used successfully this year for books.
 I prepared a short list of books to read throughout the year.
 Each time I finished one I checked it off my list and each time I wanted to begin a new one I perused the remaining options.
-With satisfaction I watched the checkmarks accumulate one by one and felt rekindled my motivation to continue progressing.
+With satisfaction I watched the checkmarks accumulate one by one and each time felt rekindled my motivation to continue progressing.
 I felt the value of each book on the list because it was one of a handful and I spent very little time feeling like I was missing out because I had mentally eliminated an endless library of options.
 If I was reading one book, I was only ignoring a few others and I would get to those soon enough anyhow.
 
