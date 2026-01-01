@@ -18,8 +18,10 @@ Once, watching a movie meant commuting to a certain place at a specific time to 
 It was an occasion and often a communal experience among friends, loved ones, neighbors, and other locals.
 Today, a movie can be something insignificant and something entirely private.
 It can be nothing more than a stimulus for alleviating restlessness as one does house chores or waits for sleep to come.
+A movie is no longer just a public event.
+It can be like a flavor of digital chewing gum, a substance waiting in our pocket for a moment of boredom.
 The default mode of watching movies has changed and going to the cinema is now an unusual one.
-Today, movies play a different role in our lives.
+Consequently, movies today play a different role in our lives.
 
 This is true of music as well.
 In the past, it may have seemed inconceivable to divorce music from its social aspect, but now the primary way to consume it – at least in my "Western" reality – is in personal privacy.
