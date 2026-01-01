@@ -54,7 +54,7 @@ Exchange it for a flip phone or for a "dumb phone."
 The methods I find the most satisfying are cheap and simple.
 Market solutions for problems created by the market feel the worst.
 And they're unnecessary, anyway.
-The most relevant technology for shaping our reality is in the one in our head.
+The most relevant technology for shaping our reality is the one in our head.
 We can change our reality by introducing a paperthin layer of mediation between ourselves and the technology we use.
 
 Many times I've sat down to watch a movie with friends and we found ourselves browsing torpidly through a streaming library so vast that no single movie seemed to have much luster.
