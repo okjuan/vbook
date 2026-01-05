@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-11-27
+modified_date: 2026-01-05
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
@@ -25,6 +25,7 @@ tags: design interior-design architecture
     <li>nice dishware</li>
     <li>easy & fast access to street*</li>
     <li>places to set things down**</li>
+    <li>good sinks & faucets</li>
 </ol>
 
 **non-negotiables
@@ -185,6 +186,23 @@ A common case for this kind of inbetween surface is to set down glasses, mugs, a
 A key aspect of these places is that they are convenient (see _(a) avoid causes of mental clutter & friction_).
 It shouldn't be necessary, for example, to activate your core to pick up or set down when sitting anywhere in the living room.
 There should be a spot right there, within reach from a natural sitting position.
+
+### xv) good sinks, faucets, & handles
+
+Faucets that stream water onto the edge of the sink bowl drive me crazy.
+As you wet your hands water spills and splashes out where it shouldn't.
+It is the criminal how many flashylooking sinks I've used that have this problem.
+Nothing is uglier than a beautiful thing that works poorly.
+
+Another avoidable problem that survives through all sorts of absurd mutations of pernicious design is that of shower and sink handles.
+It's insane that we so often have to ask for help with turning on a shower.
+Why do we need so many different designs?
+And for the love of all that is good, why can't we make it clear which way is hot and which cold?
+
+The ideal is one, intuitive control.
+It should also be easy to shut off immediately.
+None of this multirotation nonsense.
+I'm not sure we even need more than 180˚ of rotation per handle.
 
 ---
 
