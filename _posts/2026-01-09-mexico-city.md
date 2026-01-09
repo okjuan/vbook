@@ -28,6 +28,7 @@ After {% vbook_post vacationing in the Yucatan Peninsula | 2025-12-16-yucatan %}
 
 #### Tuesday 01/06/2026 -- Mexico City (El Pedregal & Santa Fe)
 
+- play tennis w/ my sister & cousin G
 - lunch @ Los Canarios in Perisur w/ my sister, my aunt C, & my cousin C
 - dillydally @ Centro Santa Fe & then Parque La Mexicana
 - supper & rosca de reyes @ my aunt T's house with aunts T, C, & S as well as several cousins & their partners
