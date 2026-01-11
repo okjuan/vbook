@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-01-05
+modified_date: 2026-01-10
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
@@ -26,6 +26,8 @@ tags: design interior-design architecture
     <li>easy & fast access to street*</li>
     <li>places to set things down**</li>
     <li>good sinks & faucets</li>
+    <li>rounded edges</li>
+    <li>boundaries & thresholds</li>
 </ol>
 
 **non-negotiables
@@ -203,6 +205,21 @@ The ideal is one, intuitive control.
 It should also be easy to shut off immediately.
 None of this multirotation nonsense.
 I'm not sure we even need more than 180˚ of rotation per handle.
+
+### xvi) rounded edges
+
+Passing a rounded corner is satisfying in a subtle way.
+I suppose it's natural to walk in curved lines, unnatural to walk in jagged ones.
+I like rounded table edges, rounded walls, even rounded stairs.
+They're not necessary in every case, but they make a difference when located along circulation paths.
+It's nice not having to move past a straight edge and then turn at a sharp angle.
+
+### xvii) boundaries & thresholds
+
+This is the complement to _rounded edges_.
+In some cases, instead of smoothening the transition from one place to another, it's best to demarcate it.
+For example, in cases where the kitchen area and the living room are effectively in the same room, it's nice to add a step between them so that a distinction is felt.
+A home can be made to feel bigger simply by demarcating spaces with distinct purposes.
 
 ---
 
