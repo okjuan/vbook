@@ -1,13 +1,13 @@
 ---
-modified_date: 2026-01-21
+modified_date: 2026-01-22
 layout: post
 title: what is alienation?
 permalink: /alienation
 tags: books quotes
 ---
 
-<!-- more -->
 A sort of alienation easy to understand is the kind that keeps people apart.
+<!--more-->
 A subtler, slipperier sort is the alienation that estranges a person from herself.
 Here is Christopher Lasch in his book _The Culture of Narcissism_ writing on the topic:
 
