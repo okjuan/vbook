@@ -111,6 +111,7 @@ I'm particularly interested in websites that organize their content as an interc
 
 #### tech
 - [inkandswitch.com](https://www.inkandswitch.com/)
+- [infrequently.org](https://infrequently.org/)
 
 #### tech, life, & career
 - [marginalia.nu](https://www.marginalia.nu/)
