@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-10-31
+modified_date: 2026-01-27
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -98,10 +98,12 @@ I'm particularly interested in websites that organize their content as an interc
 - [brucelawson.co.uk](https://brucelawson.co.uk/)
 - [blog.cleancoder.com](https://blog.cleancoder.com/)
 - [wiki.c2.com](https://wiki.c2.com/), the first wiki!
+- [patrickbrosset.com](https://patrickbrosset.com)
 
 #### tech people interested in humanities: literature, psychology, philosophy
 - [substack.com/@simonsarris](https://substack.com/@simonsarris)
 - [meltingasphalt.com](https://meltingasphalt.com/)
+- [ronikaufman.github.io](https://ronikaufman.github.io/)
 
 #### tech people
 - [adamwiggins.com](https://adamwiggins.com/making-computers-better/)
