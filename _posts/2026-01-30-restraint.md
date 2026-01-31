@@ -6,7 +6,7 @@ permalink: /restraint-4
 tags: literature writing
 ---
 
-I've been reading [_Tinkers_](https://en.wikipedia.org/wiki/Tinkers_(novel)) by Paul Harding because I enjoyed listening to [him speak](https://youtu.be/roLRPQPQU58?si=AUVnKRXHxkZ7BWQN) about creative writing, but his writing disappoints me.
+I've been reading [_Tinkers_](https://en.wikipedia.org/wiki/Tinkers_(novel)) by Paul Harding because I enjoyed listening to [him speak](https://youtu.be/roLRPQPQU58?si=AUVnKRXHxkZ7BWQN) about creative writing, but his writing has somewhat disappointed me.
 <!--more-->
 
 Let's consider as an example the vignette that begins on page 50 with the following sentence:
