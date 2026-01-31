@@ -47,7 +47,7 @@ He purports to describe a fictional world in a colorful way but really just draw
 For my taste, **excavated** is a needlessly stylish alternative to the typical and sufficient "dug out of" or even the simple "taken".
 (I'm reminded of Hemingway's recommendation of Germanic words over Latin words.)
 Even more indulgent is **the guts**, which seems a pointless and overblown metaphor for "the inside".
-(As an example, Hemingway favored **guts** over **viscera**, but of course that is not the issue here.)
+(Hemingway favored the Germanic **guts** over the Latin **viscera**, but of course that is not the issue here.)
 This word choice is particularly irritating considering Harding uses it metaphorically five other times throughout the book when referring to the internals of clocks.
 
 It's not a sin to flex your muscles as a writer if you do so by building something compelling.
