@@ -18,15 +18,12 @@ It does its job and nothing else.
 It states two facts in plain terms and allows all meaning to arise from their juxtaposition.
 There is a simple and powerful irony in grooming at the edge of personal oblivion.
 
-For all his adult life, Harding tells us, George kept a daily habit of shaving to stave off his beard of **"mangy patches"**, a nice description.
-(Supposedly, only a day's stubble **"lent him the look of an invalid or a large child incapable of taking care of his own needs"**, a description not so nice and a bit heavyhanded.)
-But in his dotage and ill health, George's shaving routine faltered.
-So he asks his family if they might shave him and one of his adult grandchildren, Sam, volunteers.
+We learn that, for all his adult life, George kept a daily habit of shaving to stave off his beard of **"mangy patches"**.
+(Supposedly, only a day's stubble **"lent him the look of an invalid or a large child incapable of taking care of his own needs."**)
+But in his dotage and ill health, George's shaving routine has faltered.
+So he asks his family if they might shave him and one of his adult grandchildren volunteers.
 
-Harding has successfully set up a scene of superficial mundanity and grave subtext through which he can explore themes of human vulnerability.
-And he has begun and now proceeds as a literary writer should, not by addressing abstract themes directly, but by exploring how they manifest in the literal - in this case, the physical details of how Sam undertakes the task of shaving his dying grandfather.
-
-Harding gives details like the **"bowl of scalding water"** and the **"cheap disposable plastic razor"** that are relevant and meaningful because they foreshadow Sam's carelessness and invoke the reader to sympathize with the old man.
+Harding gives details like the **"bowl of scalding water"** and the **"cheap disposable plastic razor"** that are relevant and meaningful because they foreshadow his grandson's carelessness and invoke the reader to sympathize with the old man.
 But Harding also includes details that seem irrelevant and consequently dilute and distract from the meaningful ones.
 He mentions that the razor was found by the grandmother **"in a basket beneath the bathroom sink that was filled with various disused, soap-crusted toiletry."**
 I think **"soap-crusted"** is the most excessive detail here but the entire description could have been removed.
