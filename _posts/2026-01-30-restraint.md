@@ -6,7 +6,7 @@ permalink: /restraint-4
 tags: literature writing
 ---
 
-I've been reading [_Tinkers_](https://en.wikipedia.org/wiki/Tinkers_(novel)) by Paul Harding because I enjoyed listening to [him speak](https://youtu.be/roLRPQPQU58?si=AUVnKRXHxkZ7BWQN) about creative writing, but his actual writing has somewhat disappointed me.
+I've been reading [_Tinkers_](https://en.wikipedia.org/wiki/Tinkers_(novel)) by Paul Harding because I enjoyed listening to [him speak](https://youtu.be/roLRPQPQU58?si=AUVnKRXHxkZ7BWQN) about his writing process, but his writing style has somewhat disappointed me.
 <!--more-->
 
 On page 50 he begins a vignette with this modest sentence:
