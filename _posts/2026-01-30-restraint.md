@@ -25,17 +25,17 @@ So he asks his family if they might shave him, and one of his adult grandchildre
 Harding gives details like the _bowl of scalding water_ and the _cheap disposable plastic razor_ that are relevant and meaningful because they foreshadow Sam's carelessness and invoke us readers to sympathize with George.
 But Harding also includes details that seem irrelevant and consequently dilute and distract from the meaningful ones.
 He mentions that the razor was found by the grandmother _in a basket beneath the bathroom sink that was filled with various disused, soap-crusted toiletry._
-I think _soap-crusted_ is the most excessive detail here but the entire description could have been removed.
+I think _soap-crusted_ is the most excessive detail here, but I think the entire phrase could have been removed.
 Harding is giving us too much.
 Only to a certain extent do vivid descriptions make things more vivid to the reader.
-At some point, they stop deepening the feeling of immersion in the fictional world and start drawing attention instead to the author and his stylishness as a writer.
+At some point, they stop deepening the feeling of immersion in a fictional world and start drawing attention instead to the author and his stylishness as a writer.
 
 We readers have already a reservoir of vivid images we draw from when reading fiction.
 It is enough to say that the grandmother found a razor in her own house.
 That alone can conjure an image of a bathroom cupboard full of nonessential toiletry.
 And even if it does not, it conveys the relevant facts.
-Firstly, that the old man's usual shaving equipment will not be used.
-And secondly, that for some bothersome reason the old man's wife does not know where that equipment is or has neglected to find it.
+Firstly, that George's usual shaving equipment will not be used.
+And secondly, that for some bothersome reason George's wife does not know where that equipment is or has neglected to find it.
 These subtle, meaningful implications are more salient to readers when the author does not distract them with other, irrelevant information.
 
 A few sentences later comes another example:
