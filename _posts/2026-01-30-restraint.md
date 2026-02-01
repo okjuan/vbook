@@ -38,7 +38,14 @@ Firstly, that George's usual shaving equipment will not be used.
 And secondly, that for some bothersome reason George's wife does not know where that equipment is or has neglected to find it.
 These subtle, meaningful implications are more salient to readers when the author does not distract them with other, irrelevant information.
 
-A few sentences later comes another example:
+Fiction is a collaboration between author and audience.
+Readers experience the same work differently, sometimes drastically so.
+The same reader returning a work encounters it with new eyes.
+To write with restraint is to withhold one's creative surplus to make space for the reader's reflections and ruminations.
+Every word, every detail the author provides is an invitation to the reader to consider something and therefore also a dismissal of their considerations.
+Detail and specificity become eventual enemies of depth and expanse.
+
+A few sentences later in _Tinkers_ comes another example of overwriting:
 
 > The can [of shaving cream] was old, excavated along with the razor from the guts of the cabinet under the bathroom sink.
 
