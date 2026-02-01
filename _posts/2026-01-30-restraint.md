@@ -49,12 +49,13 @@ A few sentences later in _Tinkers_ comes another example of overwriting:
 
 > The can [of shaving cream] was old, excavated along with the razor from the guts of the cabinet under the bathroom sink.
 
-For my taste, _excavated_ is a needlessly stylish alternative to the typical and sufficient "dug up".
+The word _excavated_ is a needlessly stylish alternative to the typical and sufficient "dug up."
 Even a simple "taken" would've served.
-More indulgent than _excavated_ is _guts_, which is an empty metaphor for "inside".
+More indulgent than _excavated_ is _guts_, which is an empty metaphor for "inside."
 It suggests a deeper meaning that is not there.
 In indulgent moments like these, the quality of the novel degrades from vivid to lurid.
-In context of the whole book, this particular choice of _guts_ suffers further from the fact that Harding had already used it metaphorically twice when referring to the internals of clocks and goes on to use it in such a way another three times.
+(In context of the whole book, this particular choice of _guts_ suffers further from the fact that Harding had already used it metaphorically twice when referring to the internals of clocks and goes on to use it in such a way another three times.
+It's an evocative description but Harding washes it out with overuse.)
 
 It’s not a sin to flex your muscles as a writer if you do so by building something compelling.
 But I think Harding succumbs to the temptation of making pointless flourishes and embellisments all too often, especially for a novel that was [awarded the Pulitzer Prize for Fiction](https://en.wikipedia.org/wiki/2010_Pulitzer_Prize).
