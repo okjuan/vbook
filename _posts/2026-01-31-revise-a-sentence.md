@@ -38,3 +38,4 @@ And tweak it:
 > As the wagon trundled along, the boy's notions of flight and pursuit dissipated into the sunny weekend morning.
 
 These phrasings sacrifice the stylishness of the original so that the spotlight can fall on the content instead of falling on the writer.
+Ultimately, in a quieter way, this reflects well on the writer.
