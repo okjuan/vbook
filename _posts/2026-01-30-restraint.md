@@ -45,8 +45,9 @@ A few sentences later comes another example:
 For my taste, _excavated_ is a needlessly stylish alternative to the typical and sufficient "dug up".
 Even a simple "taken" would've served.
 More indulgent than _excavated_ is _guts_, which is an empty metaphor for "inside".
+It suggests a deeper meaning that is not there.
 In indulgent moments like these, the quality of the novel degrades from vivid to lurid.
 In context of the whole book, this particular choice of _guts_ suffers further from the fact that Harding had already used it metaphorically twice when referring to the internals of clocks and goes on to use it in such a way another three times.
 
-It's not a sin to flex your muscles as a writer if you do so by building something compelling.
-But I'm afraid Harding succumbs to the temptation of making pointless flourishes and embellisments all too often, especially for a novel that was [awarded the Pulitzer Prize for Fiction](https://en.wikipedia.org/wiki/2010_Pulitzer_Prize).
+It’s not a sin to flex your muscles as a writer if you do so by building something compelling.
+But I think Harding succumbs to the temptation of making pointless flourishes and embellisments all too often, especially for a novel that was [awarded the Pulitzer Prize for Fiction](https://en.wikipedia.org/wiki/2010_Pulitzer_Prize).
