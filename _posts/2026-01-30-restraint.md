@@ -9,7 +9,7 @@ tags: literature writing
 I've been reading [_Tinkers_](https://en.wikipedia.org/wiki/Tinkers_(novel)) by Paul Harding because I enjoyed listening to [him speak](https://youtu.be/roLRPQPQU58?si=AUVnKRXHxkZ7BWQN) about his writing process, but his writing style has somewhat disappointed me.
 <!--more-->
 
-On page 50 he begins a vignette with this modest sentence:
+One of the many vignettes in his book begins with this modest sentence:
 > Ninety-six hours before he died, George said he wanted a shave.
 
 This is a good sentence and, in a sense, a perfect sentence.
