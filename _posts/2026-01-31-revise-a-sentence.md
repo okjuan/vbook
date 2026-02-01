@@ -19,7 +19,8 @@ It's a creative formulation, but does it contribute anything to what is being ex
 
 The point of inventive wording, I think, is to express something about the subject by illuminating or highlighting it in some way.
 Phrasing should be effective, not affected.
-Why did Harding choose this phrasing instead of a humbler one that eschews wordy choices like _conspire_ and _impart_ to make space for relevant words like _dilute_, _deflate_, or _dissipate_ to play the central role in the idea being conveyed?
+Why did Harding choose this phrasing?
+A humbler one would eschew wordy choices like _conspire_ and _impart_ to allow apt words like _dilute_, _deflate_, or _dissipate_ to play the central role in the idea being conveyed.
 Something like:
 
 > The boy’s notions of flight and pursuit dissipated as he sat on this bulky wagon towed by this lackadaisical mule on this sunny weekend morning.
