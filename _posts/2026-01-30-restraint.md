@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-01-31
+modified_date: 2026-02-01
 layout: post
 title: "how to use restraint #4"
 permalink: /restraint-4
@@ -20,9 +20,9 @@ It states two facts in plain terms and allows all meaning to arise from their ju
 We learn that, for all his adult life, George kept a daily habit of shaving to stave off his beard of _mangy patches_.
 (Supposedly, only a day's stubble _lent him the look of an invalid or a large child incapable of taking care of his own needs._)
 But in his dotage and ill health, George's shaving routine has faltered.
-So he asks his family if they might shave him and one of his adult grandchildren volunteers.
+So he asks his family if they might shave him, and one of his adult grandchildren, Sam, volunteers.
 
-Harding gives details like the _bowl of scalding water_ and the _cheap disposable plastic razor_ that are relevant and meaningful because they foreshadow his grandson's carelessness and invoke the reader to sympathize with the old man.
+Harding gives details like the _bowl of scalding water_ and the _cheap disposable plastic razor_ that are relevant and meaningful because they foreshadow Sam's carelessness and invoke us readers to sympathize with George.
 But Harding also includes details that seem irrelevant and consequently dilute and distract from the meaningful ones.
 He mentions that the razor was found by the grandmother _in a basket beneath the bathroom sink that was filled with various disused, soap-crusted toiletry._
 I think _soap-crusted_ is the most excessive detail here but the entire description could have been removed.
