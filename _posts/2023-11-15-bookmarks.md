@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-01-27
+modified_date: 2026-02-02
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -30,6 +30,10 @@ Although personal sites are perhaps the most exciting, there are also some great
 The most special of these is probably [Capitol Hill Seattle Blog](https://www.capitolhillseattle.com/), a neighborhood blog turned crowdsourced news site turned indepedent and ultralocal news site.
 It's special not only because it is independent but because it offers volumes of dense and specific information about a focused locale.
 I'm yet to find anything else like it.
+
+_February 2 2026_ –
+I recently learned about [gwac.ca](http://gwac.ca/), a website for the Grandview-Woodland area of East Vancouver.
+I love hyperlocal sites like these.
 
 I also used to be a big fan of [pudding.cool](https://pudding.cool), but lately have lost some of my enthusiasm for them because they seem to pick topics for novelty and appeal.
 They are perhaps more an entertainment company than a journalism firm.
