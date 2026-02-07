@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-02-02
+modified_date: 2026-02-06
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -40,6 +40,7 @@ They are perhaps more an entertainment company than a journalism firm.
 
 I often come across new sites and I like to save them here to remind myself to check back on them and consider adding them to the small set of sites I frequent.
 Here are sites that haven't made it into my special list but I want to revisit soon:
+- [laughinghand.com](https://laughinghand.com/), a visual artist who has illustrated many cafes & theatres in Vancouver, BC
 - [bjasamuel.com](https://www.bjasamuel.com/)
 - [ucodia.space](https://ucodia.space/), digital art programmed by a Software Engineer in Vancouver BC
 - [scoutmagazine.ca](https://scoutmagazine.ca/), a digital magazine local to Vancouver BC for which now-councillor Sean Orr has written since 2011
