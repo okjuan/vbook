@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-01-10
+modified_date: 2026-02-22
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
@@ -28,6 +28,8 @@ tags: design interior-design architecture
     <li>good sinks & faucets</li>
     <li>rounded edges</li>
     <li>boundaries & thresholds</li>
+    <li>shelf wall</li>
+    <li>benched corner dinner table</li>
 </ol>
 
 **non-negotiables
@@ -220,6 +222,17 @@ This is the complement to _rounded edges_.
 In some cases, instead of smoothening the transition from one place to another, it's best to demarcate it.
 For example, in cases where the kitchen area and the living room are effectively in the same room, it's nice to add a step between them so that a distinction is felt.
 A home can be made to feel bigger simply by demarcating spaces with distinct purposes.
+
+### xviii) shelf wall
+
+I love shelving that spans an entire wall, especially in wall niches so that all edges but the front are flush with the wall.
+
+### xix) benched corner dinner table
+
+Preferrably a round table (see _rounded edges_).
+A pendant light hanging over the table center.
+Benches with hidden storage topped and backed with cushions.
+Bonus points if located by a window.
 
 ---
 
