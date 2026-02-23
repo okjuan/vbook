@@ -32,6 +32,7 @@ tags: design interior-design architecture
     <li>benched corner dinner table</li>
     <li>outlets within reach</li>
     <li>rugs at places of rest</li>
+    <li>integrated storage</li>
 </ol>
 
 **non-negotiables
@@ -248,6 +249,13 @@ One of my quirks is I hate getting bits of thing – dust, crumbs, debris, whate
 I always walk around my home in a pair of slippers.
 I like rugs at the side of the bed and in the living room so my first step out of bed or off the couch is onto them.
 Then I step into my slippers and I'm off.
+
+### xxii) integrated storage
+
+Joinery that feels like part of the wall.
+Built-in benches with storage inside them (see _benched corner dining table_).
+A bed with hidden storage beneath the mattress accessible by lifting the frame on hydraulics.
+A hollow coffee table with storage compartments inside.
 
 ---
 
