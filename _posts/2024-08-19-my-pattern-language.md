@@ -13,7 +13,7 @@ tags: design interior-design architecture
 <ol style="list-style-type:lower-roman">
     <li>good bed*</li>
     <li>walk-in shower</li>
-    <li>diffused & ambient lighting**</li>
+    <li>warm, diffused, localized lighting**</li>
     <li>plants</li>
     <li>comfy couch**</li>
     <li>dishwasher**</li>
@@ -79,12 +79,17 @@ It sounds obvious, but the standard tubshower hybrid most of us have at home {% 
 
 Bonus points for nice tiles and for a flat entry with no intermediary ledge.
 
-### iii) diffused & ambient lighting
+### iii) warm, diffused, localized lighting
 
-I hate overhead lighting that is bright and direct.
-The inconvenience of switching off five lamps in a living room is nothing compared to having to withstand the piercing glare of bare bulbs shining down horribly into my eyes.
-For switch-operated room lights, I much prefer track lighting aimed at the wall or lights diffused by rice paper pendants.
+I hate recessed lighting that shines down indiscriminately into a room.
+The inconvenience of switching off five lamps in a living room is nothing compared to the displeasure of having light piercing down from bare bulbs overhead.
+(Maybe it's my astigmatism.)
+For overhead lighting, I prefer track lighting aimed at the wall or pendants like that diffuse the light by soft glow.
 The goal is to create a [soup of light](https://youtube.com/clip/UgkxqTsun7JQzd0off7M8o5DlJ983OV63snW?si=xKxDqYwS4oq-6glt).
+Warm soup, that is.
+White light is the cardinal sin of interior design as far as I'm concerned.
+Noah Daniel has a [whole video](https://youtu.be/1pYtVdARIRE?si=jwigN3sr7DIwNBwG) on the subject of lighting, and he prescribes a certain lumen range when shopping for lightbulbs.
+Listen to the man.
 
 Also, as per pattern #252, _pools of light_, lights should accentuate or even delineate spaces and subspaces.
 Don't just light a whole room, light each space within the room.
