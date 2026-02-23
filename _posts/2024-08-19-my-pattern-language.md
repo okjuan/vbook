@@ -229,7 +229,7 @@ It's nice not having to move past a straight edge and then turn at a sharp angle
 
 ### xvii) boundaries & thresholds
 
-This is the complement to _rounded edges_.
+This is the complement to _xvi) rounded edges_.
 In some cases, instead of smoothening the transition from one place to another, it's best to demarcate it.
 For example, in cases where the kitchen area and the living room are effectively in the same room, it's nice to add a step between them so that a distinction is felt.
 A home can be made to feel bigger simply by demarcating spaces with distinct purposes.
@@ -240,7 +240,7 @@ I love shelving that spans an entire wall, especially in wall niches so that all
 
 ### xix) benched corner dinner table
 
-Preferrably a round table (see _rounded edges_).
+Preferrably a round table (see _xvi) rounded edges_).
 A pendant light hanging over the table center.
 Benches with hidden storage topped and backed with cushions.
 Bonus points if located by a window.
@@ -260,7 +260,7 @@ Then I step into my slippers and I'm off.
 ### xxii) integrated storage
 
 Joinery that feels like part of the wall.
-Built-in benches with storage inside them (see _benched corner dining table_).
+Built-in benches with storage inside them (see _xix) benched corner dining table_).
 A bed with hidden storage beneath the mattress accessible by lifting the frame on hydraulics.
 A hollow coffee table with storage compartments inside.
 
@@ -279,6 +279,7 @@ A light pointed up against the wall by default can be turned down to illuminute 
 Dimmable lights are great.
 So are cordless lamps, which can be brought from room to room and placed for particular tasks.
 I use mine to take baths and showers at night without turning on the big lights.
+See _d) make things adjustable_.
 
 ---
 
