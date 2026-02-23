@@ -276,6 +276,9 @@ I expect in the future we will have more use for a dining table and more space t
 
 Lamps and light fixtures that can be tweaked and turned are more likely to suit the particular needs of their spot in the home and the incidental uses of particular moments.
 A light pointed up against the wall by default can be turned down to illuminute a book or a craft and then turned back up.
+Dimmable lights are great.
+So are cordless lamps, which can be brought from room to room and placed for particular tasks.
+I use mine to take baths and showers at night without turning on the big lights.
 
 ---
 
