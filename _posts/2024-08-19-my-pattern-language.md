@@ -31,6 +31,7 @@ tags: design interior-design architecture
     <li>shelf wall</li>
     <li>benched corner dinner table</li>
     <li>outlets within reach</li>
+    <li>rugs at places of rest</li>
 </ol>
 
 **non-negotiables
@@ -240,6 +241,13 @@ Bonus points if located by a window.
 
 I like to put extension cords so I can charge my phone and laptop at my bedside and at from any seat in the living room.
 When I have guests over and they need to charge their phone they can just reach down below them to connect.
+
+### xxi) rugs at places of rest
+
+One of my quirks is I hate getting bits of thing – dust, crumbs, debris, whatever – stuck to the soles of my feet.
+I always walk around my home in a pair of slippers.
+I like rugs at the side of the bed and in the living room so my first step out of bed or off the couch is onto them.
+Then I step into my slippers and I'm off.
 
 ---
 
