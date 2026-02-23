@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-10-27
+modified_date: 2026-02-22
 layout: post
 title: concerts
 permalink: /concerts
@@ -16,6 +16,12 @@ Log of concerts I've attended.
 &#x2605; = Ok
 
 &#x2606; = Disappointing
+
+#### 2026
+
+| Rating | Artist | City | Country | Venue | Date |
+| - | - | - | - | - | - |
+| &#x2605; &#x2605; &#x2605; | The Reviberators | Vancouver, BC | Canada | Wise Lounge | 01/22/2026 |
 
 #### 2025
 
