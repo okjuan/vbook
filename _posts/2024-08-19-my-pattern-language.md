@@ -56,6 +56,7 @@ Percale cotton or linen, in a nice color.
 The duvet cover must offer a way to secure the duvet inside it so that it appears and feels like one item.
 What has worked well in my experience is a duvet covet with eight ties inside it and a zipper at the bottom hidden behind a flap.
 
+A headboard.
 The frame must be sturdy and stable.
 No squeaking when getting in and out of bed.
 
