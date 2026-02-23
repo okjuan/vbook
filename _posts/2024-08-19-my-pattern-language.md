@@ -30,6 +30,7 @@ tags: design interior-design architecture
     <li>boundaries & thresholds</li>
     <li>shelf wall</li>
     <li>benched corner dinner table</li>
+    <li>outlets within reach</li>
 </ol>
 
 **non-negotiables
@@ -233,6 +234,11 @@ Preferrably a round table (see _rounded edges_).
 A pendant light hanging over the table center.
 Benches with hidden storage topped and backed with cushions.
 Bonus points if located by a window.
+
+### xx) outlets within reach
+
+I like to put extension cords so I can charge my phone and laptop at my bedside and at from any seat in the living room.
+When I have guests over and they need to charge their phone they can just reach down below them to connect.
 
 ---
 
