@@ -33,6 +33,8 @@ tags: design interior-design architecture
     <li>outlets within reach</li>
     <li>rugs at places of rest</li>
     <li>integrated storage</li>
+    <li>multipurpose dining table</li>
+    <li>adjustable lamps & light fixtures</li>
 </ol>
 
 **non-negotiables
@@ -261,6 +263,19 @@ Joinery that feels like part of the wall.
 Built-in benches with storage inside them (see _benched corner dining table_).
 A bed with hidden storage beneath the mattress accessible by lifting the frame on hydraulics.
 A hollow coffee table with storage compartments inside.
+
+### xxiii) multipurpose dining table
+
+My wife Z and I have scant need for a dining table because we eat our meals sitting on the couch watching TV.
+(We prepare and eat our meals separately, at different times.)
+At our previous apartment our dining table doubled as a workspace and at our current apartment we don't have a dining table at all.
+
+I expect in the future we will have more use for a dining table and more space to accommodate it, but even then I hope it will serve as a useful and comfortable table for a variety of activities apart from eating meals – doing homework, crafting, playing board games, writing, drawing, anything that requires multiple seats facing each other and/or a big flat surface.
+
+### xxiv) adjustable lamps & light fixtures
+
+Lamps and light fixtures that can be tweaked and turned are more likely to suit the particular needs of their spot in the home and the incidental uses of particular moments.
+A light pointed up against the wall by default can be turned down to illuminute a book or a craft and then turned back up.
 
 ---
 
