@@ -88,7 +88,7 @@ For overhead lighting, I prefer track lighting aimed at the wall or pendants lik
 The goal is to create a [soup of light](https://youtube.com/clip/UgkxqTsun7JQzd0off7M8o5DlJ983OV63snW?si=xKxDqYwS4oq-6glt).
 Warm soup, that is.
 White light is the cardinal sin of interior design as far as I'm concerned.
-Noah Daniel has a [whole video](https://youtu.be/1pYtVdARIRE?si=jwigN3sr7DIwNBwG) on the subject of lighting, and he prescribes a certain lumen range when shopping for lightbulbs.
+Noah Daniel has a [whole video](https://youtu.be/1pYtVdARIRE?si=jwigN3sr7DIwNBwG) on the subject of lighting, and he prescribes ~3000 Kelvin lightbulbs.
 Listen to the man.
 
 Also, as per pattern #252, _pools of light_, lights should accentuate or even delineate spaces and subspaces.
