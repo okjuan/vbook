@@ -1,7 +1,8 @@
 ---
-modified_date: 2025-09-06
+modified_date: 2026-03-05
 layout: post
 title: <em>Theatre takes place all the time</em>
+excerpt: Art is the stuff of life.
 permalink: /theatre-all-the-time
 tags: quotes art life
 ---

@@ -1,7 +1,8 @@
 ---
-modified_date: 2026-02-07
+modified_date: 2026-03-05
 layout: post
 title: what is restraint?
+excerpt: Less is more. How?
 permalink: /on-restraint
 ---
 
