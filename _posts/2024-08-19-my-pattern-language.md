@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-02-22
+modified_date: 2026-03-06
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
@@ -35,6 +35,8 @@ tags: design interior-design architecture
     <li>integrated storage</li>
     <li>multipurpose dining table</li>
     <li>adjustable lamps & light fixtures</li>
+    <li>functional foyer</li>
+    <li>mounted utility items</li>
 </ol>
 
 **non-negotiables
@@ -280,6 +282,21 @@ Dimmable lights are great.
 So are cordless lamps, which can be brought from room to room and placed for particular tasks.
 I use mine to take baths and showers at night without turning on the big lights.
 See _d) make things adjustable_.
+
+### xxv) functional foyer
+
+Places to store shoes, hang up coats, set down keys, store daily objects.
+A place to sit and put on shoes.
+
+### xxvi) mounted utility items
+
+Mounting everyday items on walls and other surfaces is such a good way to keep them organized and accessible without occupying surfaces, be they floor space or tabletops.
+This strategy is already used in many homes for various things like toilet paper, bathroom towels, and coats.
+
+Bedside lamps.
+Work lamps.
+Kitchen supplies like a paper towel roll and kitchen utensils like spatulas.
+Key holders and coat hooks at the entrance, see _functional foyer_.
 
 ---
 
