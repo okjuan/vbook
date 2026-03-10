@@ -21,11 +21,11 @@ Mostly, a club's "DNA" is just a myth sustained in the minds of its supporters.
 In my mind, Arsenal was the British Barcelona, a football club that built their attacks by intricate passing through the midfield.
 The joy of watching Arsenal score a goal was due in great part to the beautiful way they did it.
 At the heart of this playstyle were playmakers like Rosicky, Cazorla, Wilshere, Fabregas, Bergkamp, and Ozil.
-Martin Odegaard, Arsenal's current captain, is precisely this kind of player.
+Martin Ødegaard, Arsenal's current captain, is precisely this kind of player.
 A playmaker with the combination of vision, technique, and composure necessary to find and execute passes that unlock the opposition's defense.
 But today's Arsenal team gives him scant opportunity to produce those moments of magic.
 
-The "problem" is that the manager, Mikel Arteta, dictates a ~~style~~ system of play that eliminates risk and by collateral the freeflowing movement that playmakers like Odegaard exploit to create opportunities.
+The "problem" is that the manager, Mikel Arteta, dictates a ~~style~~ system of play that eliminates risk and by collateral the freeflowing movement that playmakers like Ødegaard exploit to create opportunities.
 It comes as no surprise that as head coach Arteta has established conservatism and control as core tenets of Arsenal's playstyle.
 Not long ago, he played in Arsenal's midfield and he was perhaps the only one whose playstyle I disliked.
 His caution with the ball frustrated me.
