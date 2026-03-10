@@ -38,9 +38,11 @@ This has been for a long time a ridiculous notion to me.
 Of course it is thrilling to win a competition, but what I love most is football itself.
 What I love most is watching Declan Rice swerve a free kick around Real Madrid's wall, past the gigantic arms of Courtois, and into the back of the net.
 What I love most is watching a few minutes later Rice line up for another free kick and hit an even more outrageous curveshot into the top corner, dispelling in advance any claims that his first free kick was a chance occurrence.
-What I love most is when Cazorla and Wilshere stride into the final third and combine with Giroud to infiltrate the opposition's box and score with a series of one touch passes, leaving the Norwich defensive line and goalkeeper baffled and helpless.
-What I love most are the moments a football fan references to explain why their beloved sport is called "the beautiful game."
-Trophies would've magnified the status of these incredible moments but they are incredible moments by themselves.
+What I love most is watching Cazorla and Wilshere stride into the final third and combine with Giroud in a series of onetouch passes to infiltrate the box and score, leaving the opposition in baffled standstill.
 
-No doubt, I will greatly enjoy the moments soon to come when Arsenal win a major trophy.
-But I expect the moments I will cherish most are not the raising of silverware or donning of medals, but the moments of athleticism and skill and genius that, hopefully, prove indispensable to the victory.
+What I love most are the moments a football fan references to explain why their beloved sport is called "the beautiful game."
+Trophies and titles immortalize incredible moments like these into legend but they are by themselves already incredible moments.
+But without these moments, what are trophies and titles but symbols of status?
+And how much should I care about the status of an organization to whom my relationship is in large part romanticized consumerism?
+No doubt, I will enjoy the moments soon to come when Arsenal win a major trophy.
+But I expect I will cherish most not the raising of silverware or donning of medals, but the moments of athleticism and skill and genius that, hopefully, prove indispensable to victory.
