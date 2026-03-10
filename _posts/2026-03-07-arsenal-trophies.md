@@ -37,7 +37,7 @@ In fact, trophies are supposedly the ultimate criterion for a fan's satisfaction
 This has been for a long time a ridiculous notion to me.
 Of course it is thrilling to win a competition, but what I love most is football itself.
 What I love most is watching Declan Rice swerve a free kick around Real Madrid's wall, past the gigantic arms of Courtois, and into the back of the net.
-What I love most is watching a few minutes later Rice line up for another free kick and hit an even more beautiful curving shot into the top corner, obliterating all claims that his first free kick was a chance occurrence.
+What I love most is watching a few minutes later Rice line up for another free kick and hit an even more outrageous curveshot into the top corner, dispelling in advance any claims that his first free kick was a chance occurrence.
 What I love most is when Cazorla and Wilshere stride into the final third and combine with Giroud to infiltrate the opposition's box and score with a series of one touch passes, leaving the Norwich defensive line and goalkeeper baffled and helpless.
 What I love most are the moments a football fan references to explain why their beloved sport is called "the beautiful game."
 Trophies would've magnified the status of these incredible moments but they are incredible moments by themselves.
