@@ -8,7 +8,7 @@ excerpt: Go, Tesco, Go!
 ---
 
 <!--more-->
-On the Tifo Football Podcast, JJ voiced something I'd contemplated a few times before.
+On the Tifo Football Podcast, J.J. voiced something I'd contemplated a few times before.
 Supporting a football team is like supporting a corporation – Go, Tesco, Go!
 For locals of North London, supporting Arsenal is a matter of community and place, but for international fans like me, supporting Arsenal is a bit like swearing loyalty to a brand.
 Over time, few things about the club apart from its name remain the same.
