@@ -16,7 +16,7 @@ Players come and go, managers get replaced, owners cash out, technical directors
 Football fans and former players claim their club has a certain "DNA" -- fundamental attributes that define their club's playstyle and competitive philosophy.
 But there is nothing intrinsic about these things.
 They remain only as long as they are sustained in practice by the club's organization.
-But mostly, a club's "DNA" is just a myth sustained in the minds of its supporters.
+Mostly, a club's "DNA" is just a myth sustained in the minds of its supporters.
 
 In my mind, Arsenal was the British Barcelona, a football club that built their attacks by intricate passing through the midfield.
 The joy of watching Arsenal score a goal was due in great part to the beautiful way they did it.
