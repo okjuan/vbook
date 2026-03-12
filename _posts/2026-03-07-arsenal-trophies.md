@@ -3,7 +3,7 @@ modified_date: 2026-03-12
 layout: post
 title: what does fandom mean?
 permalink: /fandom
-tags: journal arsenal sports
+tags: soccer arsenal sports consumerism
 excerpt: Go, Tesco, Go!
 ---
 
