@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-03-10
+modified_date: 2026-03-12
 layout: post
 title: what does fandom mean?
 permalink: /fandom
@@ -27,7 +27,7 @@ But today's Arsenal team gives him scant opportunity to produce those moments of
 
 The "problem" is that the manager, Mikel Arteta, dictates a ~~style~~ system of play that eliminates risk and by collateral the freeflowing movement that playmakers like Ødegaard exploit to create opportunities.
 It comes as no surprise that as head coach Arteta has established conservatism and control as core tenets of Arsenal's playstyle.
-Not long ago, he played in Arsenal's midfield and he was perhaps the only one whose playstyle I disliked.
+Not long ago, he played in Arsenal's midfield and he was perhaps the only Arsenal midfielder whose playstyle I disliked.
 His caution with the ball frustrated me.
 Play the ball forward, dammit!
 
@@ -45,4 +45,4 @@ Trophies and titles immortalize incredible moments like these into legend but th
 But without these moments, what are trophies and titles but symbols of status?
 And how much should I care about the status of an organization to whom my relationship is in large part romanticized consumerism?
 No doubt, I will enjoy the moments soon to come when Arsenal win a major trophy.
-But I expect I will cherish most not the raising of silverware or donning of medals, but the moments of athleticism and skill and genius that, hopefully, prove indispensable to victory.
+But I expect I will cherish most not the raising of silverware or donning of medals, but the moments of athleticism and skill and genius that, hopefully, bring about that victory.
