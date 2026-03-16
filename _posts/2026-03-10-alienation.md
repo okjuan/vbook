@@ -1,8 +1,9 @@
 ---
-modified_date: 2026-03-10
+modified_date: 2026-03-16
 layout: post
 title: "what is alienation? #2"
 permalink: /alienation-2
+excerpt: Steinbeck comments on the absurdity and senselessness of bureaucratically imposed exploitation, dehumanization by abstraction.
 tags: books literature
 ---
 
