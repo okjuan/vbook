@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-11-03
+modified_date: 2026-03-16
 layout: post
 title: how to chart moods
 permalink: /chart-moods
@@ -21,7 +21,7 @@ In other words, am I feeling {% vbook_post _absorptive_ or _productive_ | 2021-0
 
 ---
 
-Classifying my mood on that simple criterion has helped me a lot.
+Classifying my mood by that simple criterion has helped me a lot.
 When I'm feeling _productive_, I know I'll have a hard time quieting my mind to read.
 And when I'm feeling _absorptive_, I know it's a great time to make progress on a book.
 
