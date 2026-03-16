@@ -25,7 +25,7 @@ Classifying my mood by that simple criterion has helped me a lot.
 When I'm feeling _productive_, I know I'll have a hard time quieting my mind to read.
 And when I'm feeling _absorptive_, I know it's a great time to make progress on a book.
 
-Recently it occurred to me I could add more binary tests like this one.
+Recently it occurred to me I could do more binary tests like this one.
 After I determine I feel like consuming rather than producing, I might ask myself whether I feel like doing something _active_ or something _passive_.
 Watching TV for example can be active or passive depending on whether you watch a documentary about an unfamiliar topic or rewatch your favorite sitcom.
 
