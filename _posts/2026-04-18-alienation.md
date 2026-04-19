@@ -37,7 +37,7 @@ As it hollows out the land, so it does us.
 It is a process of breaching wholeness in the land, in ourselves, and in the ancient relationship between the two.
 
 But there's more here.
-Steinbeck portrays not just the destruction of a humble, integrated life but the sowing of seeds of discord.
+Steinbeck portrays not just the uprooting of a humble, integrated life but the sowing of seeds of discord.
 Not only are people set apart from their land and from themselves as sufficient providers of their own livelihood, from dignity and selfrespect, they are set apart from their fellow man.
 The new habitat is one amenable to suspicion and distrust of self and another.
 Steinbeck's writing invites reflection: how deeply do they run, the roots of modern rage?
