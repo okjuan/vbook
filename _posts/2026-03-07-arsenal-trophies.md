@@ -1,7 +1,7 @@
 ---
-modified_date: 2026-03-12
+modified_date: 2026-04-24
 layout: post
-title: what does fandom mean?
+title: how to be a fan
 permalink: /fandom
 tags: soccer arsenal sports consumerism
 excerpt: Go, Tesco, Go!
