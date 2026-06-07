@@ -1,10 +1,9 @@
 ---
-modified_date: 2025-11-06
+modified_date: 2026-06-06
 layout: post
 title: how to narrate transparently
 permalink: /narrate-transparently
-tags: writing narration point-of-view norman-mailer new-journalism
-
+tags: writing narration new-journalism
 ---
 
 I read half of The Executioner's Song -- Norman Mailer's gargantuan, Pulitzer Prize-winning nonfiction novel about Gary Gilmore -- and figured I could put it down and move on.
