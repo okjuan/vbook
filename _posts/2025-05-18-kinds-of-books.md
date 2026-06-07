@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-12-22
+modified_date: 2026-06-06
 layout: post
 title: "kinds of books"
 permalink: /kinds-of-books
@@ -99,7 +99,7 @@ stacks:
       - title: The End of Absence
         subtitle: by Michael Harris
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398033271i/20821373.jpg
-        commentary: 'Here I will write a bit about this book. Soon!'
+        commentary: I enjoyed reading Harris's writing even though his musings <a href="end-of-absence">rang hollow</a>.
   - description: The kind you read more often because it feels nice in your hands.
     entries:
       - title: Pachinko
