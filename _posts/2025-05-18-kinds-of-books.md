@@ -96,6 +96,11 @@ stacks:
         commentary: 'Here I will write a bit about this book. Soon!'
   - description: The kind you read with distrust.
     entries:
+      - title: Crying in H-Mart
+        subtitle: by Michelle Zauner
+        image_url: https://m.media-amazon.com/images/I/81aS9JndklL._AC_UF1000,1000_QL80_.jpg
+        commentary:
+        commentary: "Reading this book feels like visiting the mind of a people pleaser who is partially aware of their codependent impulses but not able to prevent themselves from giving into them. Most suspicious is Zauner's reverence for her mother. Zauner can't seem to confront the fact that her mother was, among other things, mean. Instead, she blames herself – she was the 'rotten kid,' the naive and selfish one who provoked and justified her mother's anger. Zauner provides some insight into her own psyche, including the fear of abandonment and people pleasing tendencies that resulted from her childhood circumstances, but the sharpest insight comes not from her observations, but from ours as readers. Over and over we see Zauner defer and yield as if eagerly bargaining for a consummate guardian, willing to admit inferiority if it implies the presence of a trustworthy superior. There seems to be in Zauner a persistent anxiety for steadying the relationship that takes precedence above an honest evaluation of her mother's character."
       - title: The End of Absence
         subtitle: by Michael Harris
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398033271i/20821373.jpg
