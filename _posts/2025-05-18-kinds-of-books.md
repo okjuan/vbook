@@ -33,11 +33,11 @@ stacks:
       - title: How to Love
         subtitle: by Thich Nhat Hahn
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415678203i/22309627.jpg
-        commentary: 'Here I will write a bit about this book. Soon!'
+        commentary: When Z and I got married, my mom gave us this book. It is insightful, enigmatic, inspiring, frustrating, and soothing.
       - title: "Sum: forty tales from the afterlives"
         subtitle: by David Eagleman
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328125275i/6564139.jpg
-        commentary: 'Here I will write a bit about this book. Soon!'
+        commentary: An assortment of cheeky fables, bedtime stories for adults. It's whimsical, relaxing, amusing, and thoughtprovoking. A perfect primer for unconscious ruminations, dreams.
   - description: The kind you read slowly over many months – across years even – because in it there's much to chew on and to read it all quickly would be an inferior accomplishment.
     entries:
       - title: Blood Meridian
