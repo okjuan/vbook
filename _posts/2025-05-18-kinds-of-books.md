@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-06-06
+modified_date: 2026-06-07
 layout: post
 title: "kinds of books"
 permalink: /kinds-of-books
@@ -29,7 +29,7 @@ stacks:
       - title: 'A Pattern Language: Towns, Buildings, Construction'
         subtitle: by Christopher Alexander, Sara Ishikawa & Murray Silverstein
         image_url: https://m.media-amazon.com/images/I/41BhLbY+NtL._SY445_SX342_ML2_.jpg
-        commentary: It turns out I was right. It's a very cool book. It inspired me to create <a href="my-pattern-language">my own pattern language</a>.
+        commentary: It would be silly to read this book linearly. I love to fan it open until a pattern catches my attention. I read the few pages that comprise the pattern and then spend time thinking about it. Thinking about where I've seen the pattern, why it makes sense, where I could implement it in my current home. Then I restart the process or follow one of the referenced patterns or close the book. I don't know if I'll ever read all its contents. I don't keep track. Even if I do read it all, by the time I do so, it will be worth reading it again.
       - title: How to Love
         subtitle: by Thich Nhat Hahn
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415678203i/22309627.jpg
