@@ -43,11 +43,11 @@ stacks:
       - title: Blood Meridian
         subtitle: by Cormac McCarthy
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701688704i/394535.jpg
-        commentary: 'Here I will write a bit about this book. Soon!'
+        commentary: This is a work of prose to savor and process. It is vivid and relentlessly rhythmic. It requires sharp attention and a ready appetite.
       - title: The Death and Life of Great American Cities
         subtitle: by Jane Jacobs
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1168135326i/30833.jpg
-        commentary: 'Here I will write a bit about this book. Soon!'
+        commentary: Like I do for <em>A Pattern Language</em>, I read this book in spaced intervals to give myself the opportunity to turn my attention out into the city and notice the author's ideas in the real world. Sometimes it is better to read a book slowly to extend the conversation it has with the rest of your life.
   - description: The kind you listen to attentively while driving or walking or riding the bus.
     entries:
       - title: The World Beyond Your Head
