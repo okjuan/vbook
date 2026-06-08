@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2026-06-07
 layout: post
 title: how to read to learn
 permalink: /read-to-learn
@@ -15,7 +15,7 @@ At a certain point, it just becomes information binging.
 Better to chew on a good morsel, digest it, and move on.
 
 I try to read things I can contemplate and experiment with, or things I can apply immediately.
-I worry less about memorizing facts and instead try to encode the information into my behavior.
+I worry less about memorizing facts and try instead to encode the information into my behavior.
 Pick up a new habit, try a new approach.
 Months and years from now, I won't recall exactly what I took from a book, even if I'm still carrying it with me.
 
