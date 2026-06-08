@@ -33,7 +33,7 @@ stacks:
       - title: How to Love
         subtitle: by Thich Nhat Hahn
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415678203i/22309627.jpg
-        commentary: When Z and I got married, my mom gave us this book. It is insightful, enigmatic, inspiring, frustrating, and soothing.
+        commentary: When Z and I got married, my mom gave us this book. It consists of many tiny chapters that are insightful, enigmatic, inspiring, frustrating, and soothing.
       - title: "Sum: forty tales from the afterlives"
         subtitle: by David Eagleman
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328125275i/6564139.jpg
