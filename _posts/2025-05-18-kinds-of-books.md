@@ -53,7 +53,7 @@ stacks:
       - title: The World Beyond Your Head
         subtitle: by Matthew B. Crawford
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416448116i/22237171.jpg
-        commentary: 'Here I will write a bit about this book. Soon!'
+        commentary: This is one of those books that quietly changed how I understood my relationship with the world. Since reading it, I've thought a lot about <em>attention ecologies</em> and <a href="tags/attention">written about them</a> a good deal. I went on many nighttime walks with Crawford in my ear and he taught me how far beyond my head my mind reaches.
       - title: Born a Crime
         subtitle: by Trevor Noah
         image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473867911i/29780253.jpg
