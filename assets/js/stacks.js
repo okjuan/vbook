@@ -63,7 +63,12 @@ document.addEventListener('DOMContentLoaded', function() {
     function showModal() {
         modal.style.display = 'block';
         modal.scrollTo(0, 0);
-        modal.classList.add('show');
+        // Force a reflow so the browser registers the pre-animation state,
+        // then add the class on the next frame so the transition always plays.
+        void modal.offsetWidth;
+        requestAnimationFrame(() => {
+            modal.classList.add('show');
+        });
     }
 
     // Function to hide modal with animation

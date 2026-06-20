@@ -54,11 +54,17 @@
     flex-direction: column;
     /* Animation properties */
     transform: translateY(-30px) scale(0.95);
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0;
+    /* Promote to its own compositor layer so the open animation
+       composites on the GPU instead of repainting the subtree each frame. */
+    will-change: transform, opacity;
+    backface-visibility: hidden;
 }
 
 .modal.show .modal-content {
     transform: translateY(0) scale(1);
+    opacity: 1;
 }
 
 .entries-grid {
