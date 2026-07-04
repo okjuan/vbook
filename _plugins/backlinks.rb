@@ -26,7 +26,12 @@ module Jekyll
         # ---
         # 1. '&' is the safe navigation operator, which is like the '?.' operator in JS
         # 2. '?' is a convention for methods that return a boolean; it doesn't actually do anything
-        if post&.content&.include?("#{site.baseurl}#{target_post['url']}") || (target_post_file_name != "index" && post&.content&.include?(target_post_file_name))
+        #
+        # Implementation note
+        # ---
+        # We use links_to? (a boundary-aware match) instead of a plain substring include? so that
+        # a link to e.g. "/write-sparely" is not mistakenly counted as a link to "/write".
+        if links_to?(post&.content, "#{site.baseurl}#{target_post['url']}") || (target_post_file_name != "index" && links_to?(post&.content, target_post_file_name))
           if post&.url != target_post['url']
             # Ruby notes
             # ---
@@ -42,6 +47,14 @@ module Jekyll
       else
         return nil
       end
+    end
+
+    # Returns true if `content` links to `target` as a whole slug, i.e. `target` is not
+    # immediately followed by another slug character (a word character or a hyphen).
+    # This prevents "/write" from matching "/write-sparely", etc.
+    def links_to?(content, target)
+      return false if content.nil?
+      !(content =~ /#{Regexp.escape(target)}(?![\w-])/).nil?
     end
   end
 end
