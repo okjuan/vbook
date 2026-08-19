@@ -68,5 +68,5 @@ _Heeheehee._
 _Haaaaa--aaa!_
 _Ha! A-ah!_
 Shouldn't that be Fitzgerald's job?
-And, once he's figured out the salient qualities of a laugh that make it "absurd" yet "charming" and "little", put it into more precise words?
+And, once he's figured out the salient qualities of a laugh that make it _absurd_ yet _charming_ and _little,_ put it into more precise words?
 Maybe if I was an aspiring actor I would relish the task as my own.
