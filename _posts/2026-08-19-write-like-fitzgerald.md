@@ -63,7 +63,10 @@ A few paragraphs later, Fitzgerald employs another adjective chain when introduc
 
 > ...she laughed, an absurd, charming little laugh, and I laughed too and came foward into the room.
 
-To make sense of "an absurd, charming little laugh" I would have to lower my book and try out a few different laughs.
+To make sense of _an absurd, charming little laugh_ I would have to lower my book and try out a few different laughs.
+_Heeheehee._
+_Haaaaa--aaa!_
+_Ha! A-ah!_
 Shouldn't that be Fitzgerald's job?
 And, once he's figured out the salient qualities of a laugh that make it "absurd" yet "charming" and "little", put it into more precise words?
 Maybe if I was an aspiring actor I would relish the task as my own.
