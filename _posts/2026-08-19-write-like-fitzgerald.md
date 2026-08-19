@@ -39,7 +39,7 @@ Here is an excerpt from the first chapter, in which he introduces a character at
 > The front was broken by a line of French windows, glowing now with reflected gold and wide open to the warm windy afternoon, and Tom Buchanan in riding clothes was standing with his legs apart on the front porch.
 
 Again there is a cinematic quality to Fitzgerald's writing.
-The camera in the reader's mind cruises up from the shore all the way over the luxurious property before it settles on the figure of a pompous, wealthy man.
+The camera in the reader's mind cruises up from the shore and over the luxurious property before it settles on the figure of an imposing, wealthy man.
 It reminds me of a scene from Sam Raimi's _Send Help_ (1h7m - 1h8m) shot with a camera floating through the air over a lush beach before revealing its subjects building a hut near the shore.
 
 An aspect of Fitzgerald's writing yet to convince me however is his tendency to string together various adjectives and force the reader to create the image themselves.
