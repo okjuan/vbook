@@ -33,7 +33,7 @@ The image is at once like a blurred impressionistic portrait and like a few seco
 And so palpably it gleams that it's surprising to find that word nowhere in the passage.
 
 Fitzgerald renders images in color and motion, too.
-Here is an excerpt from the first chapter, in which he introduces a character and his mansion on Long Island:
+Here is an excerpt from the first chapter, in which he introduces a character at his mansion on Long Island:
 
 > The lawn started at the beach and ran toward the front door for a quarter of a mile, jumping over sun-dials and brick walks and burning gardens – finally when it reached the house drifting up the side in bright vines as though from the momentum of its run.
 > The front was broken by a line of French windows, glowing now with reflected gold and wide open to the warm windy afternoon, and Tom Buchanan in riding clothes was standing with his legs apart on the front porch.
