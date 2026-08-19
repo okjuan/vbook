@@ -20,9 +20,20 @@ Here's an excerpt from chapter six:
 
 Images flash in Gatsby's mind and so do they in ours.
 Reading this passage I am reminded of an early sequence in Christopher Nolan's _Oppenheimer_ that shows the protagonist's mind hurtling through scientific ideas.
-I'm sure I wouldn't be the first to call Fitzgerald's style impressionistic.
 
-Here is an excerpt from the first chapter, in which Fitzgerald introduces a character and his mansion on Long Island:
+Fitzgerald's style is at times impressionistic, at times movielike, and at times both.
+Here's another _Gatsby_ excerpt from chapter six:
+
+> Almost the last thing I remember was standing with Daisy and watching the movie-picture director and his Star.
+> They were still under the white-plum tree and their faces were touching except for a pale, thing ray of moonlight between.
+> It occurred to me that he had been very slowly bending toward her all evening to attain this proximity, and even while I watched I saw him stoop one ultimate degree and kiss at her cheek.
+
+These two figures and their positions are described so sparely yet vividly.
+The image is at once like a blurred impressionistic portrait and like a few seconds of black and white film.
+And so palpably it gleams that it's surprising to find that word nowhere in the passage.
+
+Fitzgerald renders images in color and motion, too.
+Here is an excerpt from the first chapter, in which he introduces a character and his mansion on Long Island:
 
 > The lawn started at the beach and ran toward the front door for a quarter of a mile, jumping over sun-dials and brick walks and burning gardens – finally when it reached the house drifting up the side in bright vines as though from the momentum of its run.
 > The front was broken by a line of French windows, glowing now with reflected gold and wide open to the warm windy afternoon, and Tom Buchanan in riding clothes was standing with his legs apart on the front porch.
