@@ -19,7 +19,7 @@ Here's an excerpt from chapter six:
 > they were a satisfactory hint of the unreality of reality, a promise that the rock of the world was founded securely on a fairy's wing.
 
 Images flash in Gatsby's mind and so do they in ours.
-Reading this passage I am reminded of an early sequence in Christopher Nolan's _Oppenheimer_ that shows the protagonist's mind hurtling through his scientific ideas.
+Reading this passage I am reminded of an early sequence in Christopher Nolan's _Oppenheimer_ that shows the protagonist's mind hurtling through scientific ideas.
 I'm sure I wouldn't be the first to call Fitzgerald's style impressionistic.
 
 Here is an excerpt from the first chapter, in which Fitzgerald introduces a character and his mansion on Long Island:
