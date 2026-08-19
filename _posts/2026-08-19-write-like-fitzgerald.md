@@ -50,11 +50,14 @@ He concludes a compelling initial description of Tom Buchanan with this underwhe
 What is a _harsh, defiant wistfulness?_
 It offers interesting contrast between _wistfulness_ and its leading adjectives, but it doesn't conjure any specific notion for me.
 For that, a more obliging reader than me would accept responsibility but I need first to be convinced of a writer's technical command and artistic diligence.
+This is the first of Fitzgerald's writing I have read but I am aware that for short stories he wrote and sold to magazines later in his career critics suspected his motivations to be cynical and predominantly financial.
+
+(Rejected phrasings:
 ~~This is the first of Fitzgerald's writing I have read but I am aware that for short stories written later in his career and sold to magazines Fitzgerald was accused by critics for writing...~~
 ~~This is the first of Fitzgerald's writing I have read but I am aware that for short stories written later in his career he was eventually deemed by some critics to be writing purely to sell to magazines and make money.~~
 ~~This is the first of Fitzgerald's writing I have read but I am aware that for short stories he wrote later in his career critics deemed him cynical, writing purely to sell to magazines and make money.~~
 ~~This is the first of Fitzgerald's writing I have read but I am aware that for short stories he wrote later in his career critics suspected the cynical motivation of writing purely to sell to magazines.~~
-This is the first of Fitzgerald's writing I have read but I am aware that for short stories he wrote and sold to magazines later in his career critics suspected his motivations to be cynical and predominantly financial.
+)
 
 A few paragraphs later, Fitzgerald employs another adjective chain when introducing another character:
 
