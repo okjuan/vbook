@@ -40,7 +40,7 @@ Here is an excerpt from the first chapter, in which he introduces a character at
 
 Again there is a cinematic quality to Fitzgerald's writing.
 The camera in the reader's mind cruises up from the shore and over the luxurious property before it settles on the figure of an imposing, wealthy man.
-It reminds me of a scene from Sam Raimi's _Send Help_ (1h7m - 1h8m) shot with a camera floating through the air over a lush beach before revealing its subjects building a hut near the shore.
+It reminds me of a scene from Sam Raimi's _Send Help_ – at 1h7m35s or so – shot with a camera that floats through the air over a lush beach before discovering its subjects building a hut near the shore.
 
 An aspect of Fitzgerald's writing yet to convince me however is his tendency to string together various adjectives and force the reader to create the image themselves.
 He concludes a compelling initial description of Tom Buchanan with this underwhelming phrase:
