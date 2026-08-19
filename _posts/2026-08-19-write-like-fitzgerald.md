@@ -47,8 +47,8 @@ He concludes a compelling initial description of Tom Buchanan with this underwhe
 
 > I always had the impression that [Tom] approved of me and wanted me to like him with some harsh, defiant wistfulness of his own.
 
-What is a "harsh, defiant wistfulness"?
-It offers interesting contrast between wistfulness and its leading adjectives, but it doesn't conjure any specific notion for me.
+What is a _harsh, defiant wistfulness?_
+It offers interesting contrast between _wistfulness_ and its leading adjectives, but it doesn't conjure any specific notion for me.
 For that, a more obliging reader than me would accept responsibility but I need first to be convinced of a writer's technical command and artistic diligence.
 ~~This is the first of Fitzgerald's writing I have read but I am aware that for short stories written later in his career and sold to magazines Fitzgerald was accused by critics for writing...~~
 ~~This is the first of Fitzgerald's writing I have read but I am aware that for short stories written later in his career he was eventually deemed by some critics to be writing purely to sell to magazines and make money.~~
