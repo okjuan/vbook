@@ -3,7 +3,7 @@ modified_date: 2026-08-19
 layout: post
 title: 'how to write like F. Scott Fitzgerald'
 permalink: /write-like-fitzgerald
-tags: writing literature
+tags: writing literature movies imagery
 ---
 
 _The Great Gatsby_ has surpassed my expectations of style.
