@@ -9,7 +9,7 @@ tags: writing literature movies imagery
 _The Great Gatsby_ has surpassed my expectations of style.
 <!--more-->
 F. Scott Fitzgerald was an imaginative writer.
-Here's an except from chapter six:
+Here's an excerpt from chapter six:
 
 > ...[Gatsby's] heart was in a constant, turbulent riot.
 > The most grotesque and fantastic conceits haunted him in his bed at night.
