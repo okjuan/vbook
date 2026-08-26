@@ -31,7 +31,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 #### Tuesday 08/25/2026 -- Bandung
 
 - wake an hour after Z at ~9am, eat breakfast, shower, and get dressed
-- hang out at the house, waiting for Z's family to come over
+- hang out at the house, wait for Z's family to come over
 - hang out with Z's cousin Re in the living room
 - meet Z's baby niece, 8mo daughter of her cousin Di
 - spend time with Z's family
