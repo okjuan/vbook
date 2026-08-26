@@ -25,7 +25,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 
 - board flight to Jakarta, take melatonin, move to free row with Z, and sleep intermittently for the whole flight
 - arrive at Jakarta airport, pick up baggage, buy Visa on Arrival, go through fancy new Customs machines, and meet Z's aunt and cousins at the West Lobby parking lot
-- chat with Z's cousins and snooze on the ~three hour drive to Bandung
+- chat with Z's cousins and snooze on the ~three hour midnight drive to Bandung
 - arrive at Z's grandma's house, eat a snack, and go to sleep
 
 #### Tuesday 08/25/2026 -- Bandung
