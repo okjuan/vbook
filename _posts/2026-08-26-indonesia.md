@@ -51,4 +51,8 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - walk with Z's grandma's maid to nearby tailor to request repair of drawstring on my shorts that tore the day before
 - walk back to the house and research what to do in Bandung
 - walk to Makmur Jaya Coffee Roasters and have two different iced coffee drinks while researching more about Bandung
-- meet with Z and take Grab to Braga
+- meet with Z and take Grab to Pasar Baru
+- eat lunch at the hotel restaurant across the street
+- browse Pasar Baru stalls and Jl. Tamim shops for fabric but they were closed or closing
+- walk to Pasar Barang Antik & Lawas Cikapundung
+- buy Lucy Pearl and Spice Girls tapes, old stamps and French paint brochure
