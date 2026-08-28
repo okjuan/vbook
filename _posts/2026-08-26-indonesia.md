@@ -56,3 +56,26 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - browse Pasar Baru stalls and Jl. Tamim shops for fabric but they were closed or closing
 - walk to Pasar Barang Antik & Lawas Cikapundung
 - buy Lucy Pearl and Spice Girls tapes, old stamps and French paint brochure
+- look at the neighborhood from the third floor balcony and listen to the evening prayer call
+- buy tea and water and take Grab back to Z's grandma's house
+- read _Dubliners_ before bed
+
+#### Thursday 08/27/2026 -- Bandung
+
+- spend an hour or two at D'Fashion looking at fabrics and then discussing with tailors price and time of making a yukata
+- buy batik dobby fabric and decide to find seamstress elsewhere because D'Fashion wanted to charge 750,000
+- take Grab to Paskal 23 Shopping Center
+- eat dinner at Sushi Hiro
+- sit in a bougie tea shop and read _Dubliners_ and reading responses on Reddit
+- walk around mall and listen to _FEAR_ by Jarred Mattson and Ruban Nielson
+- research what water bottle to buy to replace my broken Nalgene
+- help Z decide what to buy
+- get boba iced tea drinks to go and take Grab back to Z's grandma's house
+- read _Dubliners_ before bed
+
+#### Friday 08/28/2026 -- Bandung
+
+- wake and reply to emails from our Strata's property manager
+- research how to get the Development Permit for our building
+- eat breakfast and get picked up by Z's aunt
+- get iced coffee drinks to go from Kopitera
