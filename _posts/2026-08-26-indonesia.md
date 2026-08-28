@@ -62,8 +62,13 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 
 #### Thursday 08/27/2026 -- Bandung
 
+- eat breakfast and drink tea
+- watch Carabao Cup and EFL soccer highlights and look at FPL stats
+- shower and get dressed and take Grab with Z
+- eat lunch at Greens & Beans
+- drink Mont Belang (Mont Blanc) coffee drink at Eskalasi Space (really nice interior architecture)
 - spend an hour or two at D'Fashion looking at fabrics and then discussing with tailors price and time of making a yukata
-- buy batik dobby fabric and decide to find seamstress elsewhere because D'Fashion wanted to charge 750,000
+- buy batik dobby fabric and decide to find tailors elsewhere because D'Fashion wanted to charge 750,000
 - take Grab to Paskal 23 Shopping Center
 - eat dinner at Sushi Hiro
 - sit in a bougie tea shop and read _Dubliners_ and reading responses on Reddit
@@ -79,3 +84,5 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - research how to get the Development Permit for our building
 - eat breakfast and get picked up by Z's aunt
 - get iced coffee drinks to go from Kopitera
+- spend a few hours walking through Taman Hutan Raya Ir. H. Djuanda park seeing monkeys, eating snacks and drinks, and walking through colonial caves
+- try to get into Wheels for lunch
