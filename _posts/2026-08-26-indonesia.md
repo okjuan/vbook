@@ -84,5 +84,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - research how to get the Development Permit for our building
 - eat breakfast and get picked up by Z's aunt
 - get iced coffee drinks to go from Kopitera
-- spend a few hours walking through Taman Hutan Raya Ir. H. Djuanda park seeing monkeys, eating snacks and drinks, and walking through colonial caves
+- spend a few hours walking through Tahura Dago (park) seeing monkeys, eating snacks and drinks, and walking through colonial caves
+- eat perkedel (fried dough balls filled with potato) with fresh sambal with Z and her aunt and drink bottled orange juice while they drink fresh coconut
+- drink cincau before leaving
 - try to get into Wheels for lunch
