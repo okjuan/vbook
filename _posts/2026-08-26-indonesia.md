@@ -87,4 +87,12 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - spend a few hours walking through Tahura Dago (park) seeing monkeys, eating snacks and drinks, and walking through colonial caves
 - eat perkedel (fried dough balls filled with potato) with fresh sambal with Z and her aunt and drink bottled orange juice while they drink fresh coconut
 - drink cincau before leaving
-- try to get into Wheels for lunch
+- eat lunch at Wheels
+- visit two stores searching for wood kitchenware then return to Z's grandma's house
+- hang out with family and eat snacks
+- shower, watch soccer highlights, update FPL team, and go to bed
+
+#### Saturday 08/29/2026 -- Bandung
+- get Mont Blanc to go from Makmur Jaya Coffee Roasters and walk back to Bunda's house
+- walk back to Bunda's house to change and get clothes for Z
+- take Grab bike to Padela padel courts
