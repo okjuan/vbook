@@ -93,6 +93,14 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - shower, watch soccer highlights, update FPL team, and go to bed
 
 #### Saturday 08/29/2026 -- Bandung
-- get Mont Blanc to go from Makmur Jaya Coffee Roasters and walk back to Bunda's house
+- wake and catch up on Strata emails and eat breakfast
+- hang out in airconditioned room, write an email to Strata council, and order iced coffees from Makmur Jaya Coffee Roasters
+- drink coffees downstairs in kitchen with Z and Bunda
+- fill out application forms for requesting documents from the City of Vancouver and email them to our property manager
+- hang out with Z's cousin who came from Jakarta with his parents, teen brother, and young son
+- ask Bunda's maid to do my laundry
+- walk to three different local barbers but the first was permanently closed and the other two didn't do shaves
+- get shave at Captain Barbershop Premiere
+- get Mont Blanc to go from Makmur Jaya and walk back to Bunda's house
 - walk back to Bunda's house to change and get clothes for Z
 - take Grab bike to Padela padel courts
