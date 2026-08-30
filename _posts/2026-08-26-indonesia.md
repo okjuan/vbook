@@ -18,7 +18,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - find out at the gate that the seat requests we made on Chase Travel never reached Air Canada so we'd been each assigned middle seats on opposite sides of the plane
 - sit in the wrong seat by accident, something I've always wondered how people manage to do
 - fly to Tokyo
-- chat with the old Japanese man next to me during takeoff and landing
+- chat during takeoff and landing with the old man next to me who was returning home from a fifth annual trip to Vancouver to study English and get away from Japanese summer weather
 - watch four movies on the plane: _Sentimental Value_, _The Secret Agent_, _My Father's Shadow_, and _Midwinter Break_
 - arrive at Narita aiport, get boarding passes for our next flight, eat ramen, buy snacks and drinks, and go to the gate
 
