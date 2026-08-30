@@ -1,4 +1,5 @@
 ---
+modified_date: 2026-08-30
 layout: post
 title: trip to Indonesia
 permalink: /indonesia
@@ -26,7 +27,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - board flight to Jakarta, take melatonin, move to free row with Z, and sleep intermittently for the whole flight
 - arrive at Jakarta airport, pick up baggage, buy Visa on Arrival, go through fancy new Customs machines, and meet Z's aunt and cousins at the West Lobby parking lot
 - chat with Z's cousins and snooze on the ~three hour midnight drive to Bandung
-- arrive at Z's grandma's house, eat a snack, and go to sleep
+- arrive at Bunda's (Z's grandma's) house, eat a snack, and go to sleep
 
 #### Tuesday 08/25/2026 -- Bandung
 
@@ -38,17 +39,17 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - drive to Paris Van Java mall (PVJ) with Z and her cousins Re & Di
 - eat dinner at Rempah Bistro PVJ and browse stores
 - get drinks from Djournal PVJ and visit a few more stores
-- return to Z's grandma's house and sit in living room with Z's family
+- return to Bunda's house and sit in living room with Z's family
 - write a first email to my friend Hik about movies I watched recently, mostly the ones on the plane
 
 
 #### Wednesday 08/26/2026 -- Bandung
 
 - wake at 6am and spend 2-3 hours doing admin, mostly reading and writing emails to fellow Strata council members, property manager, and lawyer
-- make coffee and eat breakfast with Z's grandma and use Google Translate to communicate
+- make coffee and eat breakfast with Bunda and use Google Translate to communicate
 - watch English soccer highlights in airconditioned bedroom
 - shower and dress
-- walk with Z's grandma's maid to nearby tailor to request repair of drawstring on my shorts that tore the day before
+- walk with Bunda's maid to nearby tailor to request repair of drawstring on my shorts that tore the day before
 - walk back to the house and research what to do in Bandung
 - walk to Makmur Jaya Coffee Roasters and have two different iced coffee drinks while researching more about Bandung
 - meet with Z and take Grab to Pasar Baru
@@ -57,7 +58,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - walk to Pasar Barang Antik & Lawas Cikapundung
 - buy Lucy Pearl and Spice Girls tapes, old stamps and French paint brochure
 - look at the neighborhood from the third floor balcony and listen to the evening prayer call
-- buy tea and water and take Grab back to Z's grandma's house
+- buy tea and water and take Grab back to Bunda's house
 - read _Dubliners_ before bed
 
 #### Thursday 08/27/2026 -- Bandung
@@ -75,7 +76,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - walk around mall and listen to _FEAR_ by Jarred Mattson and Ruban Nielson
 - research what water bottle to buy to replace my broken Nalgene
 - help Z decide what to buy
-- get boba iced tea drinks to go and take Grab back to Z's grandma's house
+- get boba iced tea drinks to go and take Grab back to Bunda's house
 - read _Dubliners_ before bed
 
 #### Friday 08/28/2026 -- Bandung
@@ -88,11 +89,12 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - eat perkedel (fried dough balls filled with potato) with fresh sambal with Z and her aunt and drink bottled orange juice while they drink fresh coconut
 - drink cincau before leaving
 - eat lunch at Wheels
-- visit two stores searching for wood kitchenware then return to Z's grandma's house
+- visit two stores searching for wood kitchenware then return to Bunda's house
 - hang out with family and eat snacks
 - shower, watch soccer highlights, update FPL team, and go to bed
 
 #### Saturday 08/29/2026 -- Bandung
+
 - wake and catch up on Strata emails and eat breakfast
 - hang out in airconditioned room, write an email to Strata council, and order iced coffees from Makmur Jaya Coffee Roasters
 - drink coffees downstairs in kitchen with Z and Bunda
