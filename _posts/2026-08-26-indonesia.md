@@ -20,7 +20,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - fly to Tokyo
 - chat during takeoff and landing with the old man next to me who was returning home from a fifth annual trip to Vancouver to study English and get away from Japanese summer weather
 - watch four movies on the plane: _Sentimental Value_, _The Secret Agent_, _My Father's Shadow_, and _Midwinter Break_
-- arrive at Narita aiport, get boarding passes for our next flight, eat ramen, buy snacks and drinks, and go to the gate
+- arrive at Narita aiport, get boarding passes for our next flight, eat ramen, buy snacks and drinks, and go to the gate for our next flight
 
 #### Monday 08/24/2026 -- Tokyo &#8594; Bandung
 
