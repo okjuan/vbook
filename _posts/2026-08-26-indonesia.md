@@ -16,7 +16,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - get rejected by check-in machines and wait almost an hour in line to get checked in
 - breeze through security with our Nexus cards -- except that for the second time in a row the bodyscanning machines at YVR were convinced I was smuggling something dangerous between my legs so that a security worker had to frisk me in that area
 - find out at the gate that the seat requests we made on Chase Travel never reached Air Canada so we'd been each assigned middle seats on opposite sides of the plane
-- sit in the wrong seat by accident
+- sit in the wrong seat by accident, something I've always wondered how people manage to do
 - fly to Tokyo
 - chat with the old Japanese man next to me during takeoff and landing
 - watch four movies on the plane: _Sentimental Value_, _The Secret Agent_, _My Father's Shadow_, and _Midwinter Break_
