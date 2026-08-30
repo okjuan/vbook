@@ -14,7 +14,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - take out waste, tidy last few things, say bye to Baxter and my sister M
 - get dropped off at YVR by Z's mom
 - get rejected by check-in machines and wait almost an hour in line to get checked in
-- breeze through security with our Nexus cards (except that for the second time in a row the bodyscanning machines at YVR were convinced I was smuggling something dangerous between my legs so that I had to be frisked by an agent)
+- breeze through security with our Nexus cards -- except that for the second time in a row the bodyscanning machines at YVR were convinced I was smuggling something dangerous between my legs so that a security worker had to frisk me in that area
 - find out at the gate that the seat requests we made on Chase Travel never reached Air Canada so we'd been each assigned middle seats on opposite sides of the plane
 - sit in the wrong seat by accident
 - fly to Tokyo
