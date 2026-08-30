@@ -104,5 +104,23 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - walk to three different local barbers but the first was permanently closed and the other two didn't do shaves
 - get shave at Captain Barbershop Premiere
 - get Mont Blanc to go from Makmur Jaya and walk back to Bunda's house
-- walk back to Bunda's house to change and get clothes for Z
-- take Grab bike to Padela padel courts
+- walk back to Bunda's house to get a change of clothes then take Grab bike to Padela padel courts
+- wait for Z's family and then play padel with them for an hour and a half
+- walk back to Bunda's house with Z and her cousin Res
+- hang out with Z's family before they left for dinner an hour drive away
+- watch Liverpool 2-2 Nottingham Forest
+- eat fast food and bubble tea ordered in from Grab
+- shower and watch rest of Everton 1-1 Bournemouth before bed
+
+#### Sunday 08/30/2026 -- Bandung
+
+- eat breakfast: curry soup with rice cakes and susu tofu then a bit of sheep head served in a spicy arabic broth with cherry tomatoes
+- get dressed and head out for Kawah Puti with Z and two of her cousins, Res and Re
+- get coffee drinks and pastries to go from Sarijadi Mandja Coffee
+- sit in backseat reading _Dubliners_ while we drove south out to Bandung's countryside
+- visit Kawah Puti
+- meet with Z's family visiting from Jakarta and hang out at hotsprings resort for an hour or so
+- eat lunch at Bambooberry Resto & Cafe, a restaurant on the mountainside
+- say goodbye to Z's family leaving for Jakarta before driving back to Bunda's house
+- read more _Dubliners_ along with discussions on Reddit
+- watch Chelsea vs Brighton
