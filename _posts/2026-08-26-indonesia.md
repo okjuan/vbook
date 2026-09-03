@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-08-30
+modified_date: 2026-09-03
 layout: post
 title: trip to Indonesia
 permalink: /indonesia
@@ -112,15 +112,76 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - eat fast food and bubble tea ordered in from Grab
 - shower and watch rest of Everton 1-1 Bournemouth before bed
 
-#### Sunday 08/30/2026 -- Bandung
+#### Sunday 08/30/2026 -- Bandung (Kawah Putih)
 
 - eat breakfast: curry soup with rice cakes and susu tofu then a bit of sheep head served in a spicy arabic broth with cherry tomatoes
-- get dressed and head out for Kawah Puti with Z and two of her cousins, Res and Re
+- get dressed and head out for Kawah Putih with Z and two of her cousins, Res and Re
 - get coffee drinks and pastries to go from Sarijadi Mandja Coffee
 - sit in backseat reading _Dubliners_ while we drove south out to Bandung's countryside
-- visit Kawah Puti
+- visit Kawah Putih
 - meet with Z's family visiting from Jakarta and hang out at hotsprings resort for an hour or so
 - eat lunch at Bambooberry Resto & Cafe, a restaurant on the mountainside
 - say goodbye to Z's family leaving for Jakarta before driving back to Bunda's house
 - read more _Dubliners_ along with discussions on Reddit
 - watch Chelsea vs Brighton
+
+#### Monday 08/31/2026 -- Bandung
+
+- get coffee and pastries from Makmur Jaya Coffee Roasters
+- play golf with Z and Mama Nie at Poltak Golf Academy
+- eat lunch at a nice restaurant nearby
+- return to Bunda's house to shower and relax
+- go out for dinner with many of Z's family at Ambrogio Patisserie
+- return to Bunda's house and say goodbye to Z's family and shower and go to bed
+
+#### Tuesday 09/01/2026 -- Bandung &#8594; Bali
+
+- wake and pack and get ready and eat breakfast
+- say goodbye to Bunda and her maid and go to airport with Z's aunt Mama Nie
+- check in and drop off baggage and get drinks before boarding flight
+- read _Dubliners_ while flying to Bali
+- negotiate taxi down from ~600K to 300K
+- check into hotel then walk to Echo Beach for lunch
+- eat and drink and read and relax on terrace on the beach
+- swim in the ocean and catch waves on a body board and without it
+- get drinks on beach before returning to hotel
+- swim at hotel pool and chat and read
+- shower and order thai food on Grab for dinner
+- watch Thomas Flight's new video about Backrooms and then first quarter of Arsenal vs Aston Villa recording
+
+#### Wednesday 09/02/2026 -- Bali (Canggu, Tanah Lot, Kedungu Beach)
+
+- drink coffee and eat breakfast at Little Lima Specialty Coffee
+- get scooter and ride it to Febry's Tailor to hire them to reproduce my yukata using dobby batik fabric I bought in Bandung
+- ride scooter to Tanah Lot and pay for entry
+- visit Tanah Lot and spend an hour or two walking around and taking pictures
+- ride scooter ten or fifteen minutes away towards a restaurant Z found on Google Maps
+- end up at the Swell Hotel and eat lunch there and dip in rooftop pool (just me because Z didn't wear swimming clothes)
+- ride down to Kendungu Beach and come across an impressive two-storey bamboo building
+- admire and approach the building and get invited inside by workers and learn it was "Bamboo Restaurant" and would open in a few weeks
+- ride scooter back to our hotel in Canggu
+- swim in hotel pool and read and then go up to room and shower
+- get couple's massages in our hotel room
+- order thai food for dinner on Grab from the same restaurant as day before
+- watch middle half of Arsenal vs Aston Villa recording
+
+#### Thursday 09/03/2026 -- Bali (Canggu and Ubud)
+
+- drink coffee and eat breakfast at Little Lima Specialty Coffee
+- get scooter and ride fifteen minutes to Learn Bahasa Indonesia - Magdalena Uda in Canggu
+- take an introductory Indonesian language class (1h30)
+- ride scooter ~one hour to Ubud and stop for onde-onde on the side of the road
+- eat lunch at Daybreak Coffee & Eatery
+- ride scooter few hundred meters to Bali Purma Art & Workshop while Z walked
+- spend almost two hours with Z carving a turtle and a lizard out of two blocks of wood
+- brush wax finish onto our carvings and set them down in the sun to dry
+- peruse the workshop gift shop and fool around with a traditional Balinese bamboo xylophone with Z while woodcarver plays a handdrum
+- ride back towards Canggu on a different route
+- stop for a drink at a chic cafe at the edge of rice fields
+- ride back to Canggu in the dark and stop for gas before returning to hotel area
+- eat dinner at Ahara Bali
+- ride back to hotel and return scooter
+- watch last quarter of Arsenal vs Aston Villa recording while Z showers and unwinds
+- shower and unwind
+
+#### Friday 09/04/2026 -- Bali
