@@ -147,7 +147,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - get drinks on beach before returning to hotel
 - swim at hotel pool and chat and read
 - shower and order thai food on Grab for dinner
-- watch Thomas Flight's new video about Backrooms and then first quarter of Arsenal vs Aston Villa recording
+- watch Thomas Flight's new video about _Backrooms_ and then first quarter of Arsenal vs Aston Villa recording
 
 #### Wednesday 09/02/2026 -- Bali (Canggu, Tanah Lot, Kedungu Beach)
 
