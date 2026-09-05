@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-09-03
+modified_date: 2026-09-05
 layout: post
 title: trip to Indonesia
 permalink: /indonesia
@@ -185,3 +185,31 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - shower and unwind
 
 #### Friday 09/04/2026 -- Bali
+
+- wake and pack and get ready and take bags to hotel lobby room to store
+- drink coffee and eat breakfast at Little Lima Specialty Coffee then relax there for a while
+- hang out at Echo Beach all afternoon drinking and eating and swimming and playing Altinha with strangers
+- return to hotel to pick up our bags and get driven to new villa in Canggu
+- buy beer and chips from nearby minimart then swim and relax at villa with Z
+- eat dinner at Barboa Bali
+- buy dessert from minimart and walk back to the villa
+- unwind and go to sleep
+
+#### Saturday 09/05/2026 -- Bali
+
+- wake before 10am and great our friend Na who arrived overnight
+- drink coffee and eat breakfast at Bright Coffee and Brunch
+- get another coffee at Jelajah Coffee Canggu while Z and Na shopped at the pharmacy nextdoor
+- return to villa alone and relax until Z and Na returned
+- go for walk with Z and Na then turn back alone to go rent scooter
+- ride to Z and Na to pick up keys and return to villa
+- relax alone in private pool and listen to music and read _Dubliners_ and read Reddit discussions on it
+- ride scooter to meet Z and Na at Canteen Cafe for lunch
+- peruse boutique with Z and Na before splitting up again
+- cruise around Canggu on scooter before returning to villa alone again
+- relax alone again in private pool and listen to music and browse Reddit
+- ride scooter and check out Pantai Munduk Catu beach and Pantai Batu Bolong
+- ride scooter to Echo Beach and sit alone reading _Dubliners_ and drinking beer
+- meet Z and Na and sit on the beach at Rivermouth Bar to drink and eat while the sun set
+- hang out and chat then ride scooter back to the villa
+- watch Newcastle vs Bournemouth
