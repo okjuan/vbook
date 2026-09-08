@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-09-05
+modified_date: 2026-09-08
 layout: post
 title: trip to Indonesia
 permalink: /indonesia
@@ -225,16 +225,51 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - rent two scooters and ride up to lookout point, Natas Parapuar
 - ride to grocery store to get portable breakfast and drop it off at homestay
 - ride to Fusion Kitchen for dinner
-- ride back to homestay and shower and pack bag for next day
+- ride back to homestay and shower in unheated water and pack bag for next day
 - watch Manchester United 2-2 Everton before bed
 
 #### Monday 09/07/2026 -- Labuan Bajo
 
-- wake at 5:30am and get ready and get picked up at 6am and taken to port
+- wake at 5:30am and watch Arsenal 2-1 Chelsea goals and get ready and get picked up at 6am and taken to port
 - wait ten minutes or so for rest of party to arrive then board boat
-- visit Pulau Padar and hike up stonepaved staircase
+- dock at Padar Island and hike up stonepaved trail and buy a drink at beachside market before boarding boat again
+- cruise around island to a pink beach and swim and relax on the shore
+- return to boat and cruise to sandbar and snorkel near it and walk on sandbar
+- return to boat and cruise to Komodo Island
+- tour with local rangers who carried staffs with dull Yshaped ends
+- see six Komodo dragons up close
+- exit through beachside market selling shirts and figurines and fridge magnets and jewelry
+- eat lunch at covered beachside tables before boarding boat again
+- snorkel at three more locations in vain search of manta rays
+- return to boat and cruise back to Labuan Bajo and get ride back to homestay
+- watch first half of Arsenal 2-1 Chelsea recording while Z showered
+- nap on futon then wake grumpy and take rueful shower in unheated water
+- eat dinner Z ordered in on Grab and finish watching Arsenal match recording before bed
 
 #### Tuesday 09/08/2026 -- Labuan Bajo
 
+- eat breakfast on terrace with Na and Z
+- update my fantasy Premier League team
+- submit a third request to the City of Vancouver for a copy of our strata building's Development Permit
+- email our tax accountant
+- watch Premier League highlights
+- get dressed and picked up at homestay and dropped off at port with Na (Z stayed home feeling sick)
+- pay for our tickets and buy takeaway lunch and eat it while we wait for our boat
+- get on the boat and cruise west along Flores Island
+- snorkel over coral reefs and see many fish and a few turtles
+- get back on boat and go to a tiny island and hike up its little mount
+- drink a beer and hang out with Na at a table on the beach
+- sit outside on rooftop of boat to watch sunset as we coasted to the final location
+- watch the bats fly out at dusk above us and dozens of other boats idling near the shore
+- sit outside at the back of the boat on the nighttime ride back to Labuan Bajo
+- walk up with Jl. Soekarno Hatta to meet Z
+- dinner at Baccalá then get picked up by our host and driven back to homestay
+- relax on upstairs terrace then shower and go to bed
 
 #### Wednesday 09/09/2026 -- Labuan Bajo &#8594; Bali
+
+#### Thursday 09/10/2026 -- Bali
+
+#### Friday 09/11/2026 -- Bali
+
+#### Saturday 09/12/2026 -- Bali &#8594; Vancouver
