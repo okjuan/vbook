@@ -212,4 +212,29 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - ride scooter to Echo Beach and sit alone reading _Dubliners_ and drinking beer
 - meet Z and Na and sit on the beach at Rivermouth Bar to drink and eat while the sun set
 - hang out and chat then ride scooter back to the villa
-- watch Newcastle vs Bournemouth
+- watch Newcastle 2-2 Bournemouth and pick up takeout dinner at halftime
+- shower then watch Manchester City 1-0 Coventry City before bed
+
+#### Sunday 09/06/2026 -- Bali &#8594; Labuan Bajo
+
+- wake and go eat breakfast at Bright Coffee and Brunch
+- return to villa to pack and check out and get Grab to airport and read _Dubliners_
+- store large luggage and check in for flight and get lunch after going through security
+- fly to Labuan Bajo and read _Dubliners_
+- get picked up at airport and taken to our homestay
+- rent two scooters and ride up to lookout point, Natas Parapuar
+- ride to grocery store to get portable breakfast and drop it off at homestay
+- ride to Fusion Kitchen for dinner
+- ride back to homestay and shower and pack bag for next day
+- watch Manchester United 2-2 Everton before bed
+
+#### Monday 09/07/2026 -- Labuan Bajo
+
+- wake at 5:30am and get ready and get picked up at 6am and taken to port
+- wait ten minutes or so for rest of party to arrive then board boat
+- visit Pulau Padar and hike up stonepaved staircase
+
+#### Tuesday 09/08/2026 -- Labuan Bajo
+
+
+#### Wednesday 09/09/2026 -- Labuan Bajo &#8594; Bali
