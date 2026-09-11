@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-09-08
+modified_date: 2026-09-11
 layout: post
 title: trip to Indonesia
 permalink: /indonesia
@@ -266,10 +266,47 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - dinner at Baccalá then get picked up by our host and driven back to homestay
 - relax on upstairs terrace then shower and go to bed
 
-#### Wednesday 09/09/2026 -- Labuan Bajo &#8594; Bali
+#### Wednesday 09/09/2026 -- Labuan Bajo &#8594; Bali (Seminyak)
 
-#### Thursday 09/10/2026 -- Bali
+- wake and dress and eat breakfast on terrace with Z and Na
+- pack and get driven to airport
+- check in and go through security and pause at gift shop
+- run into Mo, one of the guys with whom I played Altinha at Echo Beach
+- get coffees and sit with Mo and Z and Na and chat while we waited for our flight
+- fly to Bali and finish reading _Dubliners_
+- get luggage and exchange phone numbers with Mo then get driven to our new villa in Seminyak
+- get settled at villa then receive my new yukata from Gojek driver
+- swim and relax and listen to music in villa pool while Z and Na picked up lunch from Dod's Burger
+- drop off dirty laundry at lobby of villa hotel for pick up
+- eat and hang out and swim and listen to music at villa
+- order in vietnamese food on Grab for supper
+- shower and unwind
 
-#### Friday 09/11/2026 -- Bali
+#### Thursday 09/10/2026 -- Bali (Waterbom)
+
+- walk to Coffee Cutters Cafe for coffee and breakfast
+- go to a shop across the street while food was being prepared to look at soccer jerseys
+- visit shop three times in total trying to talk down the price of a replica '98 France Zidane jersey
+- decide not to buy because shop attendant wouldn't go lower than 500K rupiah
+- get picked up and driven to Waterbom waterpark
+- spend the day at Waterbom going on slides, lazy river, "Flowrider" waterski emulator, eating, drinking, and relaxing in warm pools
+- buy photos before getting a Grabcar back to Seminyak
+- eat pizza and pasta for dinner at Amalfi Bar
+- watch Arsenal 1-0 Napoli recording then shower and unwind
+
+#### Friday 09/11/2026 -- Bali (Seminyak)
+
+- wake and get dressed
+- drink coffee and eat breakfast and hang out and chat at nearby restaurant
+- return to villa alone to reply to an email from the City of Vancouver regarding my request for our building's Development Permit
+- spend time with Z in villa
+- swim alone and relax while Z and Na went to a browlift appointment
+- buy tickets for an IMAX 70mm showing of _Dune III_ in January and check in for flight back to Vancouver
+- walk to meet Z and Na and eat lunch at Jackson Lily's by Ginger Moon
+- browse shops across the street then split up with Z and Na
+- get ice cream bar from mart and meander aimlessly then meet with Z and Na
+- get Grabcar back to villa alone and swim and read and relax and watch a bit of John Huston's _The Dead_
+- get joined by Z and Na back at the villa and hang out and swim
+- order in vietnamese food on Grab for supper again
 
 #### Saturday 09/12/2026 -- Bali &#8594; Vancouver
