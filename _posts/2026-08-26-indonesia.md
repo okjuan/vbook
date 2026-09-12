@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-09-11
+modified_date: 2026-09-12
 layout: post
 title: trip to Indonesia
 permalink: /indonesia
@@ -297,7 +297,7 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 #### Friday 09/11/2026 -- Bali (Seminyak)
 
 - wake and get dressed
-- drink coffee and eat breakfast and hang out and chat at nearby restaurant
+- drink coffee and eat breakfast at Bloom and hang out and chat at nearby restaurant
 - return to villa alone to reply to an email from the City of Vancouver regarding my request for our building's Development Permit
 - spend time with Z in villa
 - swim alone and relax while Z and Na went to a browlift appointment
@@ -308,5 +308,13 @@ My wife Z and I are visiting her maternal family in Bandung for a week and then 
 - get Grabcar back to villa alone and swim and read and relax and watch a bit of John Huston's _The Dead_
 - get joined by Z and Na back at the villa and hang out and swim
 - order in vietnamese food on Grab for supper again
+- unwind and shower and go to sleep
 
 #### Saturday 09/12/2026 -- Bali &#8594; Vancouver
+
+- wake and pack and leave luggage at lobby of villa hotel
+- get coffee to go from Chew then go to Bloom to drink coffee and eat breakfast
+- walk towards villa hotel and get foot massages and pedicures at nearby spa
+- return to villa to get luggage and load car and say goodbye to Na
+- get driven to airport and check two bags and go through security and sit and eat at food court
+- go to gate and board plane and fly to Taipei
