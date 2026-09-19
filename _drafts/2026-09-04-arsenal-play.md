@@ -54,3 +54,21 @@ Zubimendi adept as rightback.
 Madueke looks sharp and he finished his goal excellently but he just doesn't have Saka's intelligence.
 Arrizabalaga looks ok.
 I think Arsenal fans are too harsh on him, embittered by his fatal error in the Carabao Cup final last season.
+
+### vs Brighton Hove Albion in the Premier League on Sept 19 '26
+
+Like I expected he would, Arteta replaced Lewis-Skelly in the starting eleven withe Guimares. 
+Unfortunately, Guimares has looked poor in the first half.
+
+Brighton have pressed Arsenal out of the game.
+
+I think what Arsenal needs is dribblers.
+One of the few moments when Arsenal worked the ball into the central area near the edge of Brighton's box was when Rice carried it straight up the middle through Brighton's ranks.
+
+In the first few minutes of the second half Arsenal finally had some possession in Brighton's half.
+But it wasn't so much because Arsenal was doing anything different or better but because Brighton let them.
+A few minutes later Brighton was high up in Arsenal's defensive third again pressing and forcing turnovers.
+Yet Arsenal persevered with the same plan to play out of the back.
+I think it was in one of these attempts that Havertz lost the ball and Arsenal conceded a corner that Brighton converted into their third goal.
+At this point the game was vitually lost.
+
