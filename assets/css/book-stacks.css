@@ -1,0 +1,28 @@
+@import url('stacks-base.css');
+
+.stack {
+    aspect-ratio: 0.63;
+    width: auto;
+    height: auto;
+    min-width: 70px;
+    min-height: 110px;
+    max-width: 140px;
+    max-height: 240px;
+    outline: solid;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 10px 10px 1px rgb(145, 160, 161);
+    /* Vertical center alignment */
+    display: flex;
+    overflow: auto;
+    /* Make clickable */
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.stack:hover {
+    transform: translateY(-5px);
+    box-shadow: 10px 15px 1px rgba(145, 160, 161, 0.8);
+    filter: brightness(1.5);
+}
