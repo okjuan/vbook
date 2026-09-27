@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-08-19
+modified_date: 2026-09-27
 layout: post
 title: 'how to write like F. Scott Fitzgerald'
 permalink: /write-like-fitzgerald
@@ -42,7 +42,28 @@ Again there is a cinematic quality to Fitzgerald's writing.
 The camera in the reader's mind cruises up from the shore and over the luxurious property before it settles on the figure of an imposing, wealthy man.
 It reminds me of a scene from Sam Raimi's _Send Help_ – at 1h7m35s or so – shot with a camera that floats through the air over a lush beach before discovering its subjects building a hut near the shore.
 
-An aspect of Fitzgerald's writing yet to convince me however is his tendency to string together various adjectives and force the reader to create the image themselves.
+My favorite few sentences in the book are right near the end.
+Fitzgerald writes about his home.
+He begins:
+> One of my most vivid memories is of coming back West from prep school and later from college at Christmas time.
+> Those who went farther than Chicago would gather in the old dim Union Station at six o'clock of a December evening, with a few Chicago friends, already caught up into their own holiday gayeties, to bid them a hasty good-by.
+
+The passage takes off when Fitzgerald picks out a few choice concrete details:
+
+> I remember the fur coats of the girls returning from Miss This-or-That's and the chatter of frozen breath and the hands waving overhead as we caught sight of old acquaintances, and the matchings of invitations: "Are you going to the Ordways'? the Herseys'? the Schultzes'?" and the long green tickets clasped tight in our gloved hands.
+> And last the murky yellow cars of the Chicago, Milwaukee & St. Paul railroad looking cheerful as Christmas itself on the tracks beside the gate.
+>
+> When we pulled out into the winter night and the real snow, our snow, began to stretch out beside us and twinkle against the windows, and the dim lights of small Wisconsin stations moved by, a sharp wild brace came suddenly into the air.
+> We drew in deep breaths of it as we walked back from dinner through the cold vestibules, unutterably aware of our identity with this country for one strange hour, before we melted indistinguishably into it again.
+
+He ends with an emphatic declaration and several more evocative details:
+
+> That's my Middle West–not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.
+> I am part of that, a little solemn with the feel of those long winters, a little complacent from growing up in the Carraway house in a city where dwellings are still called through decades by a family's name.
+
+---
+
+An aspect of Fitzgerald's writing yet to convince me, however, is his tendency to string together various adjectives and force the reader to create the image themselves.
 He concludes a compelling initial description of Tom Buchanan with this underwhelming phrase:
 
 > I always had the impression that [Tom] approved of me and wanted me to like him with some harsh, defiant wistfulness of his own.
@@ -70,3 +91,14 @@ _Ha! A-ah!_
 Shouldn't that be Fitzgerald's job?
 And, once he's figured out the salient qualities of a laugh that make it _absurd_ yet _charming_ and _little,_ put it into more precise words?
 Maybe if I was an aspiring actor I would relish the task as my own.
+
+In other moments Fitzgerald takes on the job himself.
+Here is his protagonist approaching the scene of a tragic accident just occurred:
+
+> I became aware now of a hollow, wailing sound which issued incessantly from the garage, a sound which as we got out of the coupé and walked toward the door resolved itself into the words "Oh, my God!" uttered over and over in a gasping moan.
+
+We find out the stricken man's name is Wilson.
+Fitzgerald elaborates:
+
+> Some man was talking to him in a low voice and attempting, from time to time, to lay a hand on his shoulder, but Wilson neither heard nor saw. His eyes would drop slowly from the swinging light to the laden table by the wall, and then jerk back to the light again, and he gave out incessantly his high, horrible call:
+> "Oh, my Ga-od! Oh, my Ga-od! Oh, Ga-od! Oh, my Ga-od!"
