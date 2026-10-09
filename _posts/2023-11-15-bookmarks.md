@@ -1,5 +1,5 @@
 ---
-modified_date: 2026-06-24
+modified_date: 2026-10-08
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -40,6 +40,7 @@ They are perhaps more an entertainment company than a journalism firm.
 
 I often come across new sites and I like to save them here to remind myself to check back on them and consider adding them to the small set of sites I frequent.
 Here are sites that haven't made it into my special list but I want to revisit soon:
+- [canadianveggie.com](https://canadianveggie.com/), "an urbanist, vegan, cyclist, parent, and a software engineer" based in Vancouver, BC
 - [eieio.games](https://eieio.games/), a programmer and blogger who wrote a [nice post](https://eieio.games/blog/legibility-of-effort/) about writing & creating in the age of AI
 - [waxy.org](https://waxy.org/), "a place for [Andy Baio's ] writing, research, and explorations of the web" – dubbed "amazing" by nolen i.e. eieio.games
 - [laughinghand.com](https://laughinghand.com/), a visual artist who has illustrated many cafes & theatres in Vancouver, BC
