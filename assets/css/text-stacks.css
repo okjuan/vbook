@@ -1,0 +1,26 @@
+@import url('stacks-base.css');
+
+.stack {
+    aspect-ratio: unset;
+    width: max-content;
+    height: auto;
+    min-width: 70px;
+    outline: solid;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px;
+    /* Vertical center alignment */
+    display: flex;
+    overflow-x: visible;
+    overflow-y: hidden;
+    /* Make clickable */
+    cursor: pointer;
+    transition: all 0.3s ease;
+    /* Prevent text wrapping */
+    white-space: nowrap;
+}
+
+.stack:hover {
+    transform: translateY(-5px);
+    filter: brightness(1.5);
+}
