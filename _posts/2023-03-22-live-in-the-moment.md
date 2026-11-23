@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-03-08
+modified_date: 2026-11-23
 layout: post
 title: how to live in the moment
 permalink: /live-in-the-moment
@@ -18,4 +18,4 @@ You will never make the most of your time.
 It is painfully short and any bid for optimal use of it is doomed.
 Suddenly the original cliche is not about changing your attitude but about accepting that you get what you get.
 The task is not to settle, but to admit defeat.
-Time rules you and the freest you can get is by giving up the fight.
+Time rules you and the freest you can be comes after giving up the fight.
